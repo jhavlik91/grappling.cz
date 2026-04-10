@@ -1,0 +1,47 @@
+{
+  "slug": "demo-prague-open-2026",
+  "name": "Demo Prague Open 2026",
+  "date": "2026-03-15",
+  "country": "CZ",
+  "categories": [
+    {
+      "name": "Gi / Male / Adult (18+) / Blue / Feather (Up to 72.60 kg)",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "Adult (18+)",
+      "belt": "Blue",
+      "weight": "Feather (Up to 72.60 kg)",
+      "athletes": [
+        { "name": "Jan Novák", "country": "CZ", "club": "Czech Top Team", "placement": 1 },
+        { "name": "Petr Svoboda", "country": "CZ", "club": "Penta Gym", "placement": 2 },
+        { "name": "Martin Dvořák", "country": "CZ", "club": "GFTeam CZ", "placement": 3 }
+      ]
+    },
+    {
+      "name": "Gi / Male / Adult (18+) / Purple / Medium Heavy (Up to 88.30 kg)",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "Adult (18+)",
+      "belt": "Purple",
+      "weight": "Medium Heavy (Up to 88.30 kg)",
+      "athletes": [
+        { "name": "Tomáš Kříž", "country": "CZ", "club": "Atos Prague", "placement": 1 },
+        { "name": "Lukáš Procházka", "country": "CZ", "club": "Alliance CZ", "placement": 2 },
+        { "name": "David Horák", "country": "SK", "club": "Gracie Barra Bratislava", "placement": 3 }
+      ]
+    },
+    {
+      "name": "No Gi / Male / Adult (18+) / Blue / Light (Up to 76.00 kg)",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Adult (18+)",
+      "belt": "Blue",
+      "weight": "Light (Up to 76.00 kg)",
+      "athletes": [
+        { "name": "Petr Svoboda", "country": "CZ", "club": "Penta Gym", "placement": 1 },
+        { "name": "Jan Novák", "country": "CZ", "club": "Czech Top Team", "placement": 2 },
+        { "name": "Filip Černý", "country": "CZ", "club": "10th Planet Prague", "placement": 3 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,882 @@
+{
+  "slug": "event-27716",
+  "name": "AGF Event 27716",
+  "date": "2026-04-10",
+  "country": "CZ",
+  "categories": [
+    {
+      "name": "Gi Juveniles - Adults / Male / Adult (18+) / White / Feather (Up to 72.60 kg)",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "Juvenile",
+      "belt": "White",
+      "weight": "up to 72.60 kg",
+      "athletes": [
+        {
+          "name": "Jiří Ortman",
+          "country": "cz",
+          "club": "BulletProof Jiu-Jitsu Harmony Písek",
+          "placement": 1,
+          "userId": 2259856
+        },
+        {
+          "name": "Martin Chládek",
+          "country": "cz",
+          "club": "Pragoplata BJJ",
+          "placement": 2,
+          "userId": 2609867
+        },
+        {
+          "name": "Richard Tache",
+          "country": "sk",
+          "club": "Choketopus gym",
+          "placement": 3,
+          "userId": 2606537
+        }
+      ]
+    },
+    {
+      "name": "Gi Juveniles - Adults / Male / Adult (18+) / White / Light (Up to 79.40 kg)",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "Juvenile",
+      "belt": "White",
+      "weight": "up to 79.40 kg",
+      "athletes": [
+        {
+          "name": "Bleron Gashi",
+          "country": "al",
+          "club": "MMA MUNDIAL Ingolstadt",
+          "placement": 1,
+          "userId": 1899000
+        },
+        {
+          "name": "Tomas Stránský",
+          "country": "cz",
+          "club": "Red Dot Gym",
+          "placement": 2,
+          "userId": 2710397
+        },
+        {
+          "name": "Štěpán Kroupa",
+          "country": "cz",
+          "club": "BulletproofJJ",
+          "placement": 3,
+          "userId": 1686427
+        }
+      ]
+    },
+    {
+      "name": "Gi Juveniles - Adults / Male / Adult (18+) / White / Middle (Up to 86.20 kg)",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "Juvenile",
+      "belt": "White",
+      "weight": "up to 86.20 kg",
+      "athletes": [
+        {
+          "name": "Asadullah Dadaschev",
+          "country": "ru-cri",
+          "club": "ZR Team Austria",
+          "placement": 1,
+          "userId": 1807703
+        },
+        {
+          "name": "Vojtěch Novák",
+          "country": "cz",
+          "club": "",
+          "placement": 2,
+          "userId": 2713344
+        },
+        {
+          "name": "Oliver Irimia",
+          "country": "at",
+          "club": "ZR Team Austria",
+          "placement": 3,
+          "userId": 2473117
+        }
+      ]
+    },
+    {
+      "name": "Gi Juveniles - Adults / Male / Adult (18+) / Blue / Rooster (Up to 60 kg)",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "Juvenile",
+      "belt": "Blue",
+      "weight": "up to 60 kg",
+      "athletes": [
+        {
+          "name": "Armen Bagdasaryan",
+          "country": "us",
+          "club": "Legacy Brazilian Jiu-Jitsu Yerevan",
+          "placement": 1,
+          "userId": 908838
+        },
+        {
+          "name": "Ondřej Koudelka",
+          "country": "cz",
+          "club": "Red Dot Gym",
+          "placement": 2,
+          "userId": 1118971
+        },
+        {
+          "name": "Makhsun Bakhshiyev",
+          "country": "kz",
+          "club": "Naru BJJ and Self-Defence",
+          "placement": 3,
+          "userId": 1672711
+        }
+      ]
+    },
+    {
+      "name": "Gi Juveniles - Adults / Male / Adult (18+) / Blue / Light (Up to 79.40 kg)",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "Juvenile",
+      "belt": "Blue",
+      "weight": "up to 79.40 kg",
+      "athletes": [
+        {
+          "name": "Oldřich Slavík",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "placement": 1,
+          "userId": 1161588
+        },
+        {
+          "name": "Michal Jančík",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "placement": 2,
+          "userId": 217907
+        },
+        {
+          "name": "Samuel Davis",
+          "country": "cz",
+          "club": "BulletproofJJ",
+          "placement": 3,
+          "userId": 526680
+        }
+      ]
+    },
+    {
+      "name": "Gi Juveniles - Adults / Male / Adult (18+) / Blue / Medium Heavy (Up to 93.00 kg)",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "Juvenile",
+      "belt": "Blue",
+      "weight": "up to 93.00 kg",
+      "athletes": [
+        {
+          "name": "René Viktorín",
+          "country": "cz",
+          "club": "DSC GYM CESKA TREBOVA",
+          "placement": 1,
+          "userId": 63984
+        },
+        {
+          "name": "Jan Kvasnička",
+          "country": "cz",
+          "club": "DSC GYM CESKA TREBOVA",
+          "placement": 2,
+          "userId": 79483
+        },
+        {
+          "name": "Михайло Polishchuk",
+          "country": "ua",
+          "club": "Jungle BJJ Prague",
+          "placement": 3,
+          "userId": 1048255
+        }
+      ]
+    },
+    {
+      "name": "Gi Juveniles - Adults / Male / Master 1 (30+) / White / Medium Heavy (Up to 93.00 kg)",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "Juvenile",
+      "belt": "White",
+      "weight": "up to 93.00 kg",
+      "athletes": [
+        {
+          "name": "Martin Bajádi",
+          "country": "hu",
+          "club": "Naru BJJ and Self-Defence",
+          "placement": 1,
+          "userId": 2683300
+        },
+        {
+          "name": "Bartosz Zwoliński",
+          "country": "pl",
+          "club": "Husaria Włocławek",
+          "placement": 2,
+          "userId": 2690754
+        }
+      ]
+    },
+    {
+      "name": "Gi Juveniles - Adults / Male / Master 1 (30+) / Blue / Middle (Up to 86.20 kg)",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "Juvenile",
+      "belt": "Blue",
+      "weight": "up to 86.20 kg",
+      "athletes": [
+        {
+          "name": "Bohdan Lysychenko",
+          "country": "ua",
+          "club": "Jungle BJJ Prague",
+          "placement": 1,
+          "userId": 2589830
+        },
+        {
+          "name": "Filip Špůr",
+          "country": "cz",
+          "club": "Tiger team, Professional club of Martial arts, Prague",
+          "placement": 2,
+          "userId": 1378062
+        }
+      ]
+    },
+    {
+      "name": "Gi Juveniles - Adults / Male / Seniors (40+) / Blue / Light (Up to 79.40 kg)",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "Juvenile",
+      "belt": "Blue",
+      "weight": "up to 79.40 kg",
+      "athletes": [
+        {
+          "name": "S. KingDavis",
+          "country": "us",
+          "club": "",
+          "placement": 1,
+          "userId": 1203818
+        },
+        {
+          "name": "Giuliano Dipoppa",
+          "country": "it",
+          "club": "Jungle BJJ Prague",
+          "placement": 2,
+          "userId": 1686866
+        }
+      ]
+    },
+    {
+      "name": "Gi Juveniles - Adults / Female / Adult (18+) / Blue / Middle (Up to 74.80 kg)",
+      "gi": true,
+      "gender": "Female",
+      "ageGroup": "Juvenile",
+      "belt": "Blue",
+      "weight": "up to 74.80 kg",
+      "athletes": [
+        {
+          "name": "Sofia Rinková",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "placement": 1,
+          "userId": 1631139
+        },
+        {
+          "name": "Martyna Drzewiecka",
+          "country": "pl",
+          "club": "Husaria Włocławek",
+          "placement": 2,
+          "userId": 1892676
+        }
+      ]
+    },
+    {
+      "name": "Gi Juveniles - Adults / Female / Seniors (40+) / Blue /  Light (Up to 68.00 kg)",
+      "gi": true,
+      "gender": "Female",
+      "ageGroup": "Juvenile",
+      "belt": "Blue",
+      "weight": "up to 68.00 kg",
+      "athletes": [
+        {
+          "name": "Lucie Kalinová",
+          "country": "cz",
+          "club": "Liberty BJJ",
+          "placement": 1,
+          "userId": 2696934
+        },
+        {
+          "name": "Magda Hejtmánková",
+          "country": "cz",
+          "club": "Choketopus gym",
+          "placement": 2,
+          "userId": 1646461
+        },
+        {
+          "name": "Kazi Šikolová",
+          "country": "cz",
+          "club": "BulletproofJJ",
+          "placement": 3,
+          "userId": 886864
+        }
+      ]
+    },
+    {
+      "name": "Gi Juveniles / Adults / Male / Master 1 (30+) / Blue / Medium Heavy (Up to 93.00 kg)",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "Juvenile",
+      "belt": "Blue",
+      "weight": "up to 93.00 kg",
+      "athletes": [
+        {
+          "name": "Jan Kodada",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "placement": 1,
+          "userId": 1685191
+        },
+        {
+          "name": "Stanisław Marszałek",
+          "country": "pl",
+          "club": "Husaria Włocławek",
+          "placement": 2,
+          "userId": 2690742
+        },
+        {
+          "name": "Martin Maco",
+          "country": "sk",
+          "club": "Jungle BJJ Prague",
+          "placement": 3,
+          "userId": 873837
+        }
+      ]
+    },
+    {
+      "name": "Gi Juveniles - Adults Challenger / Male / Adult (18+) / White / Challenger II (Up to 999.00 kg)",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "Juvenile",
+      "belt": "White",
+      "weight": "up to 999.00 kg",
+      "athletes": [
+        {
+          "name": "Asadullah Dadaschev",
+          "country": "ru-cri",
+          "club": "ZR Team Austria",
+          "placement": 1,
+          "userId": 1807703
+        },
+        {
+          "name": "Erik Mikóczy",
+          "country": "sk",
+          "club": "BulletproofJJ",
+          "placement": 2,
+          "userId": 2689447
+        },
+        {
+          "name": "Bartosz Zwoliński",
+          "country": "pl",
+          "club": "Husaria Włocławek",
+          "placement": 3,
+          "userId": 2690754
+        }
+      ]
+    },
+    {
+      "name": "Gi Juveniles - Adults Challenger / Male / Adult (18+) / Blue / Challenger I (Up to 79.50 kg)",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "Juvenile",
+      "belt": "Blue",
+      "weight": "up to 79.50 kg",
+      "athletes": [
+        {
+          "name": "Oldřich Slavík",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "placement": 1,
+          "userId": 1161588
+        },
+        {
+          "name": "S. KingDavis",
+          "country": "us",
+          "club": "Jungle BJJ Prague",
+          "placement": 2,
+          "userId": 1203818
+        },
+        {
+          "name": "Honza Petrů",
+          "country": "cz",
+          "club": "Penta Gym Prague",
+          "placement": 3,
+          "userId": 385961
+        }
+      ]
+    },
+    {
+      "name": "Gi Juveniles - Adults Challenger / Male / Master 1 (30+) / Blue / Challenger II (Up to 999.00 kg)",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "Juvenile",
+      "belt": "Blue",
+      "weight": "up to 999.00 kg",
+      "athletes": [
+        {
+          "name": "Jan Kodada",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "placement": 1,
+          "userId": 1685191
+        },
+        {
+          "name": "Martin Maco",
+          "country": "sk",
+          "club": "Jungle BJJ Prague",
+          "placement": 2,
+          "userId": 873837
+        },
+        {
+          "name": "Maksym Bugai",
+          "country": "ua",
+          "club": "Jungle BJJ Prague",
+          "placement": 3,
+          "userId": 1278408
+        }
+      ]
+    },
+    {
+      "name": "Gi Juveniles - Adults Challenger / Male / Executives (50+) / Blue / Challenger II (Up to 999.00 kg)",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "Juvenile",
+      "belt": "Blue",
+      "weight": "up to 999.00 kg",
+      "athletes": [
+        {
+          "name": "Radek Čermák",
+          "country": "cz",
+          "club": "Octopus Liberec",
+          "placement": 1,
+          "userId": 945920
+        },
+        {
+          "name": "Roman Dymanus",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "placement": 2,
+          "userId": 1933263
+        }
+      ]
+    },
+    {
+      "name": "Gi Juveniles - Adults Challenger / Female / Adult (18+) / Blue / Challenger II (Up to 999.00 kg)",
+      "gi": true,
+      "gender": "Female",
+      "ageGroup": "Juvenile",
+      "belt": "Blue",
+      "weight": "up to 999.00 kg",
+      "athletes": [
+        {
+          "name": "Lucie Kalinová",
+          "country": "cz",
+          "club": "Liberty BJJ",
+          "placement": 1,
+          "userId": 2696934
+        },
+        {
+          "name": "Martyna Drzewiecka",
+          "country": "pl",
+          "club": "Husaria Włocławek",
+          "placement": 2,
+          "userId": 1892676
+        }
+      ]
+    },
+    {
+      "name": "No Gi Juveniles - Adults / Male / Juvenile / Blue / Light Feather (Up to 65.80 kg)",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Juvenile",
+      "belt": "Blue",
+      "weight": "up to 65.80 kg",
+      "athletes": [
+        {
+          "name": "Jaromír Roggenbuck",
+          "country": "cz",
+          "club": "Red Dot Gym",
+          "placement": 1,
+          "userId": 1714280
+        },
+        {
+          "name": "Filip Richtárik",
+          "country": "sk",
+          "club": "Base Bjj Nitra",
+          "placement": 2,
+          "userId": 1225244
+        }
+      ]
+    },
+    {
+      "name": "No Gi Juveniles - Adults / Male / Adult (18+) / White / Light Feather (Up to 65.80 kg)",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Juvenile",
+      "belt": "White",
+      "weight": "up to 65.80 kg",
+      "athletes": [
+        {
+          "name": "Jan Šubrt",
+          "country": "cz",
+          "club": "RBSD Šumperk",
+          "placement": 1,
+          "userId": 348576
+        },
+        {
+          "name": "Matej Busovsky",
+          "country": "cz",
+          "club": "Pragoplata BJJ",
+          "placement": 2,
+          "userId": 2464604
+        },
+        {
+          "name": "Tomáš Havlík",
+          "country": "cz",
+          "club": "Pragoplata BJJ",
+          "placement": 3,
+          "userId": 2619240
+        }
+      ]
+    },
+    {
+      "name": "No Gi Juveniles - Adults / Male / Adult (18+) / White / Feather (Up to 72.60 kg)",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Juvenile",
+      "belt": "White",
+      "weight": "up to 72.60 kg",
+      "athletes": [
+        {
+          "name": "Daniel Merta",
+          "country": "cz",
+          "club": "RBSD Šumperk",
+          "placement": 1,
+          "userId": 2713332
+        },
+        {
+          "name": "Jiří Ortman",
+          "country": "cz",
+          "club": "BulletProof Jiu-Jitsu Harmony Písek",
+          "placement": 2,
+          "userId": 2259856
+        },
+        {
+          "name": "Antonín Hájek",
+          "country": "cz",
+          "club": "Grappling Squad Praha",
+          "placement": 3,
+          "userId": 1710007
+        }
+      ]
+    },
+    {
+      "name": "No Gi Juveniles - Adults / Male / Adult (18+) / White / Light (Up to 79.40 kg)",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Juvenile",
+      "belt": "White",
+      "weight": "up to 79.40 kg",
+      "athletes": [
+        {
+          "name": "Lukáš Duras",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "placement": 1,
+          "userId": 2607916
+        },
+        {
+          "name": "Bleron Gashi",
+          "country": "al",
+          "club": "MMA MUNDIAL Ingolstadt",
+          "placement": 2,
+          "userId": 1899000
+        },
+        {
+          "name": "Štěpán Kroupa",
+          "country": "cz",
+          "club": "BulletproofJJ",
+          "placement": 3,
+          "userId": 1686427
+        }
+      ]
+    },
+    {
+      "name": "No Gi Juveniles - Adults / Male / Adult (18+) / White / Middle (Up to 86.20 kg)",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Juvenile",
+      "belt": "White",
+      "weight": "up to 86.20 kg",
+      "athletes": [
+        {
+          "name": "Asadullah Dadaschev",
+          "country": "ru-cri",
+          "club": "ZR Team Austria",
+          "placement": 1,
+          "userId": 1807703
+        },
+        {
+          "name": "Max Bersin",
+          "country": "de",
+          "club": "Home of Sports Elbflorenz",
+          "placement": 2,
+          "userId": 974636
+        },
+        {
+          "name": "Oliver Irimia",
+          "country": "at",
+          "club": "ZR Team Austria",
+          "placement": 3,
+          "userId": 2473117
+        }
+      ]
+    },
+    {
+      "name": "No Gi Juveniles - Adults / Male / Adult (18+) / White / Medium Heavy (Up to 93.00 kg)",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Juvenile",
+      "belt": "White",
+      "weight": "up to 93.00 kg",
+      "athletes": [
+        {
+          "name": "Šimon Lucký",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "placement": 1,
+          "userId": 2034741
+        },
+        {
+          "name": "Dominik Bárta",
+          "country": "cz",
+          "club": "KH BJJ",
+          "placement": 2,
+          "userId": 2484601
+        },
+        {
+          "name": "Bartosz Zwoliński",
+          "country": "pl",
+          "club": "Husaria Włocławek",
+          "placement": 3,
+          "userId": 2690754
+        }
+      ]
+    },
+    {
+      "name": "No Gi Juveniles - Adults / Male / Adult (18+) / Blue / Rooster (Up to 60 kg)",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Juvenile",
+      "belt": "Blue",
+      "weight": "up to 60 kg",
+      "athletes": [
+        {
+          "name": "Armen Bagdasaryan",
+          "country": "us",
+          "club": "Legacy Brazilian Jiu-Jitsu Yerevan",
+          "placement": 1,
+          "userId": 908838
+        },
+        {
+          "name": "Ondřej Koudelka",
+          "country": "cz",
+          "club": "Red Dot Gym",
+          "placement": 2,
+          "userId": 1118971
+        },
+        {
+          "name": "Makhsun Bakhshiyev",
+          "country": "kz",
+          "club": "Naru BJJ and Self-Defence",
+          "placement": 3,
+          "userId": 1672711
+        }
+      ]
+    },
+    {
+      "name": "No Gi Juveniles - Adults / Male / Adult (18+) / Blue / Light (Up to 79.40 kg)",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Juvenile",
+      "belt": "Blue",
+      "weight": "up to 79.40 kg",
+      "athletes": [
+        {
+          "name": "Julian Bar",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "placement": 1,
+          "userId": 1392785
+        },
+        {
+          "name": "Giuliano Dipoppa",
+          "country": "it",
+          "club": "Jungle BJJ Prague",
+          "placement": 2,
+          "userId": 1686866
+        },
+        {
+          "name": "Samuel Davis",
+          "country": "cz",
+          "club": "BulletproofJJ",
+          "placement": 3,
+          "userId": 526680
+        }
+      ]
+    },
+    {
+      "name": "No Gi Juveniles - Adults / Male / Adult (18+) / Blue / Medium Heavy (Up to 93.00 kg)",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Juvenile",
+      "belt": "Blue",
+      "weight": "up to 93.00 kg",
+      "athletes": [
+        {
+          "name": "Gevorg Mazmanov",
+          "country": "am",
+          "club": "Medo Gym Rosice",
+          "placement": 1,
+          "userId": 561580
+        },
+        {
+          "name": "Михайло Polishchuk",
+          "country": "ua",
+          "club": "Jungle BJJ Prague",
+          "placement": 2,
+          "userId": 1048255
+        },
+        {
+          "name": "Zoltan Richtarik",
+          "country": "sk",
+          "club": "Base Bjj Nitra",
+          "placement": 3,
+          "userId": 1221064
+        }
+      ]
+    },
+    {
+      "name": "No Gi Juveniles - Adults / Male / Master 1 (30+) / Blue / Medium Heavy (Up to 93.00 kg)",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Juvenile",
+      "belt": "Blue",
+      "weight": "up to 93.00 kg",
+      "athletes": [
+        {
+          "name": "Radek Beneš",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "placement": 1,
+          "userId": 512721
+        },
+        {
+          "name": "Martin Maco",
+          "country": "sk",
+          "club": "Jungle BJJ Prague",
+          "placement": 2,
+          "userId": 873837
+        },
+        {
+          "name": "Stanisław Marszałek",
+          "country": "pl",
+          "club": "Husaria Włocławek",
+          "placement": 3,
+          "userId": 2690742
+        }
+      ]
+    },
+    {
+      "name": "No Gi Juveniles - Adults Challenger / Male / Adult (18+) / White / Challenger I (Up to 79.50 kg)",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Juvenile",
+      "belt": "White",
+      "weight": "up to 79.50 kg",
+      "athletes": [
+        {
+          "name": "Jan Skořepa",
+          "country": "cz",
+          "club": "Choketopus gym",
+          "placement": 1,
+          "userId": 2592015
+        },
+        {
+          "name": "Muhammad Hammad",
+          "country": "de",
+          "club": "Hammerbrook Gym / Ivory MMA",
+          "placement": 2,
+          "userId": 1889315
+        },
+        {
+          "name": "David Dau",
+          "country": "vn",
+          "club": "Jungle BJJ Prague",
+          "placement": 3,
+          "userId": 2584550
+        }
+      ]
+    },
+    {
+      "name": "No Gi Juveniles - Adults Challenger / Male / Adult (18+) / White / Challenger II (Up to 999.00 kg)",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Juvenile",
+      "belt": "White",
+      "weight": "up to 999.00 kg",
+      "athletes": [
+        {
+          "name": "Asadullah Dadaschev",
+          "country": "ru-cri",
+          "club": "ZR Team Austria",
+          "placement": 1,
+          "userId": 1807703
+        },
+        {
+          "name": "Dominik Bárta",
+          "country": "cz",
+          "club": "KH BJJ",
+          "placement": 2,
+          "userId": 2484601
+        }
+      ]
+    },
+    {
+      "name": "No Gi Juveniles - Adults Challenger / Male / Adult (18+) / Blue / Challenger II (Up to 999.00 kg)",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Juvenile",
+      "belt": "Blue",
+      "weight": "up to 999.00 kg",
+      "athletes": [
+        {
+          "name": "Radek Beneš",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "placement": 1,
+          "userId": 512721
+        },
+        {
+          "name": "Zoltan Richtarik",
+          "country": "sk",
+          "club": "Base Bjj Nitra",
+          "placement": 2,
+          "userId": 1221064
+        },
+        {
+          "name": "Martin Maco",
+          "country": "sk",
+          "club": "Jungle BJJ Prague",
+          "placement": 3,
+          "userId": 873837
+        }
+      ]
+    }
+  ]
+}

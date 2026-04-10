@@ -1,0 +1,18 @@
+{
+  "eventResults": [
+    {
+        "id": 1364867,
+        "published": true,
+        "group": {
+            "name": "Men No-GI / Beginner / -66 kg"
+        },
+        "top3": [
+            {
+                "placement": 1,
+                "club": { "name": "RBSD Šumperk" },
+                "target": { "fullname": "Jan Šubrt", "country_human": "Czechia" }
+            }
+        ]
+    }
+  ]
+}

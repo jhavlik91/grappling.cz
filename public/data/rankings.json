@@ -1,0 +1,7152 @@
+{
+  "updatedAt": "2026-04-10T15:15:49.792Z",
+  "gi": {
+    "Male": {
+      "White": [
+        {
+          "name": "Jiří Ortman",
+          "country": "cz",
+          "club": "BulletProof Jiu-Jitsu Harmony Písek",
+          "belt": "White",
+          "points": 19,
+          "gold": 2,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28098",
+            "event-27716",
+            "event-28045"
+          ],
+          "rank": 1
+        },
+        {
+          "name": "Asadullah Dadaschev",
+          "country": "ru-cri",
+          "club": "ZR Team Austria",
+          "belt": "White",
+          "points": 18,
+          "gold": 2,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 2
+        },
+        {
+          "name": "André Dravecký",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "belt": "White",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 3
+        },
+        {
+          "name": "Bleron Gashi",
+          "country": "al",
+          "club": "MMA MUNDIAL Ingolstadt",
+          "belt": "White",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 3
+        },
+        {
+          "name": "Bohdan Lysychenko",
+          "country": "ua",
+          "club": "Jungle BJJ Prague",
+          "belt": "White",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 3
+        },
+        {
+          "name": "Damir Fijuljanin",
+          "country": "at",
+          "club": "Roberto Pastuch Dojo",
+          "belt": "White",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 3
+        },
+        {
+          "name": "Daniel Lukš",
+          "country": "cz",
+          "club": "Tiger gym",
+          "belt": "White",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 3
+        },
+        {
+          "name": "David Hegyi",
+          "country": "sk",
+          "club": "Bősi Kempo MMA & BJJ",
+          "belt": "White",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 3
+        },
+        {
+          "name": "Dominik Ďurák",
+          "country": "sk",
+          "club": "Fighting gym Topoľčany",
+          "belt": "White",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 3
+        },
+        {
+          "name": "Emir-Kaan Torlak",
+          "country": "tr",
+          "club": "EVLTN Martial Arts Berlin",
+          "belt": "White",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 3
+        },
+        {
+          "name": "Fabio Schmola",
+          "country": "de",
+          "club": "MFC Moszat Fight Club/Roger Gracie Academy Regensburg",
+          "belt": "White",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 3
+        },
+        {
+          "name": "Filip Krauz",
+          "country": "cz",
+          "club": "BJJ Beroun",
+          "belt": "White",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 3
+        },
+        {
+          "name": "František Jureček",
+          "country": "cz",
+          "club": "Draculino Karviná",
+          "belt": "White",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 3
+        },
+        {
+          "name": "Ivan Kroslak",
+          "country": "sk",
+          "club": "Base Bjj Nitra",
+          "belt": "White",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 3
+        },
+        {
+          "name": "Jan Kvasnička",
+          "country": "cz",
+          "club": "DSC GYM CESKA TREBOVA",
+          "belt": "White",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 3
+        },
+        {
+          "name": "Jan Škarpa",
+          "country": "cz",
+          "club": "Draculino Havířov",
+          "belt": "White",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 3
+        },
+        {
+          "name": "Lukáš Kubát",
+          "country": "cz",
+          "club": "Delta gym",
+          "belt": "White",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28782"
+          ],
+          "rank": 3
+        },
+        {
+          "name": "Martin Bajádi",
+          "country": "hu",
+          "club": "Naru BJJ and Self-Defence",
+          "belt": "White",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 3
+        },
+        {
+          "name": "Matúš Kováč",
+          "country": "sk",
+          "club": "Chaos Bratislava",
+          "belt": "White",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 3
+        },
+        {
+          "name": "Matus Kubovic",
+          "country": "sk",
+          "club": "BJJSLOVAKIA",
+          "belt": "White",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 3
+        },
+        {
+          "name": "Mehmet Er",
+          "country": "tr",
+          "club": "EVLTN Martial Arts Berlin",
+          "belt": "White",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 3
+        },
+        {
+          "name": "Oleksii Riabushkin",
+          "country": "ua",
+          "club": "Ratiborets Vienna",
+          "belt": "White",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 3
+        },
+        {
+          "name": "Ondřej Koudelka",
+          "country": "cz",
+          "club": "Red Dot Gym",
+          "belt": "White",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 3
+        },
+        {
+          "name": "Péter Bence Kertész",
+          "country": "hu",
+          "club": "",
+          "belt": "White",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 3
+        },
+        {
+          "name": "Petr Veselý",
+          "country": "cz",
+          "club": "Draculino Ostrava",
+          "belt": "White",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 3
+        },
+        {
+          "name": "Bartosz Zwoliński",
+          "country": "pl",
+          "club": "Husaria Włocławek",
+          "belt": "White",
+          "points": 4,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 1,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 26
+        },
+        {
+          "name": "Jiří Kořán",
+          "country": "cz",
+          "club": "Tora Academy",
+          "belt": "White",
+          "points": 4,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 1,
+          "events": [
+            "event-28098",
+            "event-30095"
+          ],
+          "rank": 26
+        },
+        {
+          "name": "Štěpán Kroupa",
+          "country": "cz",
+          "club": "BulletproofJJ",
+          "belt": "White",
+          "points": 4,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 1,
+          "events": [
+            "event-28098",
+            "event-27716"
+          ],
+          "rank": 26
+        },
+        {
+          "name": "Ashab Chaciev",
+          "country": "at",
+          "club": "Gremlin Jiu Jitsu",
+          "belt": "White",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 29
+        },
+        {
+          "name": "Bartosz BUGARA",
+          "country": "pl",
+          "club": "",
+          "belt": "White",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 29
+        },
+        {
+          "name": "Danil Bratkovskii",
+          "country": "ru",
+          "club": "Jungle BJJ Prague",
+          "belt": "White",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 29
+        },
+        {
+          "name": "Dominik Vašků",
+          "country": "cz",
+          "club": "CTFT MMA",
+          "belt": "White",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28782"
+          ],
+          "rank": 29
+        },
+        {
+          "name": "Erik Mikóczy",
+          "country": "sk",
+          "club": "BulletproofJJ",
+          "belt": "White",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 29
+        },
+        {
+          "name": "Jakub Vodvářka",
+          "country": "cz",
+          "club": "Sportovní Klub Pretorian Pardubice",
+          "belt": "White",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 29
+        },
+        {
+          "name": "Jan Hajný",
+          "country": "cz",
+          "club": "Lanna",
+          "belt": "White",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 29
+        },
+        {
+          "name": "Karol Labaj",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "belt": "White",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 29
+        },
+        {
+          "name": "Laurenz Gruber",
+          "country": "at",
+          "club": "Art of Flow Austria",
+          "belt": "White",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 29
+        },
+        {
+          "name": "Marián Maxin",
+          "country": "sk",
+          "club": "Base Bjj Nitra",
+          "belt": "White",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 29
+        },
+        {
+          "name": "Martin Antos",
+          "country": "sk",
+          "club": "Jungle BJJ Prague",
+          "belt": "White",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 29
+        },
+        {
+          "name": "Martin Chládek",
+          "country": "cz",
+          "club": "Pragoplata BJJ",
+          "belt": "White",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 29
+        },
+        {
+          "name": "Martin Dobřanský",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "belt": "White",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 29
+        },
+        {
+          "name": "Martin Rokoš",
+          "country": "cz",
+          "club": "BulletproofJJ",
+          "belt": "White",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 29
+        },
+        {
+          "name": "Michal Kyselica",
+          "country": "cz",
+          "club": "Tora Academy",
+          "belt": "White",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 29
+        },
+        {
+          "name": "Niek Gerritsen",
+          "country": "nl",
+          "club": "Jungle BJJ Prague",
+          "belt": "White",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 29
+        },
+        {
+          "name": "Petr Švarc",
+          "country": "cz",
+          "club": "Liberty BJJ",
+          "belt": "White",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 29
+        },
+        {
+          "name": "Ramy Ouf",
+          "country": "eg",
+          "club": "ROGER GRACIE ACADEMY AUSTRIA",
+          "belt": "White",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 29
+        },
+        {
+          "name": "Tomas Stránský",
+          "country": "cz",
+          "club": "Red Dot Gym",
+          "belt": "White",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 29
+        },
+        {
+          "name": "VADIM TRIBRATENKO",
+          "country": "ru",
+          "club": "OG BJJ",
+          "belt": "White",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 29
+        },
+        {
+          "name": "Vít Voráček",
+          "country": "cz",
+          "club": "Tora Academy",
+          "belt": "White",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 29
+        },
+        {
+          "name": "Vítězslav Langer",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "belt": "White",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 29
+        },
+        {
+          "name": "Vojtěch Novák",
+          "country": "cz",
+          "club": "",
+          "belt": "White",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 29
+        },
+        {
+          "name": "Vukasin Todic",
+          "country": "ba",
+          "club": "Panthers Fight School",
+          "belt": "White",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 29
+        },
+        {
+          "name": "Matej Baláž",
+          "country": "sk",
+          "club": "Dracula Gym",
+          "belt": "White",
+          "points": 2,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 2,
+          "events": [
+            "event-30095",
+            "event-28045"
+          ],
+          "rank": 53
+        },
+        {
+          "name": "Daniel Olejník",
+          "country": "cz",
+          "club": "Liberty BJJ",
+          "belt": "White",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 54
+        },
+        {
+          "name": "Hüseyin Demir",
+          "country": "de",
+          "club": "AKXE BJJ GERMANY",
+          "belt": "White",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 54
+        },
+        {
+          "name": "Jakub Ditrich",
+          "country": "cz",
+          "club": "Tora Academy",
+          "belt": "White",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 54
+        },
+        {
+          "name": "Jan Hruška",
+          "country": "cz",
+          "club": "DSC GYM CESKA TREBOVA",
+          "belt": "White",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 54
+        },
+        {
+          "name": "Jan Urban",
+          "country": "cz",
+          "club": "SWAG Academy",
+          "belt": "White",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 54
+        },
+        {
+          "name": "Jozef Bozó",
+          "country": "sk",
+          "club": "Bilishich Martial Arts Academy",
+          "belt": "White",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 54
+        },
+        {
+          "name": "Ľuboš Gregorík",
+          "country": "sk",
+          "club": "Arte Suave Martin",
+          "belt": "White",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 54
+        },
+        {
+          "name": "Lukas Kubasek",
+          "country": "cz",
+          "club": "5th Dimension BJJ",
+          "belt": "White",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 54
+        },
+        {
+          "name": "Marcel Smolík",
+          "country": "cz",
+          "club": "Draculino Ostrava",
+          "belt": "White",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 54
+        },
+        {
+          "name": "Marek Vágner",
+          "country": "cz",
+          "club": "",
+          "belt": "White",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 54
+        },
+        {
+          "name": "Martin Rolín",
+          "country": "cz",
+          "club": "Delta gym",
+          "belt": "White",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28782"
+          ],
+          "rank": 54
+        },
+        {
+          "name": "Miroslav Petřík",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "belt": "White",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 54
+        },
+        {
+          "name": "Nicolas Valenta",
+          "country": "cz",
+          "club": "Liberty BJJ",
+          "belt": "White",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 54
+        },
+        {
+          "name": "Oliver Irimia",
+          "country": "at",
+          "club": "ZR Team Austria",
+          "belt": "White",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 54
+        },
+        {
+          "name": "Pavel Tonka",
+          "country": "cz",
+          "club": "Draculino Karviná",
+          "belt": "White",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 54
+        },
+        {
+          "name": "Richard Tache",
+          "country": "sk",
+          "club": "Choketopus gym",
+          "belt": "White",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 54
+        },
+        {
+          "name": "Rostislav Csík",
+          "country": "cz",
+          "club": "Draculino Karviná",
+          "belt": "White",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 54
+        },
+        {
+          "name": "Simon Neumeier-Giampietro",
+          "country": "de",
+          "club": "AKXE BJJ GERMANY",
+          "belt": "White",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 54
+        },
+        {
+          "name": "Tomáš Jurman",
+          "country": "cz",
+          "club": "SWAG Academy",
+          "belt": "White",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 54
+        }
+      ],
+      "Blue": [
+        {
+          "name": "Jan Kodada",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "belt": "Blue",
+          "points": 27,
+          "gold": 3,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-27716",
+            "event-28045"
+          ],
+          "rank": 1
+        },
+        {
+          "name": "Oldřich Slavík",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "belt": "Blue",
+          "points": 18,
+          "gold": 2,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 2
+        },
+        {
+          "name": "Radek Čermák",
+          "country": "cz",
+          "club": "Octopus Liberec",
+          "belt": "Blue",
+          "points": 18,
+          "gold": 2,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-27716",
+            "event-30095"
+          ],
+          "rank": 2
+        },
+        {
+          "name": "Roman Dymanus",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "belt": "Blue",
+          "points": 15,
+          "gold": 1,
+          "silver": 2,
+          "bronze": 0,
+          "events": [
+            "event-27716",
+            "event-30095",
+            "event-28045"
+          ],
+          "rank": 4
+        },
+        {
+          "name": "Michael Hrdý",
+          "country": "cz",
+          "club": "Sportovní Klub Pretorian Pardubice",
+          "belt": "Blue",
+          "points": 12,
+          "gold": 1,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-30095",
+            "event-28045"
+          ],
+          "rank": 5
+        },
+        {
+          "name": "S. KingDavis",
+          "country": "us",
+          "club": "Jungle BJJ Prague",
+          "belt": "Blue",
+          "points": 12,
+          "gold": 1,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 5
+        },
+        {
+          "name": "Михайло Polishchuk",
+          "country": "ua",
+          "club": "Jungle BJJ Prague",
+          "belt": "Blue",
+          "points": 11,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 2,
+          "events": [
+            "event-27716",
+            "event-30095",
+            "event-28045"
+          ],
+          "rank": 7
+        },
+        {
+          "name": "Daniel Peša",
+          "country": "cz",
+          "club": "Panther BJJ Boskovice",
+          "belt": "Blue",
+          "points": 10,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28098",
+            "event-28045"
+          ],
+          "rank": 8
+        },
+        {
+          "name": "Dmytro Kulichkovskyi",
+          "country": "ua",
+          "club": "ZR Team KOŠICE",
+          "belt": "Blue",
+          "points": 10,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-30095",
+            "event-28045"
+          ],
+          "rank": 8
+        },
+        {
+          "name": "Aleksander Woczka",
+          "country": "pl",
+          "club": "Academia Gorila",
+          "belt": "Blue",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 10
+        },
+        {
+          "name": "Aleš Sedlák",
+          "country": "sk",
+          "club": "CHECKMAT SLOVAKIA",
+          "belt": "Blue",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 10
+        },
+        {
+          "name": "Armen Bagdasaryan",
+          "country": "us",
+          "club": "Legacy Brazilian Jiu-Jitsu Yerevan",
+          "belt": "Blue",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 10
+        },
+        {
+          "name": "Bohdan Lysychenko",
+          "country": "ua",
+          "club": "Jungle BJJ Prague",
+          "belt": "Blue",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 10
+        },
+        {
+          "name": "Danylo Reshetniak",
+          "country": "ua",
+          "club": "Jungle BJJ Prague",
+          "belt": "Blue",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 10
+        },
+        {
+          "name": "František Vohánka",
+          "country": "cz",
+          "club": "Choketopus gym",
+          "belt": "Blue",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 10
+        },
+        {
+          "name": "Gennadiy Gershanovych",
+          "country": "de",
+          "club": "MFC Moszat Fight Club/Roger Gracie Academy Regensburg",
+          "belt": "Blue",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 10
+        },
+        {
+          "name": "Jakub Němec",
+          "country": "cz",
+          "club": "Draculino Karviná",
+          "belt": "Blue",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 10
+        },
+        {
+          "name": "Julian Torres Ortiz",
+          "country": "de",
+          "club": "Living Jiu Jitsu",
+          "belt": "Blue",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 10
+        },
+        {
+          "name": "Martin Hesoun",
+          "country": "cz",
+          "club": "Delta gym",
+          "belt": "Blue",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 10
+        },
+        {
+          "name": "Mikhail Bondarevych",
+          "country": "ua",
+          "club": "Jungle BJJ Prague",
+          "belt": "Blue",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 10
+        },
+        {
+          "name": "Moritz Wigge",
+          "country": "de",
+          "club": "Apis Martial Arts",
+          "belt": "Blue",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 10
+        },
+        {
+          "name": "Mykhailo Dobrovolskyi",
+          "country": "ua",
+          "club": "Dracula Gym",
+          "belt": "Blue",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 10
+        },
+        {
+          "name": "Nuri Temirov",
+          "country": "ua",
+          "club": "Jungle BJJ Prague",
+          "belt": "Blue",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 10
+        },
+        {
+          "name": "Patrik Demovič",
+          "country": "sk",
+          "club": "CHECKMAT SLOVAKIA",
+          "belt": "Blue",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 10
+        },
+        {
+          "name": "Petr-Max Melka",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "belt": "Blue",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 10
+        },
+        {
+          "name": "Radim Vech",
+          "country": "cz",
+          "club": "Panther BJJ Boskovice",
+          "belt": "Blue",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 10
+        },
+        {
+          "name": "René Viktorín",
+          "country": "cz",
+          "club": "DSC GYM CESKA TREBOVA",
+          "belt": "Blue",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 10
+        },
+        {
+          "name": "Václav Foler",
+          "country": "cz",
+          "club": "Panther BJJ Boskovice",
+          "belt": "Blue",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 10
+        },
+        {
+          "name": "Maksym Bugai",
+          "country": "ua",
+          "club": "Jungle BJJ Prague",
+          "belt": "Blue",
+          "points": 7,
+          "gold": 0,
+          "silver": 2,
+          "bronze": 1,
+          "events": [
+            "event-27716",
+            "event-30095",
+            "event-28045"
+          ],
+          "rank": 29
+        },
+        {
+          "name": "Michal Vanický",
+          "country": "cz",
+          "club": "Copacabana team Louny",
+          "belt": "Blue",
+          "points": 7,
+          "gold": 0,
+          "silver": 2,
+          "bronze": 1,
+          "events": [
+            "event-28098",
+            "event-30095",
+            "event-28045"
+          ],
+          "rank": 29
+        },
+        {
+          "name": "Giuliano Dipoppa",
+          "country": "it",
+          "club": "Jungle BJJ Prague",
+          "belt": "Blue",
+          "points": 6,
+          "gold": 0,
+          "silver": 2,
+          "bronze": 0,
+          "events": [
+            "event-28098",
+            "event-27716"
+          ],
+          "rank": 31
+        },
+        {
+          "name": "Martin Maco",
+          "country": "sk",
+          "club": "Jungle BJJ Prague",
+          "belt": "Blue",
+          "points": 5,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 2,
+          "events": [
+            "event-28098",
+            "event-27716"
+          ],
+          "rank": 32
+        },
+        {
+          "name": "Robin Petřík",
+          "country": "cz",
+          "club": "Draculino Karviná",
+          "belt": "Blue",
+          "points": 4,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 1,
+          "events": [
+            "event-30095",
+            "event-28045"
+          ],
+          "rank": 33
+        },
+        {
+          "name": "Anton Stenin",
+          "country": "ru",
+          "club": "Black Tiger MMA",
+          "belt": "Blue",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 34
+        },
+        {
+          "name": "Damir Ceman",
+          "country": "hr",
+          "club": "",
+          "belt": "Blue",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 34
+        },
+        {
+          "name": "David Šolc",
+          "country": "cz",
+          "club": "Draculino Frýdek-Místek",
+          "belt": "Blue",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 34
+        },
+        {
+          "name": "David Zahradnik",
+          "country": "sk",
+          "club": "Shield BJJ Trnava",
+          "belt": "Blue",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 34
+        },
+        {
+          "name": "Denis Prchal",
+          "country": "cz",
+          "club": "Tiger Team Praha",
+          "belt": "Blue",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 34
+        },
+        {
+          "name": "Efe Uslu",
+          "country": "tr",
+          "club": "Matte1",
+          "belt": "Blue",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 34
+        },
+        {
+          "name": "Filip Futák",
+          "country": "cz",
+          "club": "SKP Copacabana Vsetín",
+          "belt": "Blue",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 34
+        },
+        {
+          "name": "Filip Špůr",
+          "country": "cz",
+          "club": "Tiger team, Professional club of Martial arts, Prague",
+          "belt": "Blue",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 34
+        },
+        {
+          "name": "Jáchym Tkaczyk",
+          "country": "cz",
+          "club": "Tiger Jiu Jitsu Kralupy",
+          "belt": "Blue",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 34
+        },
+        {
+          "name": "Jan Hajný",
+          "country": "cz",
+          "club": "Lanna",
+          "belt": "Blue",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 34
+        },
+        {
+          "name": "Jan Krajcovic",
+          "country": "sk",
+          "club": "FDM Combat Team",
+          "belt": "Blue",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 34
+        },
+        {
+          "name": "Jan Kvasnička",
+          "country": "cz",
+          "club": "DSC GYM CESKA TREBOVA",
+          "belt": "Blue",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 34
+        },
+        {
+          "name": "Michael Mészáros",
+          "country": "cz",
+          "club": "Copacabana team Louny",
+          "belt": "Blue",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 34
+        },
+        {
+          "name": "Michal Jančík",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "belt": "Blue",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 34
+        },
+        {
+          "name": "Nikolas Šustek",
+          "country": "sk",
+          "club": "Dracula Gym",
+          "belt": "Blue",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 34
+        },
+        {
+          "name": "Ondřej Koudelka",
+          "country": "cz",
+          "club": "Red Dot Gym",
+          "belt": "Blue",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 34
+        },
+        {
+          "name": "Onur Yilmaz",
+          "country": "at",
+          "club": "Roberto Pastuch Dojo",
+          "belt": "Blue",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 34
+        },
+        {
+          "name": "Sebastian Choma",
+          "country": "pl",
+          "club": "",
+          "belt": "Blue",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 34
+        },
+        {
+          "name": "Stanisław Marszałek",
+          "country": "pl",
+          "club": "Husaria Włocławek",
+          "belt": "Blue",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 34
+        },
+        {
+          "name": "Tobias Rauscher-Watfah",
+          "country": "at",
+          "club": "Matte1",
+          "belt": "Blue",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 34
+        },
+        {
+          "name": "Michael Ulrich",
+          "country": "cz",
+          "club": "Liberty BJJ",
+          "belt": "Blue",
+          "points": 2,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 2,
+          "events": [
+            "event-30095",
+            "event-28045"
+          ],
+          "rank": 54
+        },
+        {
+          "name": "Adam Dobre",
+          "country": "sk",
+          "club": "ŠK BEST FITNESS SENEC",
+          "belt": "Blue",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 55
+        },
+        {
+          "name": "Andrej Radoský",
+          "country": "sk",
+          "club": "BJJ Vrbové",
+          "belt": "Blue",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 55
+        },
+        {
+          "name": "Daniel Singer",
+          "country": "cz",
+          "club": "DSC GYM CESKA TREBOVA",
+          "belt": "Blue",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 55
+        },
+        {
+          "name": "Gabriel Hudoba",
+          "country": "sk",
+          "club": "Jiu-Jitsu Academy Bratislava",
+          "belt": "Blue",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 55
+        },
+        {
+          "name": "Honza Petrů",
+          "country": "cz",
+          "club": "Penta Gym Prague",
+          "belt": "Blue",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 55
+        },
+        {
+          "name": "Jan Karafiát",
+          "country": "cz",
+          "club": "Clube de Jiu Jitsu Pitbull Czech Republic",
+          "belt": "Blue",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 55
+        },
+        {
+          "name": "Jiří Mottl",
+          "country": "cz",
+          "club": "Choketopus gym",
+          "belt": "Blue",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 55
+        },
+        {
+          "name": "Lukas Dvorak",
+          "country": "cz",
+          "club": "Lanna",
+          "belt": "Blue",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 55
+        },
+        {
+          "name": "Makhsun Bakhshiyev",
+          "country": "kz",
+          "club": "Naru BJJ and Self-Defence",
+          "belt": "Blue",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 55
+        },
+        {
+          "name": "Marek Šourek",
+          "country": "cz",
+          "club": "Lanna",
+          "belt": "Blue",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 55
+        },
+        {
+          "name": "Marian Eliáš",
+          "country": "cz",
+          "club": "Panther BJJ Brno",
+          "belt": "Blue",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 55
+        },
+        {
+          "name": "Maximilian Schneider",
+          "country": "de",
+          "club": "Arzgebirgsche Raufbolde e.V.",
+          "belt": "Blue",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 55
+        },
+        {
+          "name": "Pavel Wawrosz",
+          "country": "cz",
+          "club": "Draculino Frýdek-Místek",
+          "belt": "Blue",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 55
+        },
+        {
+          "name": "Said-Magomed Nachnajev",
+          "country": "ps",
+          "club": "Renzo Gracie Prague",
+          "belt": "Blue",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 55
+        },
+        {
+          "name": "Samuel Davis",
+          "country": "cz",
+          "club": "BulletproofJJ",
+          "belt": "Blue",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 55
+        }
+      ],
+      "Purple / Brown / Black": [
+        {
+          "name": "Diogo Dos Santos Farias",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "belt": "Purple / Brown / Black",
+          "points": 12,
+          "gold": 1,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28098",
+            "event-30095"
+          ],
+          "rank": 1
+        },
+        {
+          "name": "Michal Kukumberg",
+          "country": "sk",
+          "club": "Jiu-Jitsu Academy Bratislava",
+          "belt": "Purple / Brown / Black",
+          "points": 12,
+          "gold": 1,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 1
+        },
+        {
+          "name": "Aleš Pícha",
+          "country": "cz",
+          "club": "Sportovní Klub Pretorian Pardubice",
+          "belt": "Purple / Brown / Black",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 3
+        },
+        {
+          "name": "Filip Hrnčíř",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "belt": "Purple / Brown / Black",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 3
+        },
+        {
+          "name": "Ivo Ivan",
+          "country": "sk",
+          "club": "Jiu-Jitsu Academy Bratislava",
+          "belt": "Purple / Brown / Black",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 3
+        },
+        {
+          "name": "Jan Jilčík",
+          "country": "cz",
+          "club": "Sportovní Klub Pretorian Židlochovice",
+          "belt": "Purple / Brown / Black",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 3
+        },
+        {
+          "name": "Jan Jirásek",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "belt": "Purple / Brown / Black",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 3
+        },
+        {
+          "name": "Julian Thiel",
+          "country": "de",
+          "club": "Academy of Martial Arts / Freiberg",
+          "belt": "Purple / Brown / Black",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 3
+        },
+        {
+          "name": "Kacper Zawadziński",
+          "country": "pl",
+          "club": "BERSERKERS TEAM",
+          "belt": "Purple / Brown / Black",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 3
+        },
+        {
+          "name": "Matej Mlynček",
+          "country": "sk",
+          "club": "SAI CLUB Martin - Slovakia",
+          "belt": "Purple / Brown / Black",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 3
+        },
+        {
+          "name": "Petr Holouš",
+          "country": "cz",
+          "club": "Tiger Jiu Jitsu Kralupy",
+          "belt": "Purple / Brown / Black",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 3
+        },
+        {
+          "name": "Tomáš Kadlec",
+          "country": "cz",
+          "club": "Reinders MMA",
+          "belt": "Purple / Brown / Black",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 3
+        },
+        {
+          "name": "Vitalii Shorban",
+          "country": "ua",
+          "club": "",
+          "belt": "Purple / Brown / Black",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 3
+        },
+        {
+          "name": "Adrián Fašianok",
+          "country": "sk",
+          "club": "SAI CLUB Martin - Slovakia",
+          "belt": "Purple / Brown / Black",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 14
+        },
+        {
+          "name": "Batu Soyhan",
+          "country": "de",
+          "club": "Living Jiu Jitsu",
+          "belt": "Purple / Brown / Black",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 14
+        },
+        {
+          "name": "Dmitro Yankovyi",
+          "country": "ua",
+          "club": "Choketopus gym",
+          "belt": "Purple / Brown / Black",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 14
+        },
+        {
+          "name": "Gabriel Jurcak",
+          "country": "sk",
+          "club": "BulletproofJJ",
+          "belt": "Purple / Brown / Black",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 14
+        },
+        {
+          "name": "Jan Huráb",
+          "country": "cz",
+          "club": "Panther BJJ Boskovice",
+          "belt": "Purple / Brown / Black",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 14
+        },
+        {
+          "name": "Jean Marie Nawezi",
+          "country": "cd",
+          "club": "ZR Team Austria",
+          "belt": "Purple / Brown / Black",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 14
+        },
+        {
+          "name": "Miloš Vanický",
+          "country": "cz",
+          "club": "Copacabana team Louny",
+          "belt": "Purple / Brown / Black",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 14
+        },
+        {
+          "name": "Petr Dohnal",
+          "country": "cz",
+          "club": "Sportovní Klub Pretorian Židlochovice",
+          "belt": "Purple / Brown / Black",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 14
+        },
+        {
+          "name": "Rafał Kulas",
+          "country": "pl",
+          "club": "Berserkers Team Stargard",
+          "belt": "Purple / Brown / Black",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 14
+        },
+        {
+          "name": "Robert Gevorkyan",
+          "country": "sk",
+          "club": "Dracula Gym",
+          "belt": "Purple / Brown / Black",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 14
+        },
+        {
+          "name": "Tomas Blaha",
+          "country": "cz",
+          "club": "Gracie Jiu-Jitsu Praha",
+          "belt": "Purple / Brown / Black",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 14
+        },
+        {
+          "name": "Karel Josef Čáp",
+          "country": "cz",
+          "club": "Panther BJJ Brno",
+          "belt": "Purple / Brown / Black",
+          "points": 2,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 2,
+          "events": [
+            "event-30095",
+            "event-28045"
+          ],
+          "rank": 25
+        },
+        {
+          "name": "Joshua Smith",
+          "country": "us",
+          "club": "Kani-Basami JiuJitsu",
+          "belt": "Purple / Brown / Black",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 26
+        },
+        {
+          "name": "Julian Maßen",
+          "country": "de",
+          "club": "MFC Moszat Fight Club/Roger Gracie Academy Regensburg",
+          "belt": "Purple / Brown / Black",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 26
+        },
+        {
+          "name": "Kai Konowski",
+          "country": "de",
+          "club": "Train BJJ Dresden",
+          "belt": "Purple / Brown / Black",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 26
+        },
+        {
+          "name": "Marek Mucha",
+          "country": "cz",
+          "club": "Draculino Ostrava",
+          "belt": "Purple / Brown / Black",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 26
+        },
+        {
+          "name": "Michal Novák",
+          "country": "cz",
+          "club": "Sportovní Klub Pretorian Pardubice",
+          "belt": "Purple / Brown / Black",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 26
+        },
+        {
+          "name": "Michal Plesník",
+          "country": "sk",
+          "club": "MMA&BJJ NITRA",
+          "belt": "Purple / Brown / Black",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 26
+        },
+        {
+          "name": "Patryk Bucki",
+          "country": "pl",
+          "club": "",
+          "belt": "Purple / Brown / Black",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 26
+        }
+      ],
+      "Beginner": [
+        {
+          "name": "Eliška Vrágová",
+          "country": "cz",
+          "club": "COMBAT GYM Chrastava",
+          "belt": "Beginner",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28782"
+          ],
+          "rank": 1
+        },
+        {
+          "name": "Krystof Rompot",
+          "country": "cz",
+          "club": "Sportovní Klub Pretorian Pardubice",
+          "belt": "Beginner",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28782"
+          ],
+          "rank": 1
+        },
+        {
+          "name": "Roman Hauf-Soldát",
+          "country": "cz",
+          "club": "Good luck gym Hradec Králové",
+          "belt": "Beginner",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28782"
+          ],
+          "rank": 1
+        },
+        {
+          "name": "Adam Langmann",
+          "country": "",
+          "club": "CTFT MMA",
+          "belt": "Beginner",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28782"
+          ],
+          "rank": 4
+        },
+        {
+          "name": "Richard Bareš",
+          "country": "cz",
+          "club": "Delta gym",
+          "belt": "Beginner",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28782"
+          ],
+          "rank": 4
+        },
+        {
+          "name": "Štěpán Vondráček",
+          "country": "cz",
+          "club": "Delta gym",
+          "belt": "Beginner",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28782"
+          ],
+          "rank": 4
+        },
+        {
+          "name": "Tadeáš Sotona",
+          "country": "cz",
+          "club": "Sportovní Klub Pretorian Pardubice",
+          "belt": "Beginner",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28782"
+          ],
+          "rank": 7
+        }
+      ],
+      "Advanced": [
+        {
+          "name": "Adam Dočkal",
+          "country": "cz",
+          "club": "Renzo Gracie Prague",
+          "belt": "Advanced",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28782"
+          ],
+          "rank": 1
+        },
+        {
+          "name": "Jakub Vodvářka",
+          "country": "cz",
+          "club": "Sportovní Klub Pretorian Pardubice",
+          "belt": "Advanced",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28782"
+          ],
+          "rank": 1
+        },
+        {
+          "name": "Josef Vrága",
+          "country": "cz",
+          "club": "COMBAT GYM Chrastava",
+          "belt": "Advanced",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28782"
+          ],
+          "rank": 1
+        },
+        {
+          "name": "Matyáš Barák",
+          "country": "cz",
+          "club": "Reinders MMA",
+          "belt": "Advanced",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28782"
+          ],
+          "rank": 1
+        },
+        {
+          "name": "Matyáš Divíšek",
+          "country": "cz",
+          "club": "Delta gym",
+          "belt": "Advanced",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28782"
+          ],
+          "rank": 1
+        },
+        {
+          "name": "Miroslav Tichý",
+          "country": "cz",
+          "club": "Delta gym",
+          "belt": "Advanced",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28782"
+          ],
+          "rank": 1
+        },
+        {
+          "name": "Adam Hatla",
+          "country": "cz",
+          "club": "Delta gym",
+          "belt": "Advanced",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28782"
+          ],
+          "rank": 7
+        },
+        {
+          "name": "Jakub Komárek",
+          "country": "cz",
+          "club": "Delta gym",
+          "belt": "Advanced",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28782"
+          ],
+          "rank": 7
+        },
+        {
+          "name": "Jaroslav Zavadil",
+          "country": "cz",
+          "club": "COMBAT GYM Chrastava",
+          "belt": "Advanced",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28782"
+          ],
+          "rank": 7
+        },
+        {
+          "name": "Lukáš Kubín",
+          "country": "cz",
+          "club": "Red Dot Gym",
+          "belt": "Advanced",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28782"
+          ],
+          "rank": 7
+        },
+        {
+          "name": "Tibor Culek",
+          "country": "cz",
+          "club": "Delta gym",
+          "belt": "Advanced",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28782"
+          ],
+          "rank": 7
+        },
+        {
+          "name": "Volodymyr Demchuk",
+          "country": "ua",
+          "club": "Red Dot Gym",
+          "belt": "Advanced",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28782"
+          ],
+          "rank": 7
+        },
+        {
+          "name": "Adam Jukl",
+          "country": "cz",
+          "club": "Delta gym",
+          "belt": "Advanced",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28782"
+          ],
+          "rank": 13
+        },
+        {
+          "name": "Šimon Dyntar",
+          "country": "cz",
+          "club": "Sportovní Klub Pretorian Pardubice",
+          "belt": "Advanced",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28782"
+          ],
+          "rank": 13
+        }
+      ]
+    },
+    "Female": {
+      "White": [
+        {
+          "name": "Kristýna Honsová",
+          "country": "cz",
+          "club": "Tiger Team Praha",
+          "belt": "White",
+          "points": 21,
+          "gold": 2,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28098",
+            "event-30095",
+            "event-28045"
+          ],
+          "rank": 1
+        },
+        {
+          "name": "Kristýna Burešová",
+          "country": "cz",
+          "club": "Liberty BJJ",
+          "belt": "White",
+          "points": 18,
+          "gold": 2,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-30095",
+            "event-28045"
+          ],
+          "rank": 2
+        },
+        {
+          "name": "Ivana Kalousova",
+          "country": "cz",
+          "club": "Choketopus gym",
+          "belt": "White",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 3
+        },
+        {
+          "name": "Kamila Koudelková",
+          "country": "cz",
+          "club": "Sportovní Klub Pretorian Pardubice",
+          "belt": "White",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 3
+        },
+        {
+          "name": "Lucia Klincová",
+          "country": "sk",
+          "club": "Wiking BJJ",
+          "belt": "White",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 3
+        },
+        {
+          "name": "Michaela Nevrlá",
+          "country": "cz",
+          "club": "Draculino Karviná",
+          "belt": "White",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 3
+        },
+        {
+          "name": "Andriiana Gyrnets",
+          "country": "ua",
+          "club": "DSC GYM CESKA TREBOVA",
+          "belt": "White",
+          "points": 4,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 1,
+          "events": [
+            "event-28098",
+            "event-28045"
+          ],
+          "rank": 7
+        },
+        {
+          "name": "Adéla Niederlová",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "belt": "White",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 8
+        },
+        {
+          "name": "Lada Jakab",
+          "country": "cz",
+          "club": "Choketopus gym",
+          "belt": "White",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 8
+        },
+        {
+          "name": "Markéta Kozáková",
+          "country": "cz",
+          "club": "Medo Gym Rosice",
+          "belt": "White",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 8
+        },
+        {
+          "name": "Šárka Adamčíková",
+          "country": "cz",
+          "club": "Draculino Havířov",
+          "belt": "White",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 8
+        },
+        {
+          "name": "Sophia Stříteská",
+          "country": "cz",
+          "club": "Choketopus gym",
+          "belt": "White",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 8
+        },
+        {
+          "name": "Tereza Štemonová",
+          "country": "cz",
+          "club": "Draculino Karviná",
+          "belt": "White",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 8
+        },
+        {
+          "name": "Eliza Rackevič",
+          "country": "lt",
+          "club": "KMC Smauglys",
+          "belt": "White",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 14
+        },
+        {
+          "name": "Hana Prokopová",
+          "country": "cz",
+          "club": "Panther BJJ Brno",
+          "belt": "White",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 14
+        },
+        {
+          "name": "Iva Paldusová",
+          "country": "cz",
+          "club": "Panther BJJ Brno",
+          "belt": "White",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 14
+        },
+        {
+          "name": "Karolína Březná",
+          "country": "cz",
+          "club": "Draculino Ostrava",
+          "belt": "White",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 14
+        },
+        {
+          "name": "Katarina Kečkéšová",
+          "country": "sk",
+          "club": "Bilishich Martial Arts Academy",
+          "belt": "White",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 14
+        },
+        {
+          "name": "Valerie Veselá",
+          "country": "cz",
+          "club": "GB Draculino - MM gym",
+          "belt": "White",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 14
+        }
+      ],
+      "Blue": [
+        {
+          "name": "Karolina Jandová",
+          "country": "cz",
+          "club": "DSC GYM CESKA TREBOVA",
+          "belt": "Blue",
+          "points": 18,
+          "gold": 2,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28098",
+            "event-28045"
+          ],
+          "rank": 1
+        },
+        {
+          "name": "Lucie Kalinová",
+          "country": "cz",
+          "club": "Liberty BJJ",
+          "belt": "Blue",
+          "points": 18,
+          "gold": 2,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 1
+        },
+        {
+          "name": "Kristýna Jurásková",
+          "country": "cz",
+          "club": "Clube De Jiu Jitsu Pitbull Hodonín",
+          "belt": "Blue",
+          "points": 10,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-30095",
+            "event-28045"
+          ],
+          "rank": 3
+        },
+        {
+          "name": "Vendula Tichá",
+          "country": "cz",
+          "club": "Brazilian Jiu-Jitsu Ústí nad Orlicí",
+          "belt": "Blue",
+          "points": 10,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-30095",
+            "event-28045"
+          ],
+          "rank": 3
+        },
+        {
+          "name": "Ema Tesařová",
+          "country": "cz",
+          "club": "Brazilian Jiu-Jitsu Ústí nad Orlicí",
+          "belt": "Blue",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 5
+        },
+        {
+          "name": "Jana Lamačová",
+          "country": "cz",
+          "club": "Fight club ČESKÉ BUDĚJOVICE",
+          "belt": "Blue",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 5
+        },
+        {
+          "name": "Julia Lex",
+          "country": "at",
+          "club": "Gracie Barra Graz",
+          "belt": "Blue",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 5
+        },
+        {
+          "name": "Sofia Rinková",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "belt": "Blue",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 5
+        },
+        {
+          "name": "Hana Petrusová",
+          "country": "cz",
+          "club": "Tora Academy",
+          "belt": "Blue",
+          "points": 6,
+          "gold": 0,
+          "silver": 2,
+          "bronze": 0,
+          "events": [
+            "event-28098",
+            "event-30095"
+          ],
+          "rank": 9
+        },
+        {
+          "name": "Martyna Drzewiecka",
+          "country": "pl",
+          "club": "Husaria Włocławek",
+          "belt": "Blue",
+          "points": 6,
+          "gold": 0,
+          "silver": 2,
+          "bronze": 0,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 9
+        },
+        {
+          "name": "Veronika Zajícová",
+          "country": "cz",
+          "club": "OFA",
+          "belt": "Blue",
+          "points": 6,
+          "gold": 0,
+          "silver": 2,
+          "bronze": 0,
+          "events": [
+            "event-28098",
+            "event-28045"
+          ],
+          "rank": 9
+        },
+        {
+          "name": "Alexandra Pecinka",
+          "country": "at",
+          "club": "Art of Flow Austria",
+          "belt": "Blue",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 12
+        },
+        {
+          "name": "Hana Moravcová",
+          "country": "cz",
+          "club": "Panther BJJ Boskovice",
+          "belt": "Blue",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 12
+        },
+        {
+          "name": "Kristína Fečová",
+          "country": "sk",
+          "club": "Mattix Jiu Jitsu",
+          "belt": "Blue",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 12
+        },
+        {
+          "name": "Magda Hejtmánková",
+          "country": "cz",
+          "club": "Choketopus gym",
+          "belt": "Blue",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 12
+        },
+        {
+          "name": "Adéla Pořická",
+          "country": "cz",
+          "club": "Draculino Zlín",
+          "belt": "Blue",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 16
+        },
+        {
+          "name": "Daniela Altvater",
+          "country": "de",
+          "club": "Apis Martial Arts",
+          "belt": "Blue",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 16
+        },
+        {
+          "name": "Ema-Mária Polívková",
+          "country": "cz",
+          "club": "Tora Academy",
+          "belt": "Blue",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 16
+        },
+        {
+          "name": "Kazi Šikolová",
+          "country": "cz",
+          "club": "BulletproofJJ",
+          "belt": "Blue",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 16
+        },
+        {
+          "name": "Vivi Szabó",
+          "country": "hu",
+          "club": "Törökbálinti Brazil Jiu Jitsu Sportegyesület (ZR TEAM TÖRÖKBÁLINT)",
+          "belt": "Blue",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 16
+        }
+      ],
+      "Elite": [
+        {
+          "name": "Vanda Daňková",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "belt": "Elite",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28782"
+          ],
+          "rank": 1
+        },
+        {
+          "name": "Alice Benešová",
+          "country": "cz",
+          "club": "Academy of Movement",
+          "belt": "Elite",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28782"
+          ],
+          "rank": 2
+        }
+      ],
+      "Purple / Brown / Black": [
+        {
+          "name": "Sarah Volkmann",
+          "country": "at",
+          "club": "ZR Team SOJJ - Science of Jiu Jitsu",
+          "belt": "Purple / Brown / Black",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 1
+        },
+        {
+          "name": "Katarína Vojvodová",
+          "country": "sk",
+          "club": "Academia Gorila",
+          "belt": "Purple / Brown / Black",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 2
+        },
+        {
+          "name": "Sophia Rozenbergová",
+          "country": "sk",
+          "club": "Six Blades JiuJitsu",
+          "belt": "Purple / Brown / Black",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 3
+        }
+      ]
+    }
+  },
+  "nogi": {
+    "Male": {
+      "Beginner": [
+        {
+          "name": "Jakub Hrubý",
+          "country": "cz",
+          "club": "SWAG Academy",
+          "belt": "Beginner",
+          "points": 18,
+          "gold": 2,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-30095",
+            "event-28045"
+          ],
+          "rank": 1
+        },
+        {
+          "name": "Leon Glaser",
+          "country": "de",
+          "club": "Sensible Rehasportgruppe",
+          "belt": "Beginner",
+          "points": 18,
+          "gold": 2,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28782"
+          ],
+          "rank": 1
+        },
+        {
+          "name": "Vojtěch Kalina",
+          "country": "cz",
+          "club": "Good luck gym Hradec Králové",
+          "belt": "Beginner",
+          "points": 10,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-30095",
+            "event-28782"
+          ],
+          "rank": 3
+        },
+        {
+          "name": "Abdul-malik Machauri",
+          "country": "at",
+          "club": "Champions Factory",
+          "belt": "Beginner",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 4
+        },
+        {
+          "name": "Abdullah Dudaev",
+          "country": "at",
+          "club": "Ratiborets Vienna",
+          "belt": "Beginner",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 4
+        },
+        {
+          "name": "Aleš Žáček",
+          "country": "cz",
+          "club": "Gladiators Gym - BulletProof",
+          "belt": "Beginner",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 4
+        },
+        {
+          "name": "Benjamin Bakonyi",
+          "country": "ps",
+          "club": "Champions Factory",
+          "belt": "Beginner",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 4
+        },
+        {
+          "name": "Bleron Gashi",
+          "country": "al",
+          "club": "MMA MUNDIAL Ingolstadt",
+          "belt": "Beginner",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 4
+        },
+        {
+          "name": "Csaba László",
+          "country": "sk",
+          "club": "Bősi Kempo MMA & BJJ",
+          "belt": "Beginner",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 4
+        },
+        {
+          "name": "Daniel Daněček",
+          "country": "cz",
+          "club": "PopStarGym",
+          "belt": "Beginner",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 4
+        },
+        {
+          "name": "Daniel Šebela",
+          "country": "cz",
+          "club": "",
+          "belt": "Beginner",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 4
+        },
+        {
+          "name": "David Hegyi",
+          "country": "sk",
+          "club": "Bősi Kempo MMA & BJJ",
+          "belt": "Beginner",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 4
+        },
+        {
+          "name": "Denis Krejčík",
+          "country": "cz",
+          "club": "Sportovní Klub Pretorian Pardubice",
+          "belt": "Beginner",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28782"
+          ],
+          "rank": 4
+        },
+        {
+          "name": "Efekan Aksoy",
+          "country": "tr",
+          "club": "EVLTN Martial Arts Berlin",
+          "belt": "Beginner",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 4
+        },
+        {
+          "name": "Emir-Kaan Torlak",
+          "country": "tr",
+          "club": "EVLTN Martial Arts Berlin",
+          "belt": "Beginner",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 4
+        },
+        {
+          "name": "Ivo Frank",
+          "country": "cz",
+          "club": "Jungle Bjj Žďár nad Sázavou",
+          "belt": "Beginner",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 4
+        },
+        {
+          "name": "Jáchym Pasák",
+          "country": "cz",
+          "club": "Grappling Squad Praha",
+          "belt": "Beginner",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28782"
+          ],
+          "rank": 4
+        },
+        {
+          "name": "Jakub Kopaničák",
+          "country": "sk",
+          "club": "Free Fight Club Detva",
+          "belt": "Beginner",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 4
+        },
+        {
+          "name": "Jakub Šik",
+          "country": "cz",
+          "club": "5th Dimension BJJ",
+          "belt": "Beginner",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 4
+        },
+        {
+          "name": "Jan Kostka",
+          "country": "cz",
+          "club": "BJJ Beroun",
+          "belt": "Beginner",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 4
+        },
+        {
+          "name": "Jan Kratochvíl",
+          "country": "cz",
+          "club": "Tiger gym",
+          "belt": "Beginner",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 4
+        },
+        {
+          "name": "Jan Matějka",
+          "country": "cz",
+          "club": "Draculino Kroměříž",
+          "belt": "Beginner",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 4
+        },
+        {
+          "name": "Jan Šubrt",
+          "country": "cz",
+          "club": "RBSD Šumperk",
+          "belt": "Beginner",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28782"
+          ],
+          "rank": 4
+        },
+        {
+          "name": "Josef Chodúr",
+          "country": "cz",
+          "club": "Good luck gym Hradec Králové",
+          "belt": "Beginner",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28782"
+          ],
+          "rank": 4
+        },
+        {
+          "name": "Josef David Seyfried",
+          "country": "cz",
+          "club": "BJJ Beroun",
+          "belt": "Beginner",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 4
+        },
+        {
+          "name": "Martin Brázda",
+          "country": "sk",
+          "club": "Elite Gym Trenčín",
+          "belt": "Beginner",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 4
+        },
+        {
+          "name": "Martin Hrabina",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "belt": "Beginner",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 4
+        },
+        {
+          "name": "Michal Kvinta",
+          "country": "sk",
+          "club": "Art Of Fight Gym",
+          "belt": "Beginner",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 4
+        },
+        {
+          "name": "Ondřej Jelínek",
+          "country": "cz",
+          "club": "Sportovní Klub Pretorian Pardubice",
+          "belt": "Beginner",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28782"
+          ],
+          "rank": 4
+        },
+        {
+          "name": "Štěpán Kaiser",
+          "country": "cz",
+          "club": "Reinders MMA",
+          "belt": "Beginner",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 4
+        },
+        {
+          "name": "Vitalij Motrja",
+          "country": "cz",
+          "club": "Draculino Kroměříž",
+          "belt": "Beginner",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 4
+        },
+        {
+          "name": "Vladyslav Bedrych",
+          "country": "ua",
+          "club": "Jungle BJJ Prague",
+          "belt": "Beginner",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 4
+        },
+        {
+          "name": "Yevhen Bondarenko",
+          "country": "ua",
+          "club": "Spaniardmma",
+          "belt": "Beginner",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 4
+        },
+        {
+          "name": "Ivan Zyzen",
+          "country": "",
+          "club": "CTFT MMA",
+          "belt": "Beginner",
+          "points": 6,
+          "gold": 0,
+          "silver": 2,
+          "bronze": 0,
+          "events": [
+            "event-28782"
+          ],
+          "rank": 34
+        },
+        {
+          "name": "Martin Dobřanský",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "belt": "Beginner",
+          "points": 6,
+          "gold": 0,
+          "silver": 2,
+          "bronze": 0,
+          "events": [
+            "event-30095",
+            "event-28045"
+          ],
+          "rank": 34
+        },
+        {
+          "name": "Michal Tranta",
+          "country": "cz",
+          "club": "Reinders MMA",
+          "belt": "Beginner",
+          "points": 6,
+          "gold": 0,
+          "silver": 2,
+          "bronze": 0,
+          "events": [
+            "event-30095",
+            "event-28782"
+          ],
+          "rank": 34
+        },
+        {
+          "name": "Odysseas Karavasileiou",
+          "country": "gr",
+          "club": "A.C. Tornado Academy (Draculino Thessaloniki-Chalkidiki)",
+          "belt": "Beginner",
+          "points": 6,
+          "gold": 0,
+          "silver": 2,
+          "bronze": 0,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 34
+        },
+        {
+          "name": "Tadeáš Stávek",
+          "country": "cz",
+          "club": "Clube De Jiu Jitsu Pitbull Hodonín",
+          "belt": "Beginner",
+          "points": 6,
+          "gold": 0,
+          "silver": 2,
+          "bronze": 0,
+          "events": [
+            "event-30095",
+            "event-28782"
+          ],
+          "rank": 34
+        },
+        {
+          "name": "Bartosz BUGARA",
+          "country": "pl",
+          "club": "",
+          "belt": "Beginner",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 39
+        },
+        {
+          "name": "Davyd Makarov",
+          "country": "ua",
+          "club": "RBSD Šumperk",
+          "belt": "Beginner",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28782"
+          ],
+          "rank": 39
+        },
+        {
+          "name": "Deniz Birkent",
+          "country": "at",
+          "club": "Matte1",
+          "belt": "Beginner",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 39
+        },
+        {
+          "name": "Ivan Huzo",
+          "country": "ua",
+          "club": "Alpha gym Karlovy Vary",
+          "belt": "Beginner",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 39
+        },
+        {
+          "name": "Jacek Piasecki",
+          "country": "pl",
+          "club": "",
+          "belt": "Beginner",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 39
+        },
+        {
+          "name": "Jakub Hlaváč",
+          "country": "cz",
+          "club": "Fight club Nepomuk",
+          "belt": "Beginner",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 39
+        },
+        {
+          "name": "Jakub Uskoba",
+          "country": "cz",
+          "club": "Sportovní Klub Pretorian Pardubice",
+          "belt": "Beginner",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 39
+        },
+        {
+          "name": "Jan Gojný",
+          "country": "cz",
+          "club": "Sportovní Klub Pretorian Pardubice",
+          "belt": "Beginner",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28782"
+          ],
+          "rank": 39
+        },
+        {
+          "name": "Jonas Amenda",
+          "country": "de",
+          "club": "Home of Sports Elbflorenz",
+          "belt": "Beginner",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 39
+        },
+        {
+          "name": "Kristian Hruban",
+          "country": "cz",
+          "club": "Tora Academy",
+          "belt": "Beginner",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 39
+        },
+        {
+          "name": "Kryštof Rampír",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "belt": "Beginner",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 39
+        },
+        {
+          "name": "Lars Holzmann",
+          "country": "de",
+          "club": "MFC Moszat Fight Club/Roger Gracie Academy Regensburg",
+          "belt": "Beginner",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 39
+        },
+        {
+          "name": "Lukáš Chamula",
+          "country": "sk",
+          "club": "Free Fight Club Detva",
+          "belt": "Beginner",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 39
+        },
+        {
+          "name": "Marián Hazucha",
+          "country": "sk",
+          "club": "Arte Suave Martin",
+          "belt": "Beginner",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 39
+        },
+        {
+          "name": "Martin Riedel",
+          "country": "cz",
+          "club": "Levelz BJJ",
+          "belt": "Beginner",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 39
+        },
+        {
+          "name": "Martin Rolín",
+          "country": "cz",
+          "club": "Delta gym",
+          "belt": "Beginner",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28782"
+          ],
+          "rank": 39
+        },
+        {
+          "name": "Matthias Sadik",
+          "country": "at",
+          "club": "Austrian MMA Acadadmy",
+          "belt": "Beginner",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 39
+        },
+        {
+          "name": "Nikola Rosenkranz",
+          "country": "cz",
+          "club": "Sportovní Klub Pretorian Pardubice",
+          "belt": "Beginner",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 39
+        },
+        {
+          "name": "Oleksii Riabushkin",
+          "country": "ua",
+          "club": "Ratiborets Vienna",
+          "belt": "Beginner",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 39
+        },
+        {
+          "name": "Richard Zadina",
+          "country": "cz",
+          "club": "SLON GYM PRAHA",
+          "belt": "Beginner",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 39
+        },
+        {
+          "name": "Samuel Buchar",
+          "country": "cz",
+          "club": "BulletproofJJ",
+          "belt": "Beginner",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 39
+        },
+        {
+          "name": "Stanislav Muška",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "belt": "Beginner",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 39
+        },
+        {
+          "name": "Tim Mommertz",
+          "country": "de",
+          "club": "SWAG Academy",
+          "belt": "Beginner",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 39
+        },
+        {
+          "name": "Tomáš Trnka",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "belt": "Beginner",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 39
+        },
+        {
+          "name": "Václav Kareš",
+          "country": "cz",
+          "club": "Penta Gym Prague",
+          "belt": "Beginner",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 39
+        },
+        {
+          "name": "Adrian Lakatoš",
+          "country": "sk",
+          "club": "CHECKMAT SLOVAKIA",
+          "belt": "Beginner",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 64
+        },
+        {
+          "name": "Alexander Kunst",
+          "country": "at",
+          "club": "Panthers Fight School",
+          "belt": "Beginner",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 64
+        },
+        {
+          "name": "Amirali Pordil",
+          "country": "at",
+          "club": "",
+          "belt": "Beginner",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 64
+        },
+        {
+          "name": "Antonín Hájek",
+          "country": "cz",
+          "club": "Grappling Squad Praha",
+          "belt": "Beginner",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 64
+        },
+        {
+          "name": "Cuong Manh Nguyen",
+          "country": "cz",
+          "club": "Alpha gym Karlovy Vary",
+          "belt": "Beginner",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 64
+        },
+        {
+          "name": "Daniel Kolář",
+          "country": "cz",
+          "club": "Fighting club Ostrava",
+          "belt": "Beginner",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 64
+        },
+        {
+          "name": "David Havlík",
+          "country": "cz",
+          "club": "Lanna",
+          "belt": "Beginner",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 64
+        },
+        {
+          "name": "Dominik Polák",
+          "country": "sk",
+          "club": "Elite Gym Trenčín",
+          "belt": "Beginner",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 64
+        },
+        {
+          "name": "Dominik Vašků",
+          "country": "cz",
+          "club": "CTFT MMA",
+          "belt": "Beginner",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28782"
+          ],
+          "rank": 64
+        },
+        {
+          "name": "Jakub Farkaš",
+          "country": "cz",
+          "club": "Lanna",
+          "belt": "Beginner",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 64
+        },
+        {
+          "name": "Jakub Lavička",
+          "country": "cz",
+          "club": "Allaroundfighters",
+          "belt": "Beginner",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 64
+        },
+        {
+          "name": "Jan Valenta",
+          "country": "cz",
+          "club": "Delta gym",
+          "belt": "Beginner",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28782"
+          ],
+          "rank": 64
+        },
+        {
+          "name": "Jiří Nádvorník",
+          "country": "cz",
+          "club": "Snapdown Team Olomouc",
+          "belt": "Beginner",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 64
+        },
+        {
+          "name": "Jiří Ortman",
+          "country": "cz",
+          "club": "BulletProof Jiu-Jitsu Harmony Písek",
+          "belt": "Beginner",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 64
+        },
+        {
+          "name": "Jiří Pospíšil",
+          "country": "cz",
+          "club": "RBSD Šumperk",
+          "belt": "Beginner",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28782"
+          ],
+          "rank": 64
+        },
+        {
+          "name": "Kryštof Matlák",
+          "country": "cz",
+          "club": "Delta gym",
+          "belt": "Beginner",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 64
+        },
+        {
+          "name": "Marek Handl",
+          "country": "cz",
+          "club": "PopStarGym",
+          "belt": "Beginner",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 64
+        },
+        {
+          "name": "Marek Sedláček",
+          "country": "cz",
+          "club": "RBSD Šumperk",
+          "belt": "Beginner",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28782"
+          ],
+          "rank": 64
+        },
+        {
+          "name": "Martin Kačer",
+          "country": "cz",
+          "club": "MMA Monster Gym",
+          "belt": "Beginner",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 64
+        },
+        {
+          "name": "Matěj Havelek",
+          "country": "cz",
+          "club": "Fighting club Ostrava",
+          "belt": "Beginner",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 64
+        },
+        {
+          "name": "Mehmet Er",
+          "country": "tr",
+          "club": "EVLTN Martial Arts Berlin",
+          "belt": "Beginner",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 64
+        },
+        {
+          "name": "Oliver Martinec",
+          "country": "cz",
+          "club": "DSC GYM CESKA TREBOVA",
+          "belt": "Beginner",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 64
+        },
+        {
+          "name": "Ondřej Častulík",
+          "country": "cz",
+          "club": "Draculino Opava",
+          "belt": "Beginner",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 64
+        },
+        {
+          "name": "Petr Košťál",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "belt": "Beginner",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 64
+        },
+        {
+          "name": "Roman Štěpánek",
+          "country": "cz",
+          "club": "Sportovní Klub Pretorian Pardubice",
+          "belt": "Beginner",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 64
+        },
+        {
+          "name": "Simon Neumeier-Giampietro",
+          "country": "de",
+          "club": "AKXE BJJ GERMANY",
+          "belt": "Beginner",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 64
+        },
+        {
+          "name": "Thomas Kugler",
+          "country": "at",
+          "club": "Austrian MMA Acadadmy",
+          "belt": "Beginner",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 64
+        },
+        {
+          "name": "Umalat Sagilaev",
+          "country": "at",
+          "club": "MT GYM23",
+          "belt": "Beginner",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 64
+        },
+        {
+          "name": "Vukasin Todic",
+          "country": "ba",
+          "club": "Panthers Fight School",
+          "belt": "Beginner",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 64
+        }
+      ],
+      "Advanced": [
+        {
+          "name": "Daniel Peša",
+          "country": "cz",
+          "club": "Panther BJJ Boskovice",
+          "belt": "Advanced",
+          "points": 19,
+          "gold": 2,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28098",
+            "event-30095",
+            "event-28045"
+          ],
+          "rank": 1
+        },
+        {
+          "name": "David Rexa",
+          "country": "cz",
+          "club": "SWAG Academy",
+          "belt": "Advanced",
+          "points": 12,
+          "gold": 1,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28782"
+          ],
+          "rank": 2
+        },
+        {
+          "name": "Filip Svoboda",
+          "country": "cz",
+          "club": "SWAG Academy",
+          "belt": "Advanced",
+          "points": 12,
+          "gold": 1,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-30095",
+            "event-28045"
+          ],
+          "rank": 2
+        },
+        {
+          "name": "Vojtěch Průcha",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "belt": "Advanced",
+          "points": 12,
+          "gold": 1,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 2
+        },
+        {
+          "name": "Misha Mandzini",
+          "country": "ua",
+          "club": "Renzo Gracie Prague",
+          "belt": "Advanced",
+          "points": 10,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28098",
+            "event-30095"
+          ],
+          "rank": 5
+        },
+        {
+          "name": "Adam Dočkal",
+          "country": "cz",
+          "club": "Renzo Gracie Prague",
+          "belt": "Advanced",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28782"
+          ],
+          "rank": 6
+        },
+        {
+          "name": "Denis Zumberi",
+          "country": "kos",
+          "club": "MFC Moszat Fight Club/Roger Gracie Academy Regensburg",
+          "belt": "Advanced",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 6
+        },
+        {
+          "name": "Erik Charles KORNUTA",
+          "country": "cz",
+          "club": "KS CIESZYN",
+          "belt": "Advanced",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 6
+        },
+        {
+          "name": "Gennadiy Gershanovych",
+          "country": "de",
+          "club": "MFC Moszat Fight Club/Roger Gracie Academy Regensburg",
+          "belt": "Advanced",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 6
+        },
+        {
+          "name": "Giuliano Dipoppa",
+          "country": "it",
+          "club": "Jungle BJJ Prague",
+          "belt": "Advanced",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 6
+        },
+        {
+          "name": "Jakub Kadlec",
+          "country": "cz",
+          "club": "SWAG Academy",
+          "belt": "Advanced",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 6
+        },
+        {
+          "name": "Jan Allister",
+          "country": "cz",
+          "club": "BulletproofJJ",
+          "belt": "Advanced",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 6
+        },
+        {
+          "name": "Luka Long",
+          "country": "cu",
+          "club": "Reinders MMA",
+          "belt": "Advanced",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28782"
+          ],
+          "rank": 6
+        },
+        {
+          "name": "Mark Flieher",
+          "country": "cz",
+          "club": "Samba Jiu Jitsu",
+          "belt": "Advanced",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 6
+        },
+        {
+          "name": "Martin Drábek",
+          "country": "cz",
+          "club": "Snapdown Team Olomouc",
+          "belt": "Advanced",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 6
+        },
+        {
+          "name": "Martin Hesoun",
+          "country": "cz",
+          "club": "Delta gym",
+          "belt": "Advanced",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 6
+        },
+        {
+          "name": "Matěj Souček",
+          "country": "cz",
+          "club": "BJJ Beroun",
+          "belt": "Advanced",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 6
+        },
+        {
+          "name": "Mateusz Możejko",
+          "country": "pl",
+          "club": "BERSERKERS TEAM",
+          "belt": "Advanced",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 6
+        },
+        {
+          "name": "Matyáš Barák",
+          "country": "cz",
+          "club": "Reinders MMA",
+          "belt": "Advanced",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28782"
+          ],
+          "rank": 6
+        },
+        {
+          "name": "Nuri Temirov",
+          "country": "ua",
+          "club": "Jungle BJJ Prague",
+          "belt": "Advanced",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 6
+        },
+        {
+          "name": "Ondřej Koudelka",
+          "country": "cz",
+          "club": "Red Dot Gym",
+          "belt": "Advanced",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28782"
+          ],
+          "rank": 6
+        },
+        {
+          "name": "Richard Grégr",
+          "country": "cz",
+          "club": "Choketopus gym",
+          "belt": "Advanced",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 6
+        },
+        {
+          "name": "Roland Böck",
+          "country": "at",
+          "club": "Matte1",
+          "belt": "Advanced",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 6
+        },
+        {
+          "name": "Rostislav Málek",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "belt": "Advanced",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 6
+        },
+        {
+          "name": "Vasia Gichka",
+          "country": "ua",
+          "club": "Good luck gym Hradec Králové",
+          "belt": "Advanced",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28782"
+          ],
+          "rank": 6
+        },
+        {
+          "name": "Ylldrit Zenuni",
+          "country": "at",
+          "club": "Champions Factory",
+          "belt": "Advanced",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 6
+        },
+        {
+          "name": "Peter Hudec",
+          "country": "sk",
+          "club": "CHECKMAT SLOVAKIA",
+          "belt": "Advanced",
+          "points": 6,
+          "gold": 0,
+          "silver": 2,
+          "bronze": 0,
+          "events": [
+            "event-30095",
+            "event-28045"
+          ],
+          "rank": 27
+        },
+        {
+          "name": "Radovan Takáč",
+          "country": "cz",
+          "club": "Sportovní Klub Pretorian Pardubice",
+          "belt": "Advanced",
+          "points": 6,
+          "gold": 0,
+          "silver": 2,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 27
+        },
+        {
+          "name": "Adam Gemrot",
+          "country": "cz",
+          "club": "Gorila MMA",
+          "belt": "Advanced",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 29
+        },
+        {
+          "name": "Alp Şimşek",
+          "country": "at",
+          "club": "Champions Factory",
+          "belt": "Advanced",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 29
+        },
+        {
+          "name": "Filip Kapko",
+          "country": "sk",
+          "club": "Jungle BJJ Prague",
+          "belt": "Advanced",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 29
+        },
+        {
+          "name": "Lukas Reiter",
+          "country": "ro",
+          "club": "Gremlin Jiu Jitsu",
+          "belt": "Advanced",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 29
+        },
+        {
+          "name": "Marcin Kapica",
+          "country": "pl",
+          "club": "Rudzkie Centrum Atletyki",
+          "belt": "Advanced",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 29
+        },
+        {
+          "name": "Martin Varga",
+          "country": "sk",
+          "club": "Free Fight Club Detva",
+          "belt": "Advanced",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 29
+        },
+        {
+          "name": "Nazar Fryz",
+          "country": "ua",
+          "club": "Choketopus gym",
+          "belt": "Advanced",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 29
+        },
+        {
+          "name": "Nazar Svyda",
+          "country": "ua",
+          "club": "Jiu-Jitsu Academy Praha",
+          "belt": "Advanced",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 29
+        },
+        {
+          "name": "Odysseas Karavasileiou",
+          "country": "gr",
+          "club": "A.C. Tornado Academy (Draculino Thessaloniki-Chalkidiki)",
+          "belt": "Advanced",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 29
+        },
+        {
+          "name": "Ondřej Jirásek",
+          "country": "cz",
+          "club": "COMBAT GYM Chrastava",
+          "belt": "Advanced",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28782"
+          ],
+          "rank": 29
+        },
+        {
+          "name": "Ondřej Kuchta",
+          "country": "cz",
+          "club": "MMA Monster Gym",
+          "belt": "Advanced",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 29
+        },
+        {
+          "name": "Petr Štěpánek",
+          "country": "cz",
+          "club": "CTFT MMA",
+          "belt": "Advanced",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28782"
+          ],
+          "rank": 29
+        },
+        {
+          "name": "Samuel Mazurkovič",
+          "country": "sk",
+          "club": "Fightgym Bánovce",
+          "belt": "Advanced",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 29
+        },
+        {
+          "name": "Telahun Abubakr Reumüller",
+          "country": "at",
+          "club": "Gremlin Jiu Jitsu",
+          "belt": "Advanced",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28782"
+          ],
+          "rank": 29
+        },
+        {
+          "name": "Tibor Culek",
+          "country": "cz",
+          "club": "Delta gym",
+          "belt": "Advanced",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28782"
+          ],
+          "rank": 29
+        },
+        {
+          "name": "Tomáš Průša",
+          "country": "cz",
+          "club": "Choketopus gym",
+          "belt": "Advanced",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 29
+        },
+        {
+          "name": "Václav Durdík",
+          "country": "cz",
+          "club": "Samba Jiu Jitsu",
+          "belt": "Advanced",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 29
+        },
+        {
+          "name": "Vanda Daňková",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "belt": "Advanced",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28782"
+          ],
+          "rank": 29
+        },
+        {
+          "name": "Vojtěch Janák",
+          "country": "cz",
+          "club": "Renzo Gracie Prague",
+          "belt": "Advanced",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 29
+        },
+        {
+          "name": "Vojtěch Nezdara",
+          "country": "cz",
+          "club": "Renzo Gracie Prague",
+          "belt": "Advanced",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 29
+        },
+        {
+          "name": "Barbod Farahmand",
+          "country": "ir",
+          "club": "Gremlin Jiu Jitsu",
+          "belt": "Advanced",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 49
+        },
+        {
+          "name": "Calin Panfili",
+          "country": "cz",
+          "club": "Brno MMA Fighters",
+          "belt": "Advanced",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 49
+        },
+        {
+          "name": "Damir Ceman",
+          "country": "hr",
+          "club": "",
+          "belt": "Advanced",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 49
+        },
+        {
+          "name": "Daniel Hrbáček",
+          "country": "cz",
+          "club": "BulletproofJJ",
+          "belt": "Advanced",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 49
+        },
+        {
+          "name": "Daniel Mizer",
+          "country": "cz",
+          "club": "COMBAT GYM Chrastava",
+          "belt": "Advanced",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28782"
+          ],
+          "rank": 49
+        },
+        {
+          "name": "Efe Uslu",
+          "country": "tr",
+          "club": "Matte1",
+          "belt": "Advanced",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 49
+        },
+        {
+          "name": "Gabriel Busuioc",
+          "country": "cz",
+          "club": "BulletproofJJ",
+          "belt": "Advanced",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 49
+        },
+        {
+          "name": "Jaber Gonfo",
+          "country": "at",
+          "club": "Team Austria1",
+          "belt": "Advanced",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 49
+        },
+        {
+          "name": "Kevin Klimeš",
+          "country": "cz",
+          "club": "Snapdown Team Olomouc",
+          "belt": "Advanced",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28782"
+          ],
+          "rank": 49
+        },
+        {
+          "name": "Klementyn Reichert",
+          "country": "de",
+          "club": "Living Jiu Jitsu",
+          "belt": "Advanced",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 49
+        },
+        {
+          "name": "Leoš Chovanec",
+          "country": "cz",
+          "club": "COMBAT GYM Chrastava",
+          "belt": "Advanced",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28782"
+          ],
+          "rank": 49
+        },
+        {
+          "name": "Maksym Kolomiiets",
+          "country": "ua",
+          "club": "ZR Team KOŠICE",
+          "belt": "Advanced",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 49
+        },
+        {
+          "name": "Matyáš Pejřil",
+          "country": "cz",
+          "club": "SWAG Academy",
+          "belt": "Advanced",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 49
+        },
+        {
+          "name": "Patrik Demovič",
+          "country": "sk",
+          "club": "CHECKMAT SLOVAKIA",
+          "belt": "Advanced",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 49
+        },
+        {
+          "name": "Sebastian Porsch",
+          "country": "cz",
+          "club": "Allaroundfighters",
+          "belt": "Advanced",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 49
+        },
+        {
+          "name": "Tobias Rauscher-Watfah",
+          "country": "at",
+          "club": "Matte1",
+          "belt": "Advanced",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 49
+        }
+      ],
+      "Elite": [
+        {
+          "name": "Jan Stach",
+          "country": "cz",
+          "club": "SWAG Academy",
+          "belt": "Elite",
+          "points": 18,
+          "gold": 2,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-30095",
+            "event-28045"
+          ],
+          "rank": 1
+        },
+        {
+          "name": "Jan Jilčík",
+          "country": "cz",
+          "club": "Sportovní Klub Pretorian Židlochovice",
+          "belt": "Elite",
+          "points": 12,
+          "gold": 1,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28098",
+            "event-30095"
+          ],
+          "rank": 2
+        },
+        {
+          "name": "Anton Orlov",
+          "country": "ua",
+          "club": "SWAG Academy",
+          "belt": "Elite",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 3
+        },
+        {
+          "name": "Felix Kittel",
+          "country": "de",
+          "club": "Academy of Martial Arts / Freiberg",
+          "belt": "Elite",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 3
+        },
+        {
+          "name": "Jakub Zacpal",
+          "country": "cz",
+          "club": "Snapdown Team Olomouc",
+          "belt": "Elite",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 3
+        },
+        {
+          "name": "Mansur Mukhtarov",
+          "country": "ru-cri",
+          "club": "Champions Factory",
+          "belt": "Elite",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 3
+        },
+        {
+          "name": "Marek Sedláček",
+          "country": "cz",
+          "club": "RBSD Šumperk",
+          "belt": "Elite",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28782"
+          ],
+          "rank": 3
+        },
+        {
+          "name": "Michał Szydłowski",
+          "country": "pl",
+          "club": "Spartan Chorzów",
+          "belt": "Elite",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 3
+        },
+        {
+          "name": "Ondřej Bortel",
+          "country": "cz",
+          "club": "Draculino Frýdek-Místek",
+          "belt": "Elite",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 3
+        },
+        {
+          "name": "Petr Dohnal",
+          "country": "cz",
+          "club": "Sportovní Klub Pretorian Židlochovice",
+          "belt": "Elite",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 3
+        },
+        {
+          "name": "Petr Mynář",
+          "country": "cz",
+          "club": "SWAG Academy",
+          "belt": "Elite",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 3
+        },
+        {
+          "name": "Said-Achmed Hasijew",
+          "country": "ru-cri",
+          "club": "Champions Factory",
+          "belt": "Elite",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 3
+        },
+        {
+          "name": "Samuel Karas",
+          "country": "sk",
+          "club": "Fightgym Bánovce",
+          "belt": "Elite",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 3
+        },
+        {
+          "name": "Siarhei Rylach",
+          "country": "pl",
+          "club": "Academia gorila warszawa",
+          "belt": "Elite",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 3
+        },
+        {
+          "name": "Tomáš Matejčuk",
+          "country": "sk",
+          "club": "Six Blades",
+          "belt": "Elite",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 3
+        },
+        {
+          "name": "Vojtěch Kovařovic",
+          "country": "cz",
+          "club": "sokol praha vrsovice",
+          "belt": "Elite",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 3
+        },
+        {
+          "name": "Adam Ryba",
+          "country": "cz",
+          "club": "Renzo Gracie Prague",
+          "belt": "Elite",
+          "points": 4,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 1,
+          "events": [
+            "event-28098",
+            "event-28045"
+          ],
+          "rank": 17
+        },
+        {
+          "name": "Batu Soyhan",
+          "country": "de",
+          "club": "Living Jiu Jitsu",
+          "belt": "Elite",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 18
+        },
+        {
+          "name": "David Karnold",
+          "country": "cz",
+          "club": "Jungle Bjj Žďár nad Sázavou",
+          "belt": "Elite",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 18
+        },
+        {
+          "name": "Ivan Mistrík",
+          "country": "sk",
+          "club": "Jiu Jitsu Collective Bratislava",
+          "belt": "Elite",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 18
+        },
+        {
+          "name": "Jakub Švarc",
+          "country": "cz",
+          "club": "Medo Gym Rosice",
+          "belt": "Elite",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 18
+        },
+        {
+          "name": "Jean Marie Nawezi",
+          "country": "cd",
+          "club": "ZR Team Austria",
+          "belt": "Elite",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 18
+        },
+        {
+          "name": "Martin Varga",
+          "country": "sk",
+          "club": "Free Fight Club Detva",
+          "belt": "Elite",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 18
+        },
+        {
+          "name": "Michal Konrád",
+          "country": "cz",
+          "club": "Gorila MMA",
+          "belt": "Elite",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 18
+        },
+        {
+          "name": "Michal Novák",
+          "country": "cz",
+          "club": "Sportovní Klub Pretorian Pardubice",
+          "belt": "Elite",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 18
+        },
+        {
+          "name": "Michal Pryymachuk",
+          "country": "cz",
+          "club": "Fightclub Brno",
+          "belt": "Elite",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 18
+        },
+        {
+          "name": "Nathan Kirkman",
+          "country": "gb",
+          "club": "Choketopus gym",
+          "belt": "Elite",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 18
+        },
+        {
+          "name": "Ondřej Kuželík",
+          "country": "cz",
+          "club": "Levelz BJJ",
+          "belt": "Elite",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 18
+        },
+        {
+          "name": "Radek Beneš",
+          "country": "cz",
+          "club": "KH BJJ",
+          "belt": "Elite",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 18
+        },
+        {
+          "name": "Robin Tribula",
+          "country": "cz",
+          "club": "Good luck gym Hradec Králové",
+          "belt": "Elite",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28782"
+          ],
+          "rank": 18
+        },
+        {
+          "name": "Viktor Franc",
+          "country": "cz",
+          "club": "Draculino Zlín",
+          "belt": "Elite",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 18
+        },
+        {
+          "name": "Vitalii Shorban",
+          "country": "ua",
+          "club": "",
+          "belt": "Elite",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 18
+        },
+        {
+          "name": "Daniel Majiroš",
+          "country": "sk",
+          "club": "Arte Suave Martin",
+          "belt": "Elite",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 33
+        },
+        {
+          "name": "Denis Mandok",
+          "country": "cz",
+          "club": "Renzo Gracie Prague",
+          "belt": "Elite",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 33
+        },
+        {
+          "name": "Filip Hrnčíř",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "belt": "Elite",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 33
+        },
+        {
+          "name": "Ivan Solovei",
+          "country": "ua",
+          "club": "Red Dot Gym",
+          "belt": "Elite",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 33
+        },
+        {
+          "name": "Kevin Attoh",
+          "country": "at",
+          "club": "",
+          "belt": "Elite",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 33
+        },
+        {
+          "name": "Lukáš Zelený",
+          "country": "cz",
+          "club": "Sportovní Klub Pretorian Kolín",
+          "belt": "Elite",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 33
+        },
+        {
+          "name": "Marian Korvas",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "belt": "Elite",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 33
+        },
+        {
+          "name": "Miroslav Vosyka",
+          "country": "cz",
+          "club": "Sportovní Klub Pretorian Kolín",
+          "belt": "Elite",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 33
+        },
+        {
+          "name": "Roman Valíček",
+          "country": "cz",
+          "club": "Sportovní Klub Pretorian Pardubice",
+          "belt": "Elite",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 33
+        },
+        {
+          "name": "Sali Azam",
+          "country": "de",
+          "club": "MMA Combat Sivi",
+          "belt": "Elite",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 33
+        },
+        {
+          "name": "Tibor Pukša",
+          "country": "sk",
+          "club": "SIX BLADES SLOVAKIA",
+          "belt": "Elite",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 33
+        },
+        {
+          "name": "Tomáš Odlevák",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "belt": "Elite",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 33
+        },
+        {
+          "name": "Vojtěch Bortel",
+          "country": "cz",
+          "club": "Draculino Frýdek-Místek",
+          "belt": "Elite",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 33
+        },
+        {
+          "name": "Vojtěch Klička",
+          "country": "cz",
+          "club": "DSC GYM CESKA TREBOVA",
+          "belt": "Elite",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 33
+        }
+      ],
+      "Blue": [
+        {
+          "name": "Radek Beneš",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "belt": "Blue",
+          "points": 18,
+          "gold": 2,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 1
+        },
+        {
+          "name": "Armen Bagdasaryan",
+          "country": "us",
+          "club": "Legacy Brazilian Jiu-Jitsu Yerevan",
+          "belt": "Blue",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 2
+        },
+        {
+          "name": "Gevorg Mazmanov",
+          "country": "am",
+          "club": "Medo Gym Rosice",
+          "belt": "Blue",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 2
+        },
+        {
+          "name": "Jaromír Roggenbuck",
+          "country": "cz",
+          "club": "Red Dot Gym",
+          "belt": "Blue",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 2
+        },
+        {
+          "name": "Julian Bar",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "belt": "Blue",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 2
+        },
+        {
+          "name": "Martin Maco",
+          "country": "sk",
+          "club": "Jungle BJJ Prague",
+          "belt": "Blue",
+          "points": 4,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 1,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 6
+        },
+        {
+          "name": "Zoltan Richtarik",
+          "country": "sk",
+          "club": "Base Bjj Nitra",
+          "belt": "Blue",
+          "points": 4,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 1,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 6
+        },
+        {
+          "name": "Filip Richtárik",
+          "country": "sk",
+          "club": "Base Bjj Nitra",
+          "belt": "Blue",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 8
+        },
+        {
+          "name": "Giuliano Dipoppa",
+          "country": "it",
+          "club": "Jungle BJJ Prague",
+          "belt": "Blue",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 8
+        },
+        {
+          "name": "Ondřej Koudelka",
+          "country": "cz",
+          "club": "Red Dot Gym",
+          "belt": "Blue",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 8
+        },
+        {
+          "name": "Михайло Polishchuk",
+          "country": "ua",
+          "club": "Jungle BJJ Prague",
+          "belt": "Blue",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 8
+        },
+        {
+          "name": "Makhsun Bakhshiyev",
+          "country": "kz",
+          "club": "Naru BJJ and Self-Defence",
+          "belt": "Blue",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 12
+        },
+        {
+          "name": "Samuel Davis",
+          "country": "cz",
+          "club": "BulletproofJJ",
+          "belt": "Blue",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 12
+        },
+        {
+          "name": "Stanisław Marszałek",
+          "country": "pl",
+          "club": "Husaria Włocławek",
+          "belt": "Blue",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 12
+        }
+      ],
+      "White": [
+        {
+          "name": "Asadullah Dadaschev",
+          "country": "ru-cri",
+          "club": "ZR Team Austria",
+          "belt": "White",
+          "points": 18,
+          "gold": 2,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 1
+        },
+        {
+          "name": "Daniel Merta",
+          "country": "cz",
+          "club": "RBSD Šumperk",
+          "belt": "White",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 2
+        },
+        {
+          "name": "Jan Skořepa",
+          "country": "cz",
+          "club": "Choketopus gym",
+          "belt": "White",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 2
+        },
+        {
+          "name": "Jan Šubrt",
+          "country": "cz",
+          "club": "RBSD Šumperk",
+          "belt": "White",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 2
+        },
+        {
+          "name": "Lukáš Duras",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "belt": "White",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 2
+        },
+        {
+          "name": "Šimon Lucký",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "belt": "White",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 2
+        },
+        {
+          "name": "Dominik Bárta",
+          "country": "cz",
+          "club": "KH BJJ",
+          "belt": "White",
+          "points": 6,
+          "gold": 0,
+          "silver": 2,
+          "bronze": 0,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 7
+        },
+        {
+          "name": "Bleron Gashi",
+          "country": "al",
+          "club": "MMA MUNDIAL Ingolstadt",
+          "belt": "White",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 8
+        },
+        {
+          "name": "Jiří Ortman",
+          "country": "cz",
+          "club": "BulletProof Jiu-Jitsu Harmony Písek",
+          "belt": "White",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 8
+        },
+        {
+          "name": "Matej Busovsky",
+          "country": "cz",
+          "club": "Pragoplata BJJ",
+          "belt": "White",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 8
+        },
+        {
+          "name": "Max Bersin",
+          "country": "de",
+          "club": "Home of Sports Elbflorenz",
+          "belt": "White",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 8
+        },
+        {
+          "name": "Muhammad Hammad",
+          "country": "de",
+          "club": "Hammerbrook Gym / Ivory MMA",
+          "belt": "White",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 8
+        },
+        {
+          "name": "Antonín Hájek",
+          "country": "cz",
+          "club": "Grappling Squad Praha",
+          "belt": "White",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 13
+        },
+        {
+          "name": "Bartosz Zwoliński",
+          "country": "pl",
+          "club": "Husaria Włocławek",
+          "belt": "White",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 13
+        },
+        {
+          "name": "David Dau",
+          "country": "vn",
+          "club": "Jungle BJJ Prague",
+          "belt": "White",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 13
+        },
+        {
+          "name": "Oliver Irimia",
+          "country": "at",
+          "club": "ZR Team Austria",
+          "belt": "White",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 13
+        },
+        {
+          "name": "Štěpán Kroupa",
+          "country": "cz",
+          "club": "BulletproofJJ",
+          "belt": "White",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 13
+        },
+        {
+          "name": "Tomáš Havlík",
+          "country": "cz",
+          "club": "Pragoplata BJJ",
+          "belt": "White",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-27716"
+          ],
+          "rank": 13
+        }
+      ]
+    },
+    "Female": {
+      "Beginner": [
+        {
+          "name": "Tereza Ševelová",
+          "country": "cz",
+          "club": "Fightclub Brno",
+          "belt": "Beginner",
+          "points": 10,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-30095",
+            "event-28045"
+          ],
+          "rank": 1
+        },
+        {
+          "name": "Ella Glattová",
+          "country": "cz",
+          "club": "BJJHB Pretorian Team",
+          "belt": "Beginner",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 2
+        },
+        {
+          "name": "Emma Cardová",
+          "country": "cz",
+          "club": "SKS Arena Kladno",
+          "belt": "Beginner",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 2
+        },
+        {
+          "name": "Kamila Koudelková",
+          "country": "cz",
+          "club": "Sportovní Klub Pretorian Pardubice",
+          "belt": "Beginner",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 2
+        },
+        {
+          "name": "Kristýna Honsová",
+          "country": "cz",
+          "club": "Tiger Team Praha",
+          "belt": "Beginner",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 2
+        },
+        {
+          "name": "Vendula Mikundová",
+          "country": "cz",
+          "club": "Fightclub Brno",
+          "belt": "Beginner",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 2
+        },
+        {
+          "name": "Annemarie Von Kienlin",
+          "country": "de",
+          "club": "Apis Martial Arts",
+          "belt": "Beginner",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 7
+        },
+        {
+          "name": "Ema Bradáčová",
+          "country": "sk",
+          "club": "Base Bjj Nitra",
+          "belt": "Beginner",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 7
+        },
+        {
+          "name": "Juliana Beťková",
+          "country": "sk",
+          "club": "Base Bjj Nitra",
+          "belt": "Beginner",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 7
+        },
+        {
+          "name": "Marie Růžičková",
+          "country": "cz",
+          "club": "BJJ Beroun",
+          "belt": "Beginner",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 7
+        },
+        {
+          "name": "Nicolia Bursikova",
+          "country": "cz",
+          "club": "Fitness Fight Center Mělník z.s.",
+          "belt": "Beginner",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 7
+        },
+        {
+          "name": "Vanessa Pauerová",
+          "country": "sk",
+          "club": "Field Gym",
+          "belt": "Beginner",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 7
+        },
+        {
+          "name": "Alba Sejdiu",
+          "country": "kos",
+          "club": "MFC Moszat Fight Club/Roger Gracie Academy Regensburg",
+          "belt": "Beginner",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 13
+        },
+        {
+          "name": "Sophia Stříteská",
+          "country": "cz",
+          "club": "Choketopus gym",
+          "belt": "Beginner",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 13
+        },
+        {
+          "name": "Tereza Bougioukli",
+          "country": "cz",
+          "club": "BJJ Beroun",
+          "belt": "Beginner",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-30095"
+          ],
+          "rank": 13
+        },
+        {
+          "name": "Veronika G",
+          "country": "sk",
+          "club": "Jiu Jitsu Collective Bratislava",
+          "belt": "Beginner",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 13
+        }
+      ],
+      "Advanced": [
+        {
+          "name": "Jana Marie Muchová",
+          "country": "cz",
+          "club": "Draculino Frýdek-Místek",
+          "belt": "Advanced",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 1
+        },
+        {
+          "name": "Karolína Škarková",
+          "country": "cz",
+          "club": "Penta Gym Prague",
+          "belt": "Advanced",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 1
+        },
+        {
+          "name": "Natalie Reisenauer",
+          "country": "cz",
+          "club": "Snapdown Team Olomouc",
+          "belt": "Advanced",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 1
+        },
+        {
+          "name": "Veronika Zajícová",
+          "country": "cz",
+          "club": "OFA",
+          "belt": "Advanced",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 1
+        },
+        {
+          "name": "Šárka Šumná",
+          "country": "cz",
+          "club": "SWAG Academy",
+          "belt": "Advanced",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 5
+        },
+        {
+          "name": "Veronika Krejzová",
+          "country": "cz",
+          "club": "Choketopus gym",
+          "belt": "Advanced",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 5
+        },
+        {
+          "name": "Vivi Szabó",
+          "country": "hu",
+          "club": "Törökbálinti Brazil Jiu Jitsu Sportegyesület (ZR TEAM TÖRÖKBÁLINT)",
+          "belt": "Advanced",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 5
+        },
+        {
+          "name": "Віра Saliieva",
+          "country": "ua",
+          "club": "Southside BJJ Vinnytsia",
+          "belt": "Advanced",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 5
+        },
+        {
+          "name": "Adéla Pořická",
+          "country": "cz",
+          "club": "Draculino Zlín",
+          "belt": "Advanced",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 9
+        },
+        {
+          "name": "Barbora Macúchová",
+          "country": "cz",
+          "club": "Draculino Ostrava",
+          "belt": "Advanced",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 9
+        },
+        {
+          "name": "Helena Štekerová",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "belt": "Advanced",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28098"
+          ],
+          "rank": 9
+        }
+      ],
+      "Elite": [
+        {
+          "name": "Linda Stachová",
+          "country": "sk",
+          "club": "SWAG Academy",
+          "belt": "Elite",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 1
+        },
+        {
+          "name": "Sára Štěpánová",
+          "country": "cz",
+          "club": "Penta Gym Prague",
+          "belt": "Elite",
+          "points": 9,
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 1
+        },
+        {
+          "name": "Petra Šindelářová",
+          "country": "cz",
+          "club": "Snapdown Team Olomouc",
+          "belt": "Elite",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 3
+        },
+        {
+          "name": "Valerie Poulova",
+          "country": "cz",
+          "club": "DSC GYM CESKA TREBOVA",
+          "belt": "Elite",
+          "points": 3,
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 3
+        },
+        {
+          "name": "Veronika Zajícová",
+          "country": "cz",
+          "club": "OFA",
+          "belt": "Elite",
+          "points": 1,
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "events": [
+            "event-28045"
+          ],
+          "rank": 5
+        }
+      ]
+    }
+  }
+}

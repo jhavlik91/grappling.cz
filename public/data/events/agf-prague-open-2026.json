@@ -1,0 +1,101 @@
+{
+  "slug": "agf-prague-open-2026",
+  "name": "AGF Prague Open 2026",
+  "date": "2026-04-10",
+  "country": "CZ",
+  "categories": [
+    {
+      "name": "Men No-GI / Beginner / -66 kg",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Unknown",
+      "belt": "Beginner",
+      "weight": "-66 kg",
+      "athletes": [
+        {
+          "name": "Jan Šubrt",
+          "country": "cz",
+          "club": "RBSD Šumperk",
+          "placement": 1,
+          "userId": 348576
+        },
+        {
+          "name": "Tadeáš Stávek",
+          "country": "cz",
+          "club": "Clube De Jiu Jitsu Pitbull Hodonín",
+          "placement": 2,
+          "userId": 2397425
+        },
+        {
+          "name": "Vojtěch Kalina",
+          "country": "cz",
+          "club": "Good luck gym Hradec Králové",
+          "placement": 3,
+          "userId": 2155356
+        }
+      ]
+    },
+    {
+      "name": "Men No-GI / Beginner / -77 kg",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Unknown",
+      "belt": "Beginner",
+      "weight": "-77 kg",
+      "athletes": [
+        {
+          "name": "Ondřej Jelínek",
+          "country": "cz",
+          "club": "Sportovní Klub Pretorian Pardubice",
+          "placement": 1,
+          "userId": 2650541
+        },
+        {
+          "name": "Jan Gojný",
+          "country": "cz",
+          "club": "Sportovní Klub Pretorian Pardubice",
+          "placement": 2,
+          "userId": 2633082
+        },
+        {
+          "name": "Jiří Pospíšil",
+          "country": "cz",
+          "club": "RBSD Šumperk",
+          "placement": 3,
+          "userId": 2392489
+        }
+      ]
+    },
+    {
+      "name": "Men No-GI / Beginner / -84 kg",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Unknown",
+      "belt": "Beginner",
+      "weight": "-84 kg",
+      "athletes": [
+        {
+          "name": "Jáchym Pasák",
+          "country": "cz",
+          "club": "Grappling Squad Praha",
+          "placement": 1,
+          "userId": 2057748
+        },
+        {
+          "name": "Ivan Zyzen",
+          "country": "",
+          "club": "CTFT MMA",
+          "placement": 2,
+          "userId": 1936609
+        },
+        {
+          "name": "Marek Sedláček",
+          "country": "cz",
+          "club": "RBSD Šumperk",
+          "placement": 3,
+          "userId": 2647457
+        }
+      ]
+    }
+  ]
+}

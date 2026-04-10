@@ -1,0 +1,204 @@
+@import "tailwindcss";
+
+@theme inline {
+  --font-sans: var(--font-inter);
+  --font-display: var(--font-outfit);
+  --color-acid: #84CC16;
+  --color-acid-dark: #65A30D;
+  --color-electric: #A855F7;
+  --color-electric-dark: #7C3AED;
+  --color-surface: rgba(255, 255, 255, 0.03);
+  --color-surface-hover: rgba(255, 255, 255, 0.06);
+  --color-border: rgba(255, 255, 255, 0.06);
+  --color-border-hover: rgba(255, 255, 255, 0.12);
+}
+
+/* ─── Base ─── */
+body {
+  background: #0D0D0D;
+  color: #e5e5e5;
+}
+
+/* ─── Grain Texture Overlay ─── */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  pointer-events: none;
+  opacity: 0.035;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E");
+  background-repeat: repeat;
+  background-size: 256px 256px;
+}
+
+/* ─── Glassmorphism ─── */
+.glass {
+  background: rgba(255, 255, 255, 0.03);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.glass-hover:hover {
+  background: rgba(255, 255, 255, 0.06);
+  border-color: rgba(255, 255, 255, 0.12);
+}
+
+/* ─── Neon Glow Button ─── */
+.btn-neon {
+  position: relative;
+  background: linear-gradient(135deg, #84CC16, #65A30D);
+  color: #0D0D0D;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  transition: all 0.3s ease;
+  overflow: hidden;
+}
+
+.btn-neon::before {
+  content: "";
+  position: absolute;
+  inset: -2px;
+  background: linear-gradient(135deg, #84CC16, #A855F7, #84CC16);
+  border-radius: inherit;
+  z-index: -1;
+  opacity: 0;
+  filter: blur(12px);
+  transition: opacity 0.3s ease;
+}
+
+.btn-neon:hover::before {
+  opacity: 1;
+}
+
+.btn-neon:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 0 30px rgba(132, 204, 22, 0.3);
+}
+
+/* ─── Outline button ─── */
+.btn-outline {
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  color: #e5e5e5;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  transition: all 0.3s ease;
+}
+
+.btn-outline:hover {
+  border-color: #A855F7;
+  color: #fff;
+  box-shadow: 0 0 20px rgba(168, 85, 247, 0.15);
+}
+
+/* ─── 3D Card Tilt ─── */
+.card-3d {
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
+  transform-style: preserve-3d;
+  perspective: 1000px;
+}
+
+.card-3d:hover {
+  transform: translateY(-8px) rotateX(2deg) rotateY(-2deg);
+  box-shadow: 0 25px 50px rgba(0, 0, 0, 0.5);
+}
+
+/* ─── Live Ticker ─── */
+@keyframes ticker-scroll {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+.ticker-track {
+  animation: ticker-scroll 30s linear infinite;
+}
+
+.ticker-track:hover {
+  animation-play-state: paused;
+}
+
+/* ─── Glow Pulse ─── */
+@keyframes glow-pulse {
+  0%, 100% { opacity: 0.4; }
+  50% { opacity: 0.8; }
+}
+
+.glow-pulse {
+  animation: glow-pulse 3s ease-in-out infinite;
+}
+
+/* ─── Belt Glow Colors ─── */
+.glow-white { box-shadow: 0 0 30px rgba(255, 255, 255, 0.15); }
+.glow-blue { box-shadow: 0 0 30px rgba(59, 130, 246, 0.3); }
+.glow-purple { box-shadow: 0 0 30px rgba(168, 85, 247, 0.3); }
+.glow-brown { box-shadow: 0 0 30px rgba(180, 120, 60, 0.3); }
+.glow-black { box-shadow: 0 0 30px rgba(255, 255, 255, 0.1), inset 0 0 20px rgba(255,255,255,0.05); }
+
+/* ─── Ranking Table Cards ─── */
+/* Wrapper sets --rank-color & --rank-glow, children inherit */
+.rank-theme-electric { --rank-color: 168 85 247; }
+.rank-theme-acid    { --rank-color: 132 204 22; }
+
+.rank-row td {
+  background: rgba(19, 19, 19, 0.8);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-top: 1px solid rgba(var(--rank-color), 0.35);
+  border-bottom: 1px solid rgba(var(--rank-color), 0.35);
+  transition: all 0.3s ease;
+}
+
+.rank-row td:first-child {
+  border-left: 1px solid rgba(var(--rank-color), 0.35);
+  border-radius: 1rem 0 0 1rem;
+}
+
+.rank-row td:last-child {
+  border-right: 1px solid rgba(var(--rank-color), 0.35);
+  border-radius: 0 1rem 1rem 0;
+}
+
+.rank-row {
+  box-shadow: 0 0 12px rgba(var(--rank-color), 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.rank-row:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 0 20px rgba(var(--rank-color), 0.25);
+}
+
+.rank-row:hover td {
+  border-color: rgba(var(--rank-color), 0.6);
+}
+
+.rank-badge {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.25rem;
+  height: 2.25rem;
+  border-radius: 9999px;
+  font-weight: 900;
+  font-size: 0.875rem;
+  background: rgb(var(--rank-color));
+  box-shadow: 0 0 10px rgba(var(--rank-color), 0.4);
+}
+
+.rank-theme-electric .rank-badge { color: #fff; }
+.rank-theme-acid .rank-badge { color: #000; }
+
+/* ─── Scrollbar ─── */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: #0D0D0D; }
+::-webkit-scrollbar-thumb { background: #333; border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: #555; }
+
+/* ─── Selection ─── */
+::selection {
+  background: rgba(168, 85, 247, 0.3);
+  color: #fff;
+}

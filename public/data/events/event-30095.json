@@ -1,0 +1,1185 @@
+{
+  "slug": "event-30095",
+  "name": "Tatamy Event 30095",
+  "date": "2026-04-10",
+  "country": "CZ",
+  "categories": [
+    {
+      "name": "Adult / No Gi / Male / Beginner / Adults / -65 kg",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Adult",
+      "belt": "Beginner",
+      "weight": "-65 kg",
+      "athletes": [
+        {
+          "name": "Vojtěch Kalina",
+          "country": "cz",
+          "club": "Good luck gym Hradec Králové",
+          "placement": 1,
+          "userId": 2155356
+        },
+        {
+          "name": "Samuel Buchar",
+          "country": "cz",
+          "club": "BulletproofJJ",
+          "placement": 2,
+          "userId": 2697076
+        },
+        {
+          "name": "Jakub Lavička",
+          "country": "cz",
+          "club": "Allaroundfighters",
+          "placement": 3,
+          "userId": 2399150
+        }
+      ]
+    },
+    {
+      "name": "Adult / No Gi / Male / Beginner / Adults / -70 kg",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Adult",
+      "belt": "Beginner",
+      "weight": "-70 kg",
+      "athletes": [
+        {
+          "name": "Emir-Kaan Torlak",
+          "country": "tr",
+          "club": "EVLTN Martial Arts Berlin",
+          "placement": 1,
+          "userId": 1914913
+        },
+        {
+          "name": "Tadeáš Stávek",
+          "country": "cz",
+          "club": "Clube De Jiu Jitsu Pitbull Hodonín",
+          "placement": 2,
+          "userId": 2397425
+        },
+        {
+          "name": "Simon Neumeier-Giampietro",
+          "country": "de",
+          "club": "AKXE BJJ GERMANY",
+          "placement": 3,
+          "userId": 1991880
+        }
+      ]
+    },
+    {
+      "name": "Adult / No Gi / Male / Beginner / Adults / -77 kg",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Adult",
+      "belt": "Beginner",
+      "weight": "-77 kg",
+      "athletes": [
+        {
+          "name": "Efekan Aksoy",
+          "country": "tr",
+          "club": "EVLTN Martial Arts Berlin",
+          "placement": 1,
+          "userId": 1903173
+        },
+        {
+          "name": "Ivan Huzo",
+          "country": "ua",
+          "club": "Alpha gym Karlovy Vary",
+          "placement": 2,
+          "userId": 2485340
+        },
+        {
+          "name": "Kryštof Matlák",
+          "country": "cz",
+          "club": "Delta gym",
+          "placement": 3,
+          "userId": 2713092
+        }
+      ]
+    },
+    {
+      "name": "Adult / No Gi / Male / Beginner / Adults / -83 kg",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Adult",
+      "belt": "Beginner",
+      "weight": "-83 kg",
+      "athletes": [
+        {
+          "name": "Jakub Hrubý",
+          "country": "cz",
+          "club": "SWAG Academy",
+          "placement": 1,
+          "userId": 1795992
+        },
+        {
+          "name": "Stanislav Muška",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "placement": 2,
+          "userId": 2739735
+        },
+        {
+          "name": "Cuong Manh Nguyen",
+          "country": "cz",
+          "club": "Alpha gym Karlovy Vary",
+          "placement": 3,
+          "userId": 2495916
+        }
+      ]
+    },
+    {
+      "name": "Adult / No Gi / Male / Beginner / Adults / -91 kg",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Adult",
+      "belt": "Beginner",
+      "weight": "-91 kg",
+      "athletes": [
+        {
+          "name": "Jan Kostka",
+          "country": "cz",
+          "club": "BJJ Beroun",
+          "placement": 1,
+          "userId": 2448009
+        },
+        {
+          "name": "Michal Tranta",
+          "country": "cz",
+          "club": "Reinders MMA",
+          "placement": 2,
+          "userId": 1943967
+        },
+        {
+          "name": "Mehmet Er",
+          "country": "tr",
+          "club": "EVLTN Martial Arts Berlin",
+          "placement": 3,
+          "userId": 1689266
+        }
+      ]
+    },
+    {
+      "name": "Adult / No Gi / Male / Beginner / Adults / -100 kg",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Adult",
+      "belt": "Beginner",
+      "weight": "-100 kg",
+      "athletes": [
+        {
+          "name": "Daniel Daněček",
+          "country": "cz",
+          "club": "PopStarGym",
+          "placement": 1,
+          "userId": 654765
+        },
+        {
+          "name": "Martin Dobřanský",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "placement": 2,
+          "userId": 2541626
+        },
+        {
+          "name": "Marek Handl",
+          "country": "cz",
+          "club": "PopStarGym",
+          "placement": 3,
+          "userId": 2392828
+        }
+      ]
+    },
+    {
+      "name": "Adult / No Gi / Male / Beginner / Adults / +100 kg",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Adult",
+      "belt": "Beginner",
+      "weight": "100 kg",
+      "athletes": [
+        {
+          "name": "Jakub Šik",
+          "country": "cz",
+          "club": "5th Dimension BJJ",
+          "placement": 1,
+          "userId": 2057173
+        },
+        {
+          "name": "Nikola Rosenkranz",
+          "country": "cz",
+          "club": "Sportovní Klub Pretorian Pardubice",
+          "placement": 2,
+          "userId": 2403499
+        },
+        {
+          "name": "Roman Štěpánek",
+          "country": "cz",
+          "club": "Sportovní Klub Pretorian Pardubice",
+          "placement": 3,
+          "userId": 2267131
+        }
+      ]
+    },
+    {
+      "name": "Adult / No Gi / Male / Beginner / Masters 35+ / -83 kg",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Master",
+      "belt": "Beginner",
+      "weight": "-83 kg",
+      "athletes": [
+        {
+          "name": "Yevhen Bondarenko",
+          "country": "ua",
+          "club": "Spaniardmma",
+          "placement": 1,
+          "userId": 2719134
+        },
+        {
+          "name": "Odysseas Karavasileiou",
+          "country": "gr",
+          "club": "A.C. Tornado Academy (Draculino Thessaloniki-Chalkidiki)",
+          "placement": 2,
+          "userId": 1855541
+        }
+      ]
+    },
+    {
+      "name": "Adult / No Gi / Male / Beginner / Masters 35+ / -91 kg",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Master",
+      "belt": "Beginner",
+      "weight": "-91 kg",
+      "athletes": [
+        {
+          "name": "Ivo Frank",
+          "country": "cz",
+          "club": "Jungle Bjj Žďár nad Sázavou",
+          "placement": 1,
+          "userId": 2444430
+        },
+        {
+          "name": "Odysseas Karavasileiou",
+          "country": "gr",
+          "club": "A.C. Tornado Academy (Draculino Thessaloniki-Chalkidiki)",
+          "placement": 2,
+          "userId": 1855541
+        },
+        {
+          "name": "Martin Kačer",
+          "country": "cz",
+          "club": "MMA Monster Gym",
+          "placement": 3,
+          "userId": 2747607
+        }
+      ]
+    },
+    {
+      "name": "Adult / No Gi / Male / Beginner / Masters 40+ / -77 kg",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Master",
+      "belt": "Beginner",
+      "weight": "-77 kg",
+      "athletes": [
+        {
+          "name": "Jan Kratochvíl",
+          "country": "cz",
+          "club": "Tiger gym",
+          "placement": 1,
+          "userId": 2713342
+        },
+        {
+          "name": "Václav Kareš",
+          "country": "cz",
+          "club": "Penta Gym Prague",
+          "placement": 2,
+          "userId": 388155
+        }
+      ]
+    },
+    {
+      "name": "Adult / No Gi / Male / Intermediate  / Adults / -77 kg",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Adult",
+      "belt": "Advanced",
+      "weight": "-77 kg",
+      "athletes": [
+        {
+          "name": "Daniel Peša",
+          "country": "cz",
+          "club": "Panther BJJ Boskovice",
+          "placement": 1,
+          "userId": 1190123
+        },
+        {
+          "name": "Ondřej Kuchta",
+          "country": "cz",
+          "club": "MMA Monster Gym",
+          "placement": 2,
+          "userId": 1372184
+        },
+        {
+          "name": "Matyáš Pejřil",
+          "country": "cz",
+          "club": "SWAG Academy",
+          "placement": 3,
+          "userId": 1826832
+        }
+      ]
+    },
+    {
+      "name": "Adult / No Gi / Male / Intermediate  / Adults / -83 kg",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Adult",
+      "belt": "Advanced",
+      "weight": "-83 kg",
+      "athletes": [
+        {
+          "name": "Matěj Souček",
+          "country": "cz",
+          "club": "BJJ Beroun",
+          "placement": 1,
+          "userId": 1257588
+        },
+        {
+          "name": "Filip Svoboda",
+          "country": "cz",
+          "club": "SWAG Academy",
+          "placement": 2,
+          "userId": 1282716
+        },
+        {
+          "name": "Daniel Hrbáček",
+          "country": "cz",
+          "club": "BulletproofJJ",
+          "placement": 3,
+          "userId": 1721020
+        }
+      ]
+    },
+    {
+      "name": "Adult / No Gi / Male / Intermediate  / Adults / -91 kg",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Adult",
+      "belt": "Advanced",
+      "weight": "-91 kg",
+      "athletes": [
+        {
+          "name": "Misha Mandzini",
+          "country": "ua",
+          "club": "Renzo Gracie Prague",
+          "placement": 1,
+          "userId": 1629269
+        },
+        {
+          "name": "Peter Hudec",
+          "country": "sk",
+          "club": "CHECKMAT SLOVAKIA",
+          "placement": 2,
+          "userId": 1709636
+        },
+        {
+          "name": "Maksym Kolomiiets",
+          "country": "ua",
+          "club": "ZR Team KOŠICE",
+          "placement": 3,
+          "userId": 2740217
+        }
+      ]
+    },
+    {
+      "name": "Adult / No Gi / Male / Intermediate  / Adults / -100 kg",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Adult",
+      "belt": "Advanced",
+      "weight": "-100 kg",
+      "athletes": [
+        {
+          "name": "Nuri Temirov",
+          "country": "ua",
+          "club": "Jungle BJJ Prague",
+          "placement": 1,
+          "userId": 1399309
+        },
+        {
+          "name": "Adam Gemrot",
+          "country": "cz",
+          "club": "Gorila MMA",
+          "placement": 2,
+          "userId": 857518
+        },
+        {
+          "name": "Gabriel Busuioc",
+          "country": "cz",
+          "club": "BulletproofJJ",
+          "placement": 3,
+          "userId": 1646574
+        }
+      ]
+    },
+    {
+      "name": "Adult / No Gi / Male / Intermediate  / Masters 35+ / -83 kg",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Master",
+      "belt": "Advanced",
+      "weight": "-83 kg",
+      "athletes": [
+        {
+          "name": "Jakub Kadlec",
+          "country": "cz",
+          "club": "SWAG Academy",
+          "placement": 1,
+          "userId": 813053
+        },
+        {
+          "name": "Odysseas Karavasileiou",
+          "country": "gr",
+          "club": "A.C. Tornado Academy (Draculino Thessaloniki-Chalkidiki)",
+          "placement": 2,
+          "userId": 1855541
+        }
+      ]
+    },
+    {
+      "name": "Adult / No Gi / Male / Professional / Adults / -70 kg",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Adult",
+      "belt": "Elite",
+      "weight": "-70 kg",
+      "athletes": [
+        {
+          "name": "Tomáš Matejčuk",
+          "country": "sk",
+          "club": "Six Blades",
+          "placement": 1,
+          "userId": 458768
+        },
+        {
+          "name": "Vitalii Shorban",
+          "country": "ua",
+          "club": "",
+          "placement": 2,
+          "userId": 2647615
+        },
+        {
+          "name": "Ivan Solovei",
+          "country": "ua",
+          "club": "Red Dot Gym",
+          "placement": 3,
+          "userId": 2186445
+        }
+      ]
+    },
+    {
+      "name": "Adult / No Gi / Male / Professional / Adults / -77 kg",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Adult",
+      "belt": "Elite",
+      "weight": "-77 kg",
+      "athletes": [
+        {
+          "name": "Jan Jilčík",
+          "country": "cz",
+          "club": "Sportovní Klub Pretorian Židlochovice",
+          "placement": 1,
+          "userId": 804355
+        },
+        {
+          "name": "Michal Konrád",
+          "country": "cz",
+          "club": "Gorila MMA",
+          "placement": 2,
+          "userId": 295135
+        },
+        {
+          "name": "Vojtěch Klička",
+          "country": "cz",
+          "club": "DSC GYM CESKA TREBOVA",
+          "placement": 3,
+          "userId": 495017
+        }
+      ]
+    },
+    {
+      "name": "Adult / No Gi / Male / Professional / Adults / -91 kg",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Adult",
+      "belt": "Elite",
+      "weight": "-91 kg",
+      "athletes": [
+        {
+          "name": "Jan Stach",
+          "country": "cz",
+          "club": "SWAG Academy",
+          "placement": 1,
+          "userId": 64048
+        },
+        {
+          "name": "David Karnold",
+          "country": "cz",
+          "club": "Jungle Bjj Žďár nad Sázavou",
+          "placement": 2,
+          "userId": 81198
+        }
+      ]
+    },
+    {
+      "name": "Adult / No Gi / Female / Beginner / Adults / -55 kg",
+      "gi": false,
+      "gender": "Female",
+      "ageGroup": "Adult",
+      "belt": "Beginner",
+      "weight": "-55 kg",
+      "athletes": [
+        {
+          "name": "Tereza Ševelová",
+          "country": "cz",
+          "club": "Fightclub Brno",
+          "placement": 1,
+          "userId": 2549262
+        },
+        {
+          "name": "Nicolia Bursikova",
+          "country": "cz",
+          "club": "Fitness Fight Center Mělník z.s.",
+          "placement": 2,
+          "userId": 2744769
+        },
+        {
+          "name": "Tereza Bougioukli",
+          "country": "cz",
+          "club": "BJJ Beroun",
+          "placement": 3,
+          "userId": 2702783
+        }
+      ]
+    },
+    {
+      "name": "Adult / No Gi / Female / Beginner / Adults / -65 kg",
+      "gi": false,
+      "gender": "Female",
+      "ageGroup": "Adult",
+      "belt": "Beginner",
+      "weight": "-65 kg",
+      "athletes": [
+        {
+          "name": "Emma Cardová",
+          "country": "cz",
+          "club": "SKS Arena Kladno",
+          "placement": 1,
+          "userId": 391488
+        },
+        {
+          "name": "Marie Růžičková",
+          "country": "cz",
+          "club": "BJJ Beroun",
+          "placement": 2,
+          "userId": 2701048
+        }
+      ]
+    },
+    {
+      "name": "Adult / Gi / Male / White belt / Adults / -70 kg",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "Adult",
+      "belt": "White",
+      "weight": "-70 kg",
+      "athletes": [
+        {
+          "name": "Emir-Kaan Torlak",
+          "country": "tr",
+          "club": "EVLTN Martial Arts Berlin",
+          "placement": 1,
+          "userId": 1914913
+        },
+        {
+          "name": "Vítězslav Langer",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "placement": 2,
+          "userId": 2265283
+        },
+        {
+          "name": "Simon Neumeier-Giampietro",
+          "country": "de",
+          "club": "AKXE BJJ GERMANY",
+          "placement": 3,
+          "userId": 1991880
+        }
+      ]
+    },
+    {
+      "name": "Adult / Gi / Male / White belt / Adults / -77 kg",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "Adult",
+      "belt": "White",
+      "weight": "-77 kg",
+      "athletes": [
+        {
+          "name": "František Jureček",
+          "country": "cz",
+          "club": "Draculino Karviná",
+          "placement": 1,
+          "userId": 2455335
+        },
+        {
+          "name": "Vít Voráček",
+          "country": "cz",
+          "club": "Tora Academy",
+          "placement": 2,
+          "userId": 2582611
+        },
+        {
+          "name": "Hüseyin Demir",
+          "country": "de",
+          "club": "AKXE BJJ GERMANY",
+          "placement": 3,
+          "userId": 1943675
+        }
+      ]
+    },
+    {
+      "name": "Adult / Gi / Male / White belt / Adults / -83 kg",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "Adult",
+      "belt": "White",
+      "weight": "-83 kg",
+      "athletes": [
+        {
+          "name": "Daniel Lukš",
+          "country": "cz",
+          "club": "Tiger gym",
+          "placement": 1,
+          "userId": 1967415
+        },
+        {
+          "name": "Jiří Kořán",
+          "country": "cz",
+          "club": "Tora Academy",
+          "placement": 2,
+          "userId": 2450085
+        },
+        {
+          "name": "Jan Hruška",
+          "country": "cz",
+          "club": "DSC GYM CESKA TREBOVA",
+          "placement": 3,
+          "userId": 2746640
+        }
+      ]
+    },
+    {
+      "name": "Adult / Gi / Male / White belt / Adults / -91 kg",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "Adult",
+      "belt": "White",
+      "weight": "-91 kg",
+      "athletes": [
+        {
+          "name": "Mehmet Er",
+          "country": "tr",
+          "club": "EVLTN Martial Arts Berlin",
+          "placement": 1,
+          "userId": 1689266
+        },
+        {
+          "name": "Niek Gerritsen",
+          "country": "nl",
+          "club": "Jungle BJJ Prague",
+          "placement": 2,
+          "userId": 1384344
+        },
+        {
+          "name": "Marek Vágner",
+          "country": "cz",
+          "club": "",
+          "placement": 3,
+          "userId": 2737899
+        }
+      ]
+    },
+    {
+      "name": "Adult / Gi / Male / White belt / Adults / -100 kg",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "Adult",
+      "belt": "White",
+      "weight": "-100 kg",
+      "athletes": [
+        {
+          "name": "Péter Bence Kertész",
+          "country": "hu",
+          "club": "",
+          "placement": 1,
+          "userId": 2388653
+        },
+        {
+          "name": "Martin Dobřanský",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "placement": 2,
+          "userId": 2541626
+        },
+        {
+          "name": "Matej Baláž",
+          "country": "sk",
+          "club": "Dracula Gym",
+          "placement": 3,
+          "userId": 2367773
+        }
+      ]
+    },
+    {
+      "name": "Adult / Gi / Male / Blue belt / Adults / -70 kg",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "Adult",
+      "belt": "Blue",
+      "weight": "-70 kg",
+      "athletes": [
+        {
+          "name": "Dmytro Kulichkovskyi",
+          "country": "ua",
+          "club": "ZR Team KOŠICE",
+          "placement": 1,
+          "userId": 2057949
+        },
+        {
+          "name": "Filip Futák",
+          "country": "cz",
+          "club": "SKP Copacabana Vsetín",
+          "placement": 2,
+          "userId": 80644
+        },
+        {
+          "name": "Jiří Mottl",
+          "country": "cz",
+          "club": "Choketopus gym",
+          "placement": 3,
+          "userId": 387537
+        }
+      ]
+    },
+    {
+      "name": "Adult / Gi / Male / Blue belt / Adults / -77 kg",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "Adult",
+      "belt": "Blue",
+      "weight": "-77 kg",
+      "athletes": [
+        {
+          "name": "Aleš Sedlák",
+          "country": "sk",
+          "club": "CHECKMAT SLOVAKIA",
+          "placement": 1,
+          "userId": 1722803
+        },
+        {
+          "name": "Robin Petřík",
+          "country": "cz",
+          "club": "Draculino Karviná",
+          "placement": 2,
+          "userId": 913078
+        },
+        {
+          "name": "Jan Karafiát",
+          "country": "cz",
+          "club": "Clube de Jiu Jitsu Pitbull Czech Republic",
+          "placement": 3,
+          "userId": 735816
+        }
+      ]
+    },
+    {
+      "name": "Adult / Gi / Male / Blue belt / Adults / -83 kg",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "Adult",
+      "belt": "Blue",
+      "weight": "-83 kg",
+      "athletes": [
+        {
+          "name": "Patrik Demovič",
+          "country": "sk",
+          "club": "CHECKMAT SLOVAKIA",
+          "placement": 1,
+          "userId": 675107
+        },
+        {
+          "name": "David Šolc",
+          "country": "cz",
+          "club": "Draculino Frýdek-Místek",
+          "placement": 2,
+          "userId": 1653147
+        },
+        {
+          "name": "Michael Ulrich",
+          "country": "cz",
+          "club": "Liberty BJJ",
+          "placement": 3,
+          "userId": 1775521
+        }
+      ]
+    },
+    {
+      "name": "Adult / Gi / Male / Blue belt / Adults / -91 kg",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "Adult",
+      "belt": "Blue",
+      "weight": "-91 kg",
+      "athletes": [
+        {
+          "name": "Михайло Polishchuk",
+          "country": "ua",
+          "club": "Jungle BJJ Prague",
+          "placement": 1,
+          "userId": 1048255
+        },
+        {
+          "name": "Michael Hrdý",
+          "country": "cz",
+          "club": "Sportovní Klub Pretorian Pardubice",
+          "placement": 2,
+          "userId": 504502
+        }
+      ]
+    },
+    {
+      "name": "Adult / Gi / Male / Blue belt / Adults / -100 kg",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "Adult",
+      "belt": "Blue",
+      "weight": "-100 kg",
+      "athletes": [
+        {
+          "name": "František Vohánka",
+          "country": "cz",
+          "club": "Choketopus gym",
+          "placement": 1,
+          "userId": 149218
+        },
+        {
+          "name": "Michal Vanický",
+          "country": "cz",
+          "club": "Copacabana team Louny",
+          "placement": 2,
+          "userId": 764161
+        },
+        {
+          "name": "Daniel Singer",
+          "country": "cz",
+          "club": "DSC GYM CESKA TREBOVA",
+          "placement": 3,
+          "userId": 139152
+        }
+      ]
+    },
+    {
+      "name": "Adult / Gi / Male / Blue belt / Masters 35+ / -91 kg",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "Master",
+      "belt": "Blue",
+      "weight": "-91 kg",
+      "athletes": [
+        {
+          "name": "Roman Dymanus",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "placement": 1,
+          "userId": 1933263
+        },
+        {
+          "name": "Maksym Bugai",
+          "country": "ua",
+          "club": "Jungle BJJ Prague",
+          "placement": 2,
+          "userId": 1278408
+        },
+        {
+          "name": "Marek Šourek",
+          "country": "cz",
+          "club": "Lanna",
+          "placement": 3,
+          "userId": 2182759
+        }
+      ]
+    },
+    {
+      "name": "Adult / Gi / Male / Blue belt / Masters 40+ / +100 kg",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "Master",
+      "belt": "Blue",
+      "weight": "100 kg",
+      "athletes": [
+        {
+          "name": "Radek Čermák",
+          "country": "cz",
+          "club": "Octopus Liberec",
+          "placement": 1,
+          "userId": 945920
+        },
+        {
+          "name": "Jan Hajný",
+          "country": "cz",
+          "club": "Lanna",
+          "placement": 2,
+          "userId": 2575343
+        }
+      ]
+    },
+    {
+      "name": "Adult / Gi / Male / Purple/brown/black belt / Adults / -70 kg",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "Adult",
+      "belt": "Purple / Brown / Black",
+      "weight": "-70 kg",
+      "athletes": [
+        {
+          "name": "Vitalii Shorban",
+          "country": "ua",
+          "club": "",
+          "placement": 1,
+          "userId": 2647615
+        },
+        {
+          "name": "Diogo Dos Santos Farias",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "placement": 2,
+          "userId": 796441
+        },
+        {
+          "name": "Karel Josef Čáp",
+          "country": "cz",
+          "club": "Panther BJJ Boskovice",
+          "placement": 3,
+          "userId": 620715
+        }
+      ]
+    },
+    {
+      "name": "Adult / Gi / Male / Purple/brown/black belt / Adults / -83 kg",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "Adult",
+      "belt": "Purple / Brown / Black",
+      "weight": "-83 kg",
+      "athletes": [
+        {
+          "name": "Jan Jilčík",
+          "country": "cz",
+          "club": "Sportovní Klub Pretorian Židlochovice",
+          "placement": 1,
+          "userId": 804355
+        },
+        {
+          "name": "Jan Huráb",
+          "country": "cz",
+          "club": "Panther BJJ Boskovice",
+          "placement": 2,
+          "userId": 134520
+        },
+        {
+          "name": "Joshua Smith",
+          "country": "us",
+          "club": "Kani-Basami JiuJitsu",
+          "placement": 3,
+          "userId": 681952
+        }
+      ]
+    },
+    {
+      "name": "Adult / Gi / Male / Purple/brown/black belt / Masters 40+ / -91 kg",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "Master",
+      "belt": "Purple / Brown / Black",
+      "weight": "-91 kg",
+      "athletes": [
+        {
+          "name": "Tomáš Kadlec",
+          "country": "cz",
+          "club": "Reinders MMA",
+          "placement": 1,
+          "userId": 944352
+        },
+        {
+          "name": "Gabriel Jurcak",
+          "country": "sk",
+          "club": "BulletproofJJ",
+          "placement": 2,
+          "userId": 42549
+        }
+      ]
+    },
+    {
+      "name": "Adult / Gi / Female / White belt / Adults / -60 kg",
+      "gi": true,
+      "gender": "Female",
+      "ageGroup": "Adult",
+      "belt": "White",
+      "weight": "-60 kg",
+      "athletes": [
+        {
+          "name": "Kristýna Burešová",
+          "country": "cz",
+          "club": "Liberty BJJ",
+          "placement": 1,
+          "userId": 2136992
+        },
+        {
+          "name": "Kristýna Honsová",
+          "country": "cz",
+          "club": "Tiger Team Praha",
+          "placement": 2,
+          "userId": 1510834
+        },
+        {
+          "name": "Hana Prokopová",
+          "country": "cz",
+          "club": "Panther BJJ Brno",
+          "placement": 3,
+          "userId": 2667947
+        }
+      ]
+    },
+    {
+      "name": "Adult / Gi / Female / Blue belt / Adults / -65 kg",
+      "gi": true,
+      "gender": "Female",
+      "ageGroup": "Adult",
+      "belt": "Blue",
+      "weight": "-65 kg",
+      "athletes": [
+        {
+          "name": "Ema Tesařová",
+          "country": "cz",
+          "club": "Brazilian Jiu-Jitsu Ústí nad Orlicí",
+          "placement": 1,
+          "userId": 63983
+        },
+        {
+          "name": "Kristína Fečová",
+          "country": "sk",
+          "club": "Mattix Jiu Jitsu",
+          "placement": 2,
+          "userId": 506105
+        },
+        {
+          "name": "Vendula Tichá",
+          "country": "cz",
+          "club": "Brazilian Jiu-Jitsu Ústí nad Orlicí",
+          "placement": 3,
+          "userId": 1221272
+        }
+      ]
+    },
+    {
+      "name": "Adult / Gi / Female / Blue belt / Adults / -70 kg",
+      "gi": true,
+      "gender": "Female",
+      "ageGroup": "Adult",
+      "belt": "Blue",
+      "weight": "-70 kg",
+      "athletes": [
+        {
+          "name": "Jana Lamačová",
+          "country": "cz",
+          "club": "Fight club ČESKÉ BUDĚJOVICE",
+          "placement": 1,
+          "userId": 1392555
+        },
+        {
+          "name": "Hana Petrusová",
+          "country": "cz",
+          "club": "Tora Academy",
+          "placement": 2,
+          "userId": 1721068
+        },
+        {
+          "name": "Kristýna Jurásková",
+          "country": "cz",
+          "club": "Clube De Jiu Jitsu Pitbull Hodonín",
+          "placement": 3,
+          "userId": 1432766
+        }
+      ]
+    },
+    {
+      "name": "No Gi Absolute / Male / Open Weight",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Unknown",
+      "belt": "Unknown",
+      "weight": "Unknown",
+      "athletes": [
+        {
+          "name": "Anton Orlov",
+          "country": "ua",
+          "club": "SWAG Academy",
+          "placement": 1,
+          "userId": 706212
+        },
+        {
+          "name": "Jan Stach",
+          "country": "cz",
+          "club": "SWAG Academy",
+          "placement": 2,
+          "userId": 64048
+        },
+        {
+          "name": "Denis Mandok",
+          "country": "cz",
+          "club": "Renzo Gracie Prague",
+          "placement": 3,
+          "userId": 287356
+        }
+      ]
+    },
+    {
+      "name": "Gi Absolute / Male / Open Weight",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "Unknown",
+      "belt": "Unknown",
+      "weight": "Unknown",
+      "athletes": [
+        {
+          "name": "Emir-Asan Selemetov",
+          "country": "ua",
+          "club": "ZR Team Austria",
+          "placement": 1,
+          "userId": 2016155
+        },
+        {
+          "name": "S. KingDavis",
+          "country": "us",
+          "club": "Jungle BJJ Prague",
+          "placement": 2,
+          "userId": 1203818
+        }
+      ]
+    }
+  ]
+}

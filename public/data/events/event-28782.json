@@ -1,0 +1,692 @@
+{
+  "slug": "event-28782",
+  "name": "Smoothcomp Event 28782",
+  "date": "2026-04-10",
+  "country": "CZ",
+  "categories": [
+    {
+      "name": "Men No-GI / Beginner / -66 kg",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Unknown",
+      "belt": "Beginner",
+      "weight": "-66 kg",
+      "athletes": [
+        {
+          "name": "Jan Šubrt",
+          "country": "cz",
+          "club": "RBSD Šumperk",
+          "placement": 1,
+          "userId": 348576
+        },
+        {
+          "name": "Tadeáš Stávek",
+          "country": "cz",
+          "club": "Clube De Jiu Jitsu Pitbull Hodonín",
+          "placement": 2,
+          "userId": 2397425
+        },
+        {
+          "name": "Vojtěch Kalina",
+          "country": "cz",
+          "club": "Good luck gym Hradec Králové",
+          "placement": 3,
+          "userId": 2155356
+        }
+      ]
+    },
+    {
+      "name": "Men No-GI / Beginner / -77 kg",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Unknown",
+      "belt": "Beginner",
+      "weight": "-77 kg",
+      "athletes": [
+        {
+          "name": "Ondřej Jelínek",
+          "country": "cz",
+          "club": "Sportovní Klub Pretorian Pardubice",
+          "placement": 1,
+          "userId": 2650541
+        },
+        {
+          "name": "Jan Gojný",
+          "country": "cz",
+          "club": "Sportovní Klub Pretorian Pardubice",
+          "placement": 2,
+          "userId": 2633082
+        },
+        {
+          "name": "Jiří Pospíšil",
+          "country": "cz",
+          "club": "RBSD Šumperk",
+          "placement": 3,
+          "userId": 2392489
+        }
+      ]
+    },
+    {
+      "name": "Men No-GI / Beginner / -84 kg",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Unknown",
+      "belt": "Beginner",
+      "weight": "-84 kg",
+      "athletes": [
+        {
+          "name": "Jáchym Pasák",
+          "country": "cz",
+          "club": "Grappling Squad Praha",
+          "placement": 1,
+          "userId": 2057748
+        },
+        {
+          "name": "Ivan Zyzen",
+          "country": "",
+          "club": "CTFT MMA",
+          "placement": 2,
+          "userId": 1936609
+        },
+        {
+          "name": "Marek Sedláček",
+          "country": "cz",
+          "club": "RBSD Šumperk",
+          "placement": 3,
+          "userId": 2647457
+        }
+      ]
+    },
+    {
+      "name": "Men No-GI / Beginner / -93 kg",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Unknown",
+      "belt": "Beginner",
+      "weight": "-93 kg",
+      "athletes": [
+        {
+          "name": "Leon Glaser",
+          "country": "de",
+          "club": "Sensible Rehasportgruppe",
+          "placement": 1,
+          "userId": 2350104
+        },
+        {
+          "name": "Michal Tranta",
+          "country": "cz",
+          "club": "Reinders MMA",
+          "placement": 2,
+          "userId": 1943967
+        }
+      ]
+    },
+    {
+      "name": "Men No-GI / Intermediate / -77 kg",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Unknown",
+      "belt": "Advanced",
+      "weight": "-77 kg",
+      "athletes": [
+        {
+          "name": "David Rexa",
+          "country": "cz",
+          "club": "SWAG Academy",
+          "placement": 1,
+          "userId": 1228930
+        },
+        {
+          "name": "Telahun Abubakr Reumüller",
+          "country": "at",
+          "club": "Gremlin Jiu Jitsu",
+          "placement": 2,
+          "userId": 2356519
+        },
+        {
+          "name": "Kevin Klimeš",
+          "country": "cz",
+          "club": "Snapdown Team Olomouc",
+          "placement": 3,
+          "userId": 1956474
+        }
+      ]
+    },
+    {
+      "name": "Men No-GI Absolute / Intermediate / Absolute Class",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Unknown",
+      "belt": "Advanced",
+      "weight": "Unknown",
+      "athletes": [
+        {
+          "name": "Vasia Gichka",
+          "country": "ua",
+          "club": "Good luck gym Hradec Králové",
+          "placement": 1,
+          "userId": 1934181
+        },
+        {
+          "name": "David Rexa",
+          "country": "cz",
+          "club": "SWAG Academy",
+          "placement": 2,
+          "userId": 1228930
+        }
+      ]
+    },
+    {
+      "name": "Men No-GI Absolute / Beginner / Absolute Class",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Unknown",
+      "belt": "Beginner",
+      "weight": "Unknown",
+      "athletes": [
+        {
+          "name": "Leon Glaser",
+          "country": "de",
+          "club": "Sensible Rehasportgruppe",
+          "placement": 1,
+          "userId": 2350104
+        },
+        {
+          "name": "Ivan Zyzen",
+          "country": "",
+          "club": "CTFT MMA",
+          "placement": 2,
+          "userId": 1936609
+        },
+        {
+          "name": "Dominik Vašků",
+          "country": "cz",
+          "club": "CTFT MMA",
+          "placement": 3,
+          "userId": 2160566
+        }
+      ]
+    },
+    {
+      "name": "Men GI / White Belt / -66 kg",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "Unknown",
+      "belt": "White",
+      "weight": "-66 kg",
+      "athletes": [
+        {
+          "name": "Lukáš Kubát",
+          "country": "cz",
+          "club": "Delta gym",
+          "placement": 1,
+          "userId": 1425930
+        },
+        {
+          "name": "Dominik Vašků",
+          "country": "cz",
+          "club": "CTFT MMA",
+          "placement": 2,
+          "userId": 2160566
+        },
+        {
+          "name": "Martin Rolín",
+          "country": "cz",
+          "club": "Delta gym",
+          "placement": 3,
+          "userId": 2591231
+        }
+      ]
+    },
+    {
+      "name": "Boys Junior No-GI / 9-10 years / -36 kg / Intermediate",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "9-10 years",
+      "belt": "Advanced",
+      "weight": "-36 kg",
+      "athletes": [
+        {
+          "name": "Luka Long",
+          "country": "cu",
+          "club": "Reinders MMA",
+          "placement": 1,
+          "userId": 1462761
+        },
+        {
+          "name": "Ondřej Jirásek",
+          "country": "cz",
+          "club": "COMBAT GYM Chrastava",
+          "placement": 2,
+          "userId": 2059789
+        },
+        {
+          "name": "Leoš Chovanec",
+          "country": "cz",
+          "club": "COMBAT GYM Chrastava",
+          "placement": 3,
+          "userId": 2418756
+        }
+      ]
+    },
+    {
+      "name": "Boys Junior No-GI / 13-14 years / -45 kg / Intermediate",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "13-14 years",
+      "belt": "Advanced",
+      "weight": "-45 kg",
+      "athletes": [
+        {
+          "name": "Matyáš Barák",
+          "country": "cz",
+          "club": "Reinders MMA",
+          "placement": 1,
+          "userId": 1280211
+        },
+        {
+          "name": "Tibor Culek",
+          "country": "cz",
+          "club": "Delta gym",
+          "placement": 2,
+          "userId": 1387746
+        }
+      ]
+    },
+    {
+      "name": "Boys Junior No-GI / 13-14 years / -50 kg / Intermediate",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "13-14 years",
+      "belt": "Advanced",
+      "weight": "-50 kg",
+      "athletes": [
+        {
+          "name": "Adam Dočkal",
+          "country": "cz",
+          "club": "Renzo Gracie Prague",
+          "placement": 1,
+          "userId": 809604
+        },
+        {
+          "name": "Vanda Daňková",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "placement": 2,
+          "userId": 350475
+        },
+        {
+          "name": "Daniel Mizer",
+          "country": "cz",
+          "club": "COMBAT GYM Chrastava",
+          "placement": 3,
+          "userId": 1759227
+        }
+      ]
+    },
+    {
+      "name": "Boys Junior No-GI / 13-14 years / -60 kg / Beginner",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "13-14 years",
+      "belt": "Beginner",
+      "weight": "-60 kg",
+      "athletes": [
+        {
+          "name": "Denis Krejčík",
+          "country": "cz",
+          "club": "Sportovní Klub Pretorian Pardubice",
+          "placement": 1,
+          "userId": 2605561
+        },
+        {
+          "name": "Davyd Makarov",
+          "country": "ua",
+          "club": "RBSD Šumperk",
+          "placement": 2,
+          "userId": 2405116
+        }
+      ]
+    },
+    {
+      "name": "Boys Junior No-GI / 15-17 years / -60 kg / Intermediate",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "15-17 years",
+      "belt": "Advanced",
+      "weight": "-60 kg",
+      "athletes": [
+        {
+          "name": "Ondřej Koudelka",
+          "country": "cz",
+          "club": "Red Dot Gym",
+          "placement": 1,
+          "userId": 1118971
+        },
+        {
+          "name": "Petr Štěpánek",
+          "country": "cz",
+          "club": "CTFT MMA",
+          "placement": 2,
+          "userId": 2653663
+        }
+      ]
+    },
+    {
+      "name": "Boys Junior No-GI / 15-17 years / -65 kg / Beginner",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "15-17 years",
+      "belt": "Beginner",
+      "weight": "-65 kg",
+      "athletes": [
+        {
+          "name": "Josef Chodúr",
+          "country": "cz",
+          "club": "Good luck gym Hradec Králové",
+          "placement": 1,
+          "userId": 2613280
+        },
+        {
+          "name": "Martin Rolín",
+          "country": "cz",
+          "club": "Delta gym",
+          "placement": 2,
+          "userId": 2591231
+        },
+        {
+          "name": "Jan Valenta",
+          "country": "cz",
+          "club": "Delta gym",
+          "placement": 3,
+          "userId": 2656433
+        }
+      ]
+    },
+    {
+      "name": "Boys Junior No-GI Absolute / 15-17 years / Absolute / Professional",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "15-17 years",
+      "belt": "Elite",
+      "weight": "Unknown",
+      "athletes": [
+        {
+          "name": "Marek Sedláček",
+          "country": "cz",
+          "club": "RBSD Šumperk",
+          "placement": 1,
+          "userId": 2647457
+        },
+        {
+          "name": "Robin Tribula",
+          "country": "cz",
+          "club": "Good luck gym Hradec Králové",
+          "placement": 2,
+          "userId": 2629849
+        }
+      ]
+    },
+    {
+      "name": "Boys Junior GI / 6-8 years / -36 kg / Beginner",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "6-8 years",
+      "belt": "Beginner",
+      "weight": "-36 kg",
+      "athletes": [
+        {
+          "name": "Roman Hauf-Soldát",
+          "country": "cz",
+          "club": "Good luck gym Hradec Králové",
+          "placement": 1,
+          "userId": 2653135
+        },
+        {
+          "name": "Richard Bareš",
+          "country": "cz",
+          "club": "Delta gym",
+          "placement": 2,
+          "userId": 2416473
+        }
+      ]
+    },
+    {
+      "name": "Boys Junior GI / 9-10 years / -28 kg / Intermediate",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "9-10 years",
+      "belt": "Advanced",
+      "weight": "-28 kg",
+      "athletes": [
+        {
+          "name": "Josef Vrága",
+          "country": "cz",
+          "club": "COMBAT GYM Chrastava",
+          "placement": 1,
+          "userId": 1372549
+        },
+        {
+          "name": "Jaroslav Zavadil",
+          "country": "cz",
+          "club": "COMBAT GYM Chrastava",
+          "placement": 2,
+          "userId": 2650932
+        },
+        {
+          "name": "Adam Jukl",
+          "country": "cz",
+          "club": "Delta gym",
+          "placement": 3,
+          "userId": 2165392
+        }
+      ]
+    },
+    {
+      "name": "Boys Junior GI / 11-12 years / -40 kg / Beginner",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "11-12 years",
+      "belt": "Beginner",
+      "weight": "-40 kg",
+      "athletes": [
+        {
+          "name": "Eliška Vrágová",
+          "country": "cz",
+          "club": "COMBAT GYM Chrastava",
+          "placement": 1,
+          "userId": 2456462
+        },
+        {
+          "name": "Adam Langmann",
+          "country": "",
+          "club": "CTFT MMA",
+          "placement": 2,
+          "userId": 2654749
+        },
+        {
+          "name": "Tadeáš Sotona",
+          "country": "cz",
+          "club": "Sportovní Klub Pretorian Pardubice",
+          "placement": 3,
+          "userId": 2136257
+        }
+      ]
+    },
+    {
+      "name": "Boys Junior GI / 11-12 years / -40 kg / Intermediate",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "11-12 years",
+      "belt": "Advanced",
+      "weight": "-40 kg",
+      "athletes": [
+        {
+          "name": "Matyáš Divíšek",
+          "country": "cz",
+          "club": "Delta gym",
+          "placement": 1,
+          "userId": 2431874
+        },
+        {
+          "name": "Volodymyr Demchuk",
+          "country": "ua",
+          "club": "Red Dot Gym",
+          "placement": 2,
+          "userId": 1656570
+        }
+      ]
+    },
+    {
+      "name": "Boys Junior GI / 13-14 years / -45 kg / Intermediate",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "13-14 years",
+      "belt": "Advanced",
+      "weight": "-45 kg",
+      "athletes": [
+        {
+          "name": "Matyáš Barák",
+          "country": "cz",
+          "club": "Reinders MMA",
+          "placement": 1,
+          "userId": 1280211
+        },
+        {
+          "name": "Tibor Culek",
+          "country": "cz",
+          "club": "Delta gym",
+          "placement": 2,
+          "userId": 1387746
+        }
+      ]
+    },
+    {
+      "name": "Boys Junior GI / 13-14 years / -50 kg / Intermediate",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "13-14 years",
+      "belt": "Advanced",
+      "weight": "-50 kg",
+      "athletes": [
+        {
+          "name": "Adam Dočkal",
+          "country": "cz",
+          "club": "Renzo Gracie Prague",
+          "placement": 1,
+          "userId": 809604
+        },
+        {
+          "name": "Jakub Komárek",
+          "country": "cz",
+          "club": "Delta gym",
+          "placement": 2,
+          "userId": 1230408
+        }
+      ]
+    },
+    {
+      "name": "Boys Junior GI / 13-14 years / -55 kg / Intermediate",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "13-14 years",
+      "belt": "Advanced",
+      "weight": "-55 kg",
+      "athletes": [
+        {
+          "name": "Miroslav Tichý",
+          "country": "cz",
+          "club": "Delta gym",
+          "placement": 1,
+          "userId": 147480
+        },
+        {
+          "name": "Lukáš Kubín",
+          "country": "cz",
+          "club": "Red Dot Gym",
+          "placement": 2,
+          "userId": 1241410
+        },
+        {
+          "name": "Šimon Dyntar",
+          "country": "cz",
+          "club": "Sportovní Klub Pretorian Pardubice",
+          "placement": 3,
+          "userId": 2064205
+        }
+      ]
+    },
+    {
+      "name": "Boys Junior GI / 13-14 years / -60 kg / Beginner",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "13-14 years",
+      "belt": "Beginner",
+      "weight": "-60 kg",
+      "athletes": [
+        {
+          "name": "Krystof Rompot",
+          "country": "cz",
+          "club": "Sportovní Klub Pretorian Pardubice",
+          "placement": 1,
+          "userId": 1892063
+        },
+        {
+          "name": "Štěpán Vondráček",
+          "country": "cz",
+          "club": "Delta gym",
+          "placement": 2,
+          "userId": 2617129
+        }
+      ]
+    },
+    {
+      "name": "Boys Junior GI / 15-17 years / -60 kg / Intermediate",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "15-17 years",
+      "belt": "Advanced",
+      "weight": "-60 kg",
+      "athletes": [
+        {
+          "name": "Jakub Vodvářka",
+          "country": "cz",
+          "club": "Sportovní Klub Pretorian Pardubice",
+          "placement": 1,
+          "userId": 2010089
+        },
+        {
+          "name": "Adam Hatla",
+          "country": "cz",
+          "club": "Delta gym",
+          "placement": 2,
+          "userId": 2470247
+        }
+      ]
+    },
+    {
+      "name": "Girls Junior GI / -55 kg / 13-14 years / Professional",
+      "gi": true,
+      "gender": "Female",
+      "ageGroup": "13-14 years",
+      "belt": "Elite",
+      "weight": "-55 kg",
+      "athletes": [
+        {
+          "name": "Vanda Daňková",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "placement": 1,
+          "userId": 350475
+        },
+        {
+          "name": "Alice Benešová",
+          "country": "cz",
+          "club": "Academy of Movement",
+          "placement": 2,
+          "userId": 1422391
+        }
+      ]
+    }
+  ]
+}
