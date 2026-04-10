@@ -68,63 +68,67 @@ export default function RankingsPage() {
         ŽEBŘÍČEK ZÁVODNÍKŮ
       </h1>
 
-      <div className="mt-8 mb-6 flex flex-wrap items-center gap-2 border-b border-white/[0.06] pb-4">
-        <button
-          onClick={() => setActiveType("nogi")}
-          className={`rounded-lg px-4 py-2 text-xs sm:text-sm font-bold uppercase tracking-wider transition-all ${
-            activeType === "nogi"
-              ? "bg-acid text-black"
-              : "text-gray-400 hover:bg-white/[0.06]"
-          }`}
-        >
-          NO-GI
-        </button>
-        <button
-          onClick={() => setActiveType("gi")}
-          className={`rounded-lg px-4 py-2 text-xs sm:text-sm font-bold uppercase tracking-wider transition-all ${
-            activeType === "gi"
-              ? "bg-electric text-white"
-              : "text-gray-400 hover:bg-white/[0.06]"
-          }`}
-        >
-          GI
-        </button>
+      <div className="mt-8 mb-6 flex flex-col gap-3 border-b border-white/[0.06] pb-4 sm:flex-row sm:items-center sm:justify-between">
+        {/* Left: discipline toggle */}
+        <div className="flex items-center gap-2">
+          <button
+            onClick={() => setActiveType("nogi")}
+            className={`rounded-lg px-4 py-2 text-xs sm:text-sm font-bold uppercase tracking-wider transition-all ${
+              activeType === "nogi"
+                ? "bg-acid text-black"
+                : "text-gray-400 hover:bg-white/[0.06]"
+            }`}
+          >
+            NO-GI
+          </button>
+          <button
+            onClick={() => setActiveType("gi")}
+            className={`rounded-lg px-4 py-2 text-xs sm:text-sm font-bold uppercase tracking-wider transition-all ${
+              activeType === "gi"
+                ? "bg-electric text-white"
+                : "text-gray-400 hover:bg-white/[0.06]"
+            }`}
+          >
+            GI
+          </button>
+        </div>
 
-        <span className="mx-1 h-6 w-px bg-white/10" />
+        {/* Right: gender + top10 */}
+        <div className="flex items-center gap-2">
+          <button
+            onClick={() => setActiveGender("Male")}
+            className={`rounded-lg px-4 py-2 text-xs sm:text-sm font-bold uppercase tracking-wider transition-all ${
+              activeGender === "Male"
+                ? "bg-white text-gray-900"
+                : "text-gray-400 hover:bg-white/[0.06]"
+            }`}
+          >
+            Muži
+          </button>
+          <button
+            onClick={() => setActiveGender("Female")}
+            className={`rounded-lg px-4 py-2 text-xs sm:text-sm font-bold uppercase tracking-wider transition-all ${
+              activeGender === "Female"
+                ? "bg-white text-gray-900"
+                : "text-gray-400 hover:bg-white/[0.06]"
+            }`}
+          >
+            Ženy
+          </button>
 
-        <button
-          onClick={() => setActiveGender("Male")}
-          className={`rounded-lg px-4 py-2 text-xs sm:text-sm font-bold uppercase tracking-wider transition-all ${
-            activeGender === "Male"
-              ? "bg-white text-gray-900"
-              : "text-gray-400 hover:bg-white/[0.06]"
-          }`}
-        >
-          Muži
-        </button>
-        <button
-          onClick={() => setActiveGender("Female")}
-          className={`rounded-lg px-4 py-2 text-xs sm:text-sm font-bold uppercase tracking-wider transition-all ${
-            activeGender === "Female"
-              ? "bg-white text-gray-900"
-              : "text-gray-400 hover:bg-white/[0.06]"
-          }`}
-        >
-          Ženy
-        </button>
+          <span className="mx-1 h-6 w-px bg-white/10" />
 
-        <span className="mx-1 h-6 w-px bg-white/10" />
-
-        <button
-          onClick={() => setTopOnly((v) => !v)}
-          className={`rounded-lg px-4 py-2 text-xs sm:text-sm font-bold uppercase tracking-wider transition-all ${
-            topOnly
-              ? activeType === "nogi" ? "bg-acid text-black" : "bg-electric text-white"
-              : "text-gray-400 hover:bg-white/[0.06]"
-          }`}
-        >
-          {topOnly ? "All" : "Top 10"}
-        </button>
+          <button
+            onClick={() => setTopOnly((v) => !v)}
+            className={`rounded-lg px-4 py-2 text-xs sm:text-sm font-bold uppercase tracking-wider transition-all ${
+              topOnly
+                ? activeType === "nogi" ? "bg-acid text-black" : "bg-electric text-white"
+                : "text-gray-400 hover:bg-white/[0.06]"
+            }`}
+          >
+            {topOnly ? "All" : "Top 10"}
+          </button>
+        </div>
       </div>
 
       {/* Belt tabs */}
@@ -159,8 +163,8 @@ export default function RankingsPage() {
         </div>
       ) : (
         <div className={`overflow-x-auto pb-8 ${activeType === "gi" ? "rank-theme-electric" : "rank-theme-acid"}`}>
-          <table className="w-full table-fixed text-left text-sm text-gray-300 border-separate border-spacing-y-3">
-            <thead className="text-xs font-semibold uppercase text-gray-500">
+          <table className="w-full table-fixed text-left text-base text-gray-300 border-separate border-spacing-y-3">
+            <thead className="text-sm font-semibold uppercase text-gray-500">
               <tr>
                 <th className="w-[72px] px-4 py-2 font-display tracking-widest pl-6">Rank</th>
                 <th className="w-[22%] px-4 py-2 font-display tracking-widest">Závodník</th>
@@ -179,30 +183,30 @@ export default function RankingsPage() {
                   </td>
                   <td className="px-4 py-3">
                     <div className="flex flex-col">
-                      <span className="text-base font-bold text-white truncate">{entry.name}</span>
-                      <span className="text-xs uppercase text-gray-500 font-semibold tracking-wider">{entry.country.toUpperCase()}</span>
+                      <span className="text-lg sm:text-xl font-bold text-white truncate">{entry.name}</span>
+                      <span className="text-sm uppercase text-gray-500 font-semibold tracking-wider">{entry.country.toUpperCase()}</span>
                     </div>
                   </td>
                   <td className="px-4 py-3">
-                    <span className="text-gray-400 font-medium line-clamp-1">{entry.club}</span>
+                    <span className="text-gray-400 text-base font-medium line-clamp-1">{entry.club}</span>
                   </td>
 
                   <td className="px-2 py-3">
                     <div className="flex items-center gap-1.5 justify-center">
                       <MedalBadge type="gold" />
-                      <span className="font-bold text-gray-300">{entry.gold}</span>
+                      <span className="font-bold text-lg text-gray-300">{entry.gold}</span>
                     </div>
                   </td>
                   <td className="px-2 py-3">
                     <div className="flex items-center gap-1.5 justify-center">
                       <MedalBadge type="silver" />
-                      <span className="font-bold text-gray-300">{entry.silver}</span>
+                      <span className="font-bold text-lg text-gray-300">{entry.silver}</span>
                     </div>
                   </td>
                   <td className="pr-6 pl-2 py-3">
                     <div className="flex items-center gap-1.5 justify-center">
                       <MedalBadge type="bronze" />
-                      <span className="font-bold text-gray-300">{entry.bronze}</span>
+                      <span className="font-bold text-lg text-gray-300">{entry.bronze}</span>
                     </div>
                   </td>
                 </tr>

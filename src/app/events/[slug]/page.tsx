@@ -50,6 +50,48 @@ export default async function EventDetailPage({
     notFound();
   }
 
+  // Override dummy config names with our scraped metadata
+  try {
+    const metadataPath = path.join(process.cwd(), "public", "data", "events-metadata.json");
+    const rawMeta = readFileSync(metadataPath, "utf8");
+    const metadataList = JSON.parse(rawMeta);
+
+    // slug is typically 'event-27716'
+    const eventIdMatch = slug.match(/event-(\d+)/);
+    if (eventIdMatch) {
+      const eventId = eventIdMatch[1];
+      const match = metadataList.find((m: any) => m.url.includes(`/${eventId}`));
+      if (match) {
+        event.name = match.name || event.name;
+        
+        // Format the date (we try to reuse out formatEventDate logic or do it locally)
+        if (match.parsedDate) {
+          try {
+            const d = new Date(match.parsedDate);
+            if (!isNaN(d.getTime())) {
+              event.date = d.toLocaleDateString('cs-CZ');
+            } else {
+              event.date = match.parsedDate;
+            }
+          } catch {
+            event.date = match.parsedDate;
+          }
+        }
+
+        // Format location as "City (CZ)"
+        if (match.location) {
+          const city = match.location.replace(', Czechia', '');
+          const countryCode = event.country ? event.country.toUpperCase() : "CZ";
+          event.country = `${city} (${countryCode})`;
+        } else {
+           event.country = `${event.country.toUpperCase()}`;
+        }
+      }
+    }
+  } catch (e) {
+    // silently fallback to basic event fields if metadata is missing
+  }
+
   return (
     <div className="mx-auto max-w-7xl px-4 py-10">
       <h1 className="font-display text-4xl font-black text-white sm:text-5xl">
