@@ -147,7 +147,6 @@ export const feedTournaments: TournamentPreview[] = [
     date: "15. května 2026",
     location: "Praha, Česko",
     imageUrl: "/images/tournament-1.jpg",
-    competitorCount: 340,
     status: "upcoming",
   },
   {
@@ -156,7 +155,6 @@ export const feedTournaments: TournamentPreview[] = [
     date: "6. dubna 2026",
     location: "Brno, Česko",
     imageUrl: "/images/tournament-2.jpg",
-    competitorCount: 185,
     status: "completed",
   },
 ];

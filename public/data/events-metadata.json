@@ -1,26 +1,5 @@
 [
   {
-    "url": "https://smoothcomp.com/en/event/30461",
-    "name": "Relax",
-    "logoUrl": "https://smoothcomp.com/pictures/t/8191177-ypjz/relax-2026.png",
-    "parsedDate": "2026-04-11T09:00:00+02:00",
-    "location": "Praha"
-  },
-  {
-    "url": "https://smoothcomp.com/en/event/31007",
-    "name": "Pardubice Grappling Open vol.6",
-    "logoUrl": "https://smoothcomp.com/pictures/t/8269770-ufzk/pardubice-grappling-open-vol6-2026.png",
-    "parsedDate": "2026-04-11T09:30:00+02:00",
-    "location": "Pardubice"
-  },
-  {
-    "url": "https://smoothcomp.com/en/event/30166",
-    "name": "CFS 13 CZECH CHAMPIONSHIP ČSAKJ 2026",
-    "logoUrl": "https://smoothcomp.com/pictures/t/8039705-yui9/cfs-13-czech-championship-csakj-2026.jpg",
-    "parsedDate": "2026-04-12T10:30:00+02:00",
-    "location": "Spořice"
-  },
-  {
     "url": "https://smoothcomp.com/en/event/31189",
     "name": "XV. REBEL BJJ CUP",
     "logoUrl": "https://smoothcomp.com/pictures/t/8339770-r11f/xv-rebel-bjj-cup-2026.jpg",
@@ -29,14 +8,14 @@
   },
   {
     "url": "https://smoothcomp.com/en/event/29717",
-    "name": "GRIND 13 Adults (NO-GI &amp; GI ROUND ROBIN)",
+    "name": "GRIND 13 Adults (NO-GI & GI ROUND ROBIN)",
     "logoUrl": "https://smoothcomp.com/pictures/t/7898359-bfrd/grind-13-adults-no-gi-gi-round-robin-2026.png",
     "parsedDate": "2026-04-25T08:00:00+02:00",
     "location": "Prague"
   },
   {
     "url": "https://smoothcomp.com/en/event/29718",
-    "name": "GRIND 13 Kids (NO-GI &amp; GI ROUND ROBIN)",
+    "name": "GRIND 13 Kids (NO-GI & GI ROUND ROBIN)",
     "logoUrl": "https://smoothcomp.com/pictures/t/7898463-9lp9/grind-14-kids-no-gi-gi-round-robin-2026.png",
     "parsedDate": "2026-04-25T08:00:00+02:00",
     "location": "Prague"
@@ -91,6 +70,13 @@
     "location": "Frydek-Mistek"
   },
   {
+    "url": "https://smoothcomp.com/en/event/31576",
+    "name": "Relax 2",
+    "logoUrl": "https://smoothcomp.com/pictures/t/8519743-5k3v/relax-2-2026.png",
+    "parsedDate": "2026-06-20T09:00:00+02:00",
+    "location": "Praha"
+  },
+  {
     "url": "https://grapplingindustries.smoothcomp.com/en/event/26198",
     "name": "Grappling Industries PRAGUE",
     "logoUrl": "https://smoothcomp.com/pictures/t/6834008-hkdd/grappling-industries-prague-2026.png",
@@ -119,14 +105,21 @@
     "location": "Prague"
   },
   {
-    "url": "https://smoothcomp.com/en/event/27716",
+    "url": "https://smoothcomp.com/en/event/28098",
+    "name": "GRIND 12 Adults (NO-GI & GI ROUND ROBIN)",
+    "logoUrl": "https://smoothcomp.com/pictures/t/7481568-rsjq/grind-12-adults-no-gi-gi-round-robin-2026.png",
+    "parsedDate": "2026-01-24T09:00:00+01:00",
+    "location": "Prague"
+  },
+  {
+    "url": "https://agf.smoothcomp.com/en/event/27716",
     "name": "2026 AGF Prague Championships",
     "logoUrl": "https://smoothcomp.com/pictures/t/7515974-1ve9/2026-agf-prague-championships.png",
     "parsedDate": "2026-03-07T08:00:00+01:00",
     "location": "Prague, Czechia"
   },
   {
-    "url": "https://smoothcomp.com/en/event/30095",
+    "url": "https://tatamybjj.smoothcomp.com/en/event/30095",
     "name": "TATAMY 20: PRAGUE - ADULTS (round robin)",
     "logoUrl": "https://smoothcomp.com/pictures/t/8059058-21oz/tatamy-20-adults-no-gi-and-gi-round-robin-2026.png",
     "parsedDate": "2026-03-21T09:00:00+01:00",
@@ -140,17 +133,45 @@
     "location": "Pardubice"
   },
   {
-    "url": "https://smoothcomp.com/en/event/28045",
+    "url": "https://tatamybjj.smoothcomp.com/en/event/28045",
     "name": "TATAMY 19: Czech Open Championship (adults)",
     "logoUrl": "https://smoothcomp.com/pictures/t/7739193-pncb/tatamy-19-adults-czech-open-championship-no-gi-and-gi-round-robin-2026.png",
     "parsedDate": "2026-02-21T09:00:00+01:00",
     "location": "Brno"
   },
   {
-    "url": "https://smoothcomp.com/en/event/28098",
-    "name": "GRIND 12 Adults (NO-GI &amp; GI ROUND ROBIN)",
-    "logoUrl": "https://smoothcomp.com/pictures/t/7481568-rsjq/grind-12-adults-no-gi-gi-round-robin-2026.png",
+    "url": "https://smoothcomp.com/en/event/30166",
+    "name": "CFS 13 CZECH CHAMPIONSHIP ČSAKJ 2026",
+    "logoUrl": "https://smoothcomp.com/pictures/t/8039705-yui9/cfs-13-czech-championship-csakj-2026.jpg",
+    "parsedDate": "2026-04-12T10:30:00+02:00",
+    "location": "Spořice"
+  },
+  {
+    "url": "https://smoothcomp.com/en/event/31007",
+    "name": "Pardubice Grappling Open vol.6",
+    "logoUrl": "https://smoothcomp.com/pictures/t/8269770-ufzk/pardubice-grappling-open-vol6-2026.png",
+    "parsedDate": "2026-04-11T09:30:00+02:00",
+    "location": "Pardubice"
+  },
+  {
+    "url": "https://smoothcomp.com/en/event/28099",
+    "name": "GRIND 12 Kids (NO-GI & GI ROUND ROBIN)",
+    "logoUrl": "https://smoothcomp.com/pictures/t/7481963-iksg/grind-12-kids-no-gi-gi-round-robin-2026.png",
     "parsedDate": "2026-01-24T09:00:00+01:00",
     "location": "Prague"
+  },
+  {
+    "url": "https://tatamybjj.smoothcomp.com/en/event/30102",
+    "name": "TATAMY 20: PRAGUE - KIDS (round robin)",
+    "logoUrl": "https://smoothcomp.com/pictures/t/8059066-mpbu/tatamy-20-kids-no-gi-and-gi-round-robin-2026.png",
+    "parsedDate": "2026-03-21T09:00:00+01:00",
+    "location": "Prague, Czechia"
+  },
+  {
+    "url": "https://tatamybjj.smoothcomp.com/en/event/28046",
+    "name": "TATAMY 19: Czech Open Championship (kids)",
+    "logoUrl": "https://smoothcomp.com/pictures/t/8094331-j3gj/tatamy-19-czech-open-championship-kids-2026.png",
+    "parsedDate": "2026-02-21T09:00:00+01:00",
+    "location": "Brno"
   }
 ]

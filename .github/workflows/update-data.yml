@@ -1,0 +1,56 @@
+name: Update Data & Deploy
+
+on:
+  schedule:
+    - cron: "0 4 * * *" # Every day at 4:00 UTC
+  workflow_dispatch: # Manual trigger
+
+jobs:
+  update-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - run: npm ci
+
+      # 1. Refresh events listing (upcoming + all config events)
+      - name: Fetch events metadata
+        run: npx tsx scripts/fetch-events-metadata.ts
+
+      # 2. Sync Smoothcomp results + discover new past Czech events + build rankings
+      - name: Sync Smoothcomp data
+        run: npm run sync-data
+
+      # 3. Commit updated data files back to repo
+      - name: Commit generated data
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/data/events-metadata.json
+          git add public/data/rankings.json
+          git add public/data/events/
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "chore: update tournament data and rankings [skip ci]"
+            git push
+          else
+            echo "No data changes."
+          fi
+
+      # 4. Build static site
+      - name: Build Next.js
+        run: npm run build
+
+      # 5. Deploy to Cloudflare Pages
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy out --project-name=grappling-cz

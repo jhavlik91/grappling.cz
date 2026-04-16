@@ -34,7 +34,14 @@ export class Popelina {
       if (e.code === 'ENOENT') {
         await this.saveRegistry();
       } else {
-        logger.error('Failed to load registry:', e);
+        // Corrupted registry (e.g. killed mid-write) — back it up and start fresh
+        // to avoid re-processing all articles as new on the next run
+        logger.error('Failed to load registry, backing up and reinitializing:', e);
+        try {
+          await fs.rename(this.registryFile, this.registryFile + '.bak');
+        } catch {}
+        this.registry = [];
+        await this.saveRegistry();
       }
     }
   }
@@ -72,13 +79,15 @@ export class Popelina {
     const dateStr = rawArticle.date || today;
     const authorStr = rawArticle.author ? ` (Author: ${rawArticle.author})` : '';
 
+    const imageStr = rawArticle.image_url ? `\nimage: "${rawArticle.image_url}"` : '';
+    const videoStr = rawArticle.video_embed_url ? `\nvideo_embed_url: "${rawArticle.video_embed_url}"` : '';
     const mdContent = `---
 title: "${processedArticle.cz_title.replace(/"/g, '\\"')}"
 date: "${dateStr}"
 source: "${sourceName}"
 source_url: "${processedArticle.source_url}"
 tags: ${JSON.stringify(processedArticle.tags)}
-slug: "${processedArticle.slug}"
+slug: "${processedArticle.slug}"${imageStr}${videoStr}
 ---
 
 Shrnutí
@@ -93,7 +102,7 @@ Zdroj
 
 Zpracováno podle zahraničního zdroje: ${sourceName}${authorStr}
 `;
-    await fs.writeFile(mdPath, mdContent.trim() + '\\n', 'utf8');
+    await fs.writeFile(mdPath, mdContent.trim() + '\n', 'utf8');
 
     // 3. Update Registry
     this.registry.push({
@@ -106,8 +115,14 @@ Zpracováno podle zahraničního zdroje: ${sourceName}${authorStr}
   }
 
   async recordSkipped(url: string, reason: string) {
-    // Optional: record skipped if you want to remember urls we failed on
     logger.info(`Article skipped [${reason}]: ${url}`);
+    this.registry.push({
+      source_url: url,
+      content_hash: '',
+      status: 'skipped',
+      processed_at: new Date().toISOString()
+    });
+    await this.saveRegistry();
   }
 
   private async saveRegistry() {

@@ -1,0 +1,14 @@
+---
+title: "Rigan Machado & Erik Paulson Promoted To BJJ Red & Coral Belts"
+date: "2026-04-16"
+source: "BJJ Eastern Europe"
+original_url: "https://www.bjjee.com/bjj-news/rigan-machado-erik-paulson-promoted-to-bjj-red-coral-belts/"
+excerpt: "Rigan Machado & Erik Paulson Promoted To BJJ Red & Coral Belts APR 12, 2026BJJEE1 AdminArticles, BJJ News Two legends of Brazilian Jiu-Jitsu have reached histor"
+type: "zahranuci"
+image: "https://www.bjjee.com/wp-content/uploads/2026/04/Rigan-Machado-and-Erik-Paulson-belt-promotion.jpg"
+author: "BJJEE1 Admin"
+---
+
+# Rigan Machado & Erik Paulson Promoted To BJJ Red & Coral Belts
+
+Rigan Machado & Erik Paulson Promoted To BJJ Red & Coral Belts APR 12, 2026BJJEE1 AdminArticles, BJJ News Two legends of Brazilian Jiu-Jitsu have reached historic milestones – as Rigan Machado was promoted to red belt and Erik Paulson received his coral belt. These ranks represent some of the highest honors in the sport and are incredibly rare. As, while it can take over a decade just to earn a black belt, the journey doesn’t stop there. According to widely followed structures like those outlined by the IBJJF, a coral belt signifies a 7th-degree black belt, typically requiring over 30 years at that level. A red belt, even rarer, represents a 9th degree – often requiring nearly 50 years of dedication as a black belt. In practical terms, very few practitioners ever reach these milestones. By the time they do, they’ve spent a lifetime not just training, but shaping the sport itself. Machado’s influence is especially profound. Beyond his success as a competitor, he has developed generations of elite practitioners. Names like Chris Haueter and John Will came up under his guidance, while Paulson himself is also one of his most notable students. Paulson, in turn, carved out his own legacy – particularly in MMA. A former Shooto champion, he went on to coach top-level fighters across multiple eras, including Josh Barnett, Sean Sherk, and Brock Lesnar. Sloth Jiu-Jitsu: The Ultimate Guide for Calmly Beating Bigger, Younger Opponents 💥 What if slowing down was the fastest way to win? 💭 Tired of Getting Smashed by Younger, Stronger Grapplers? It’s not your age. It’s your strategy. If you’re a passionate grappler over 35 who’s sick of getting outpaced, outmuscled, or out-cardio’d by opponents half your age — this 120 page e-book was made for you. 🔓 Unlock the Power of Sloth Jiu-Jitsu: Build Sustainable Strength—Without Wrecking Your Joints, Energy, or Jiu-Jitsu Tired of waking up sore and burnt out after lifting? Sloth Strength is a proven blueprint for grapplers over 35 who want to get stronger—without the pain, burnout, or injuries. Developed from 25 years on the mats, this no-burnout approach is made specifically for BJJ athletes in their 30s, 40s, and beyond. bjj belt promotion coral belt erik paulson red belt rigan machado

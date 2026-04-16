@@ -1,7 +1,7 @@
 {
   "slug": "event-28782",
   "name": "Smoothcomp Event 28782",
-  "date": "2026-04-10",
+  "date": "2026-04-16",
   "country": "CZ",
   "categories": [
     {
@@ -11,6 +11,7 @@
       "ageGroup": "Unknown",
       "belt": "Beginner",
       "weight": "-66 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Jan Šubrt",
@@ -42,6 +43,7 @@
       "ageGroup": "Unknown",
       "belt": "Beginner",
       "weight": "-77 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Ondřej Jelínek",
@@ -73,6 +75,7 @@
       "ageGroup": "Unknown",
       "belt": "Beginner",
       "weight": "-84 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Jáchym Pasák",
@@ -104,6 +107,7 @@
       "ageGroup": "Unknown",
       "belt": "Beginner",
       "weight": "-93 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Leon Glaser",
@@ -128,6 +132,7 @@
       "ageGroup": "Unknown",
       "belt": "Advanced",
       "weight": "-77 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "David Rexa",
@@ -159,6 +164,7 @@
       "ageGroup": "Unknown",
       "belt": "Advanced",
       "weight": "Unknown",
+      "isKid": false,
       "athletes": [
         {
           "name": "Vasia Gichka",
@@ -183,6 +189,7 @@
       "ageGroup": "Unknown",
       "belt": "Beginner",
       "weight": "Unknown",
+      "isKid": false,
       "athletes": [
         {
           "name": "Leon Glaser",
@@ -214,6 +221,7 @@
       "ageGroup": "Unknown",
       "belt": "White",
       "weight": "-66 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Lukáš Kubát",
@@ -245,6 +253,7 @@
       "ageGroup": "9-10 years",
       "belt": "Advanced",
       "weight": "-36 kg",
+      "isKid": true,
       "athletes": [
         {
           "name": "Luka Long",
@@ -276,6 +285,7 @@
       "ageGroup": "13-14 years",
       "belt": "Advanced",
       "weight": "-45 kg",
+      "isKid": true,
       "athletes": [
         {
           "name": "Matyáš Barák",
@@ -300,6 +310,7 @@
       "ageGroup": "13-14 years",
       "belt": "Advanced",
       "weight": "-50 kg",
+      "isKid": true,
       "athletes": [
         {
           "name": "Adam Dočkal",
@@ -331,6 +342,7 @@
       "ageGroup": "13-14 years",
       "belt": "Beginner",
       "weight": "-60 kg",
+      "isKid": true,
       "athletes": [
         {
           "name": "Denis Krejčík",
@@ -355,6 +367,7 @@
       "ageGroup": "15-17 years",
       "belt": "Advanced",
       "weight": "-60 kg",
+      "isKid": true,
       "athletes": [
         {
           "name": "Ondřej Koudelka",
@@ -379,6 +392,7 @@
       "ageGroup": "15-17 years",
       "belt": "Beginner",
       "weight": "-65 kg",
+      "isKid": true,
       "athletes": [
         {
           "name": "Josef Chodúr",
@@ -408,8 +422,9 @@
       "gi": false,
       "gender": "Male",
       "ageGroup": "15-17 years",
-      "belt": "Elite",
+      "belt": "Advanced",
       "weight": "Unknown",
+      "isKid": true,
       "athletes": [
         {
           "name": "Marek Sedláček",
@@ -434,6 +449,7 @@
       "ageGroup": "6-8 years",
       "belt": "Beginner",
       "weight": "-36 kg",
+      "isKid": true,
       "athletes": [
         {
           "name": "Roman Hauf-Soldát",
@@ -458,6 +474,7 @@
       "ageGroup": "9-10 years",
       "belt": "Advanced",
       "weight": "-28 kg",
+      "isKid": true,
       "athletes": [
         {
           "name": "Josef Vrága",
@@ -489,6 +506,7 @@
       "ageGroup": "11-12 years",
       "belt": "Beginner",
       "weight": "-40 kg",
+      "isKid": true,
       "athletes": [
         {
           "name": "Eliška Vrágová",
@@ -520,6 +538,7 @@
       "ageGroup": "11-12 years",
       "belt": "Advanced",
       "weight": "-40 kg",
+      "isKid": true,
       "athletes": [
         {
           "name": "Matyáš Divíšek",
@@ -544,6 +563,7 @@
       "ageGroup": "13-14 years",
       "belt": "Advanced",
       "weight": "-45 kg",
+      "isKid": true,
       "athletes": [
         {
           "name": "Matyáš Barák",
@@ -568,6 +588,7 @@
       "ageGroup": "13-14 years",
       "belt": "Advanced",
       "weight": "-50 kg",
+      "isKid": true,
       "athletes": [
         {
           "name": "Adam Dočkal",
@@ -592,6 +613,7 @@
       "ageGroup": "13-14 years",
       "belt": "Advanced",
       "weight": "-55 kg",
+      "isKid": true,
       "athletes": [
         {
           "name": "Miroslav Tichý",
@@ -623,6 +645,7 @@
       "ageGroup": "13-14 years",
       "belt": "Beginner",
       "weight": "-60 kg",
+      "isKid": true,
       "athletes": [
         {
           "name": "Krystof Rompot",
@@ -647,6 +670,7 @@
       "ageGroup": "15-17 years",
       "belt": "Advanced",
       "weight": "-60 kg",
+      "isKid": true,
       "athletes": [
         {
           "name": "Jakub Vodvářka",
@@ -669,8 +693,9 @@
       "gi": true,
       "gender": "Female",
       "ageGroup": "13-14 years",
-      "belt": "Elite",
+      "belt": "Advanced",
       "weight": "-55 kg",
+      "isKid": true,
       "athletes": [
         {
           "name": "Vanda Daňková",

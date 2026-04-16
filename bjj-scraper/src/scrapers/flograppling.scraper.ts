@@ -1,35 +1,32 @@
 import { Page } from 'playwright';
-import { ScraperModule } from './base.types';
+import { ScraperModule, ArticleCandidate } from './base.types';
 import { RawArticle } from '../types/article';
-import { cleanText } from '../utils/normalize';
+import { cleanText, extractVideoEmbed } from '../utils/normalize';
 import { logger } from '../utils/logger';
 
 export const flograpplingScraper: ScraperModule = {
   sourceName: 'FloGrappling',
 
-  async getArticleUrls(page: Page): Promise<string[]> {
-    const urls: string[] = [];
+  async getArticleUrls(page: Page): Promise<ArticleCandidate[]> {
+    const candidates: ArticleCandidate[] = [];
     try {
       await page.goto('https://www.flograppling.com/articles', { waitUntil: 'domcontentloaded' });
-      // FloGrappling obvykle používá .article-card nebo podobné selektory.
-      // Přidáme základní zachycení odkazů na články
       const linkLocators = page.locator('a[href*="/articles/"]');
       const count = await linkLocators.count();
-      
+
       for (let i = 0; i < count; i++) {
         const href = await linkLocators.nth(i).getAttribute('href');
         if (href) {
           const fullUrl = href.startsWith('http') ? href : `https://www.flograppling.com${href}`;
-          // filtrujeme unikátní
-          if (!urls.includes(fullUrl)) {
-            urls.push(fullUrl);
+          if (!candidates.some(c => c.url === fullUrl)) {
+            candidates.push({ url: fullUrl });
           }
         }
       }
     } catch (e: any) {
       logger.error(`FloGrappling getArticleUrls error: ${e.message}`);
     }
-    return urls;
+    return candidates;
   },
 
   async getArticleDetails(page: Page, url: string): Promise<RawArticle> {
@@ -39,6 +36,7 @@ export const flograpplingScraper: ScraperModule = {
     let author = null;
     let date = null;
     let content = '';
+    let image_url: string | null = null;
 
     try {
       title = await page.locator('h1').first().innerText();
@@ -78,12 +76,21 @@ export const flograpplingScraper: ScraperModule = {
       }
     }
 
+    image_url = await page.evaluate(() => {
+      const el = document.querySelector<HTMLMetaElement>('meta[property="og:image"]');
+      return el?.content ?? null;
+    });
+
+    const video_embed_url = await extractVideoEmbed(page);
+
     return {
       title: cleanText(title),
       url,
       date: date ? date.trim() : null,
       author: author ? cleanText(author) : null,
-      content: cleanText(content)
+      content: cleanText(content),
+      image_url,
+      video_embed_url
     };
   }
 };

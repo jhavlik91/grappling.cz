@@ -1,0 +1,14 @@
+---
+title: "Caio Terra Talks Lasting Damage From BJJ Career: “It Messes With My Life”"
+date: "2026-04-16"
+source: "BJJ Eastern Europe"
+original_url: "https://www.bjjee.com/bjj-news/caio-terra-talks-lasting-damage-from-bjj-career-it-messes-with-my-life/"
+excerpt: "Caio Terra Talks Lasting Damage From BJJ Career: “It Messes With My Life” APR 11, 2026BJJEE1 AdminArticles, BJJ News Caio Terra has opened up about the long-ter"
+type: "zahranuci"
+image: "https://www.bjjee.com/wp-content/uploads/2026/04/Caio-Terra-shoulder-injury.jpg"
+author: "BJJEE1 Admin"
+---
+
+# Caio Terra Talks Lasting Damage From BJJ Career: “It Messes With My Life”
+
+Caio Terra Talks Lasting Damage From BJJ Career: “It Messes With My Life” APR 11, 2026BJJEE1 AdminArticles, BJJ News Caio Terra has opened up about the long-term physical toll of competing at the highest level of BJJ. After decades of elite training and competition, Terra is still dealing with the consequences today: My shoulders are really bad, both of them. And today I can’t do things like brushing my teeth or fixing my hair for long because my shoulders are already hurting. And that’s something that messes with my life. Looking back, Terra believes some of the long-term damage might have been avoidable: What I didn’t realize is that maybe as a professional athlete, I should do rehab on my joints because now they’re so weak because I never did it. Interestingly, he acknowledged that those same limitations may have contributed to his technical growth: I think that I did get better because I was weaker and it forced me to learn Jiu-Jitsu. But at the same time, I think that my body suffers now because of that. Beyond competition, Terra hinted that much of the damage likely came from years of intense training as well: I wish that I trained a little bit less, maybe 70% of what I trained because I think that would still be a good amount of hours on the mat for me to continue to evolve. Watch the video below to hear Terra’s full explanation: Sloth Jiu-Jitsu: The Ultimate Guide for Calmly Beating Bigger, Younger Opponents 💥 What if slowing down was the fastest way to win? 💭 Tired of Getting Smashed by Younger, Stronger Grapplers? It’s not your age. It’s your strategy. If you’re a passionate grappler over 35 who’s sick of getting outpaced, outmuscled, or out-cardio’d by opponents half your age — this 120 page e-book was made for you. 🔓 Unlock the Power of Sloth Jiu-Jitsu: Build Sustainable Strength—Without Wrecking Your Joints, Energy, or Jiu-Jitsu Tired of waking up sore and burnt out after lifting? Sloth Strength is a proven blueprint for grapplers over 35 who want to get stronger—without the pain, burnout, or injuries. Developed from 25 years on the mats, this no-burnout approach is made specifically for BJJ athletes in their 30s, 40s, and beyond. BJJ injury caio terra injuries longevity

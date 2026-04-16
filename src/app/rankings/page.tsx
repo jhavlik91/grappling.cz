@@ -3,15 +3,16 @@
 import { useState, useEffect } from "react";
 import type { Rankings, RankingEntry } from "@/types/smoothcomp";
 
-const NOGI_ORDER = [
-  "Beginner",
-  "Advanced",
-  "Elite",
-];
+// Belt display order — adults
+const NOGI_ADULT_ORDER = ["Beginner", "Advanced", "Elite"];
+const GI_ADULT_ORDER = ["White", "Blue", "Purple / Brown / Black"];
 
-const GI_ORDER = ["White", "Blue", "Purple / Brown / Black"];
+// Belt display order — kids
+const GI_KIDS_ORDER = ["Beginner", "Advanced"];
+const NOGI_KIDS_ORDER = ["Beginner", "Advanced"];
 
 const BELT_STYLES: Record<string, string> = {
+  // Adults
   Beginner: "bg-white text-gray-900",
   Advanced: "bg-blue-600 text-white",
   Elite: "bg-gray-900 text-white ring-1 ring-white/20",
@@ -25,10 +26,15 @@ function MedalBadge({ type }: { type: "gold" | "silver" | "bronze" }) {
   return <span className="text-lg">{icons[type]}</span>;
 }
 
+type AgeGroup = "adults" | "kids";
+type GiType = "gi" | "nogi";
+type Gender = "Male" | "Female" | "Mixed";
+
 export default function RankingsPage() {
   const [rankings, setRankings] = useState<Rankings | null>(null);
-  const [activeType, setActiveType] = useState<"gi" | "nogi">("nogi");
-  const [activeGender, setActiveGender] = useState<"Male" | "Female">("Male");
+  const [activeType, setActiveType] = useState<GiType>("nogi");
+  const [activeAge, setActiveAge] = useState<AgeGroup>("adults");
+  const [activeGender, setActiveGender] = useState<Gender>("Male");
   const [activeBelt, setActiveBelt] = useState("Beginner");
   const [topOnly, setTopOnly] = useState(false);
 
@@ -37,30 +43,48 @@ export default function RankingsPage() {
       .then((res) => res.json())
       .then((data: Rankings) => {
         setRankings(data);
-        
-        // Auto-select first available belt for activeType and activeGender
-        const list = activeType === "nogi" ? NOGI_ORDER : GI_ORDER;
-        const available = list.filter((b) => data[activeType]?.[activeGender]?.[b]?.length);
-        if (available.length > 0 && !data[activeType]?.[activeGender]?.[activeBelt]?.length) {
-          setActiveBelt(available[0]);
-        }
       })
       .catch(console.error);
-  }, []); // eslint-disable-line react-hooks/exhaustive-deps
+  }, []);
 
-  // When type or gender changes, we switch the active belt automatically to a valid one
+  // Derive the section key based on active selections
+  const sectionKey = activeAge === "kids"
+    ? (`${activeType}_kids` as keyof Rankings)
+    : (activeType as keyof Rankings);
+
+  // Belt list for current context
+  const beltOrder = activeAge === "kids"
+    ? (activeType === "gi" ? GI_KIDS_ORDER : NOGI_KIDS_ORDER)
+    : (activeType === "gi" ? GI_ADULT_ORDER : NOGI_ADULT_ORDER);
+
+  // When context changes, auto-select first available belt
   useEffect(() => {
     if (!rankings) return;
-    const list = activeType === "nogi" ? NOGI_ORDER : GI_ORDER;
-    const available = list.filter((b) => rankings[activeType]?.[activeGender]?.[b]?.length);
-    if (!list.includes(activeBelt) || (available.length > 0 && !rankings[activeType]?.[activeGender]?.[activeBelt]?.length)) {
-      setActiveBelt(available.length > 0 ? available[0] : list[0]);
+    const section = rankings[sectionKey] as Record<string, Record<string, RankingEntry[]>> | undefined;
+    const available = beltOrder.filter((b) => section?.[activeGender]?.[b]?.length);
+    if (!available.includes(activeBelt)) {
+      setActiveBelt(available[0] ?? beltOrder[0]);
     }
-  }, [activeType, activeGender, rankings, activeBelt]);
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [activeType, activeAge, activeGender, rankings]);
 
-  const activeBeltsList = activeType === "nogi" ? NOGI_ORDER : GI_ORDER;
-  const allEntries: RankingEntry[] = rankings?.[activeType]?.[activeGender]?.[activeBelt] ?? [];
+  const section = rankings?.[sectionKey] as Record<string, Record<string, RankingEntry[]>> | undefined;
+  const allEntries: RankingEntry[] = section?.[activeGender]?.[activeBelt] ?? [];
   const entries = topOnly ? allEntries.slice(0, 10) : allEntries;
+
+  // Available genders for kids (may include Mixed)
+  const genderButtons: { key: Gender; label: string }[] = activeAge === "kids"
+    ? [
+        { key: "Male", label: "Kluci" },
+        { key: "Female", label: "Holky" },
+        { key: "Mixed", label: "Mix" },
+      ]
+    : [
+        { key: "Male", label: "Muži" },
+        { key: "Female", label: "Ženy" },
+      ];
+
+  const accentClass = activeType === "gi" ? "bg-electric text-white" : "bg-acid text-black";
 
   return (
     <div className="mx-auto max-w-7xl px-4 py-10">
@@ -69,14 +93,13 @@ export default function RankingsPage() {
       </h1>
 
       <div className="mt-8 mb-6 flex flex-col gap-3 border-b border-white/[0.06] pb-4 sm:flex-row sm:items-center sm:justify-between">
-        {/* Left: discipline toggle */}
-        <div className="flex items-center gap-2">
+        {/* Left: discipline + age group */}
+        <div className="flex items-center gap-2 flex-wrap">
+          {/* GI / NO-GI */}
           <button
             onClick={() => setActiveType("nogi")}
             className={`rounded-lg px-4 py-2 text-xs sm:text-sm font-bold uppercase tracking-wider transition-all ${
-              activeType === "nogi"
-                ? "bg-acid text-black"
-                : "text-gray-400 hover:bg-white/[0.06]"
+              activeType === "nogi" ? "bg-acid text-black" : "text-gray-400 hover:bg-white/[0.06]"
             }`}
           >
             NO-GI
@@ -84,57 +107,65 @@ export default function RankingsPage() {
           <button
             onClick={() => setActiveType("gi")}
             className={`rounded-lg px-4 py-2 text-xs sm:text-sm font-bold uppercase tracking-wider transition-all ${
-              activeType === "gi"
-                ? "bg-electric text-white"
-                : "text-gray-400 hover:bg-white/[0.06]"
+              activeType === "gi" ? "bg-electric text-white" : "text-gray-400 hover:bg-white/[0.06]"
             }`}
           >
             GI
           </button>
+
+          <span className="mx-1 h-6 w-px bg-white/10" />
+
+          {/* Adults / Kids */}
+          <button
+            onClick={() => setActiveAge("adults")}
+            className={`rounded-lg px-4 py-2 text-xs sm:text-sm font-bold uppercase tracking-wider transition-all ${
+              activeAge === "adults" ? accentClass : "text-gray-400 hover:bg-white/[0.06]"
+            }`}
+          >
+            Dospělí
+          </button>
+          <button
+            onClick={() => setActiveAge("kids")}
+            className={`rounded-lg px-4 py-2 text-xs sm:text-sm font-bold uppercase tracking-wider transition-all ${
+              activeAge === "kids" ? accentClass : "text-gray-400 hover:bg-white/[0.06]"
+            }`}
+          >
+            Děti
+          </button>
         </div>
 
         {/* Right: gender + top10 */}
-        <div className="flex items-center gap-2">
-          <button
-            onClick={() => setActiveGender("Male")}
-            className={`rounded-lg px-4 py-2 text-xs sm:text-sm font-bold uppercase tracking-wider transition-all ${
-              activeGender === "Male"
-                ? "bg-white text-gray-900"
-                : "text-gray-400 hover:bg-white/[0.06]"
-            }`}
-          >
-            Muži
-          </button>
-          <button
-            onClick={() => setActiveGender("Female")}
-            className={`rounded-lg px-4 py-2 text-xs sm:text-sm font-bold uppercase tracking-wider transition-all ${
-              activeGender === "Female"
-                ? "bg-white text-gray-900"
-                : "text-gray-400 hover:bg-white/[0.06]"
-            }`}
-          >
-            Ženy
-          </button>
+        <div className="flex items-center gap-2 flex-wrap">
+          {genderButtons.map(({ key, label }) => (
+            <button
+              key={key}
+              onClick={() => setActiveGender(key)}
+              className={`rounded-lg px-4 py-2 text-xs sm:text-sm font-bold uppercase tracking-wider transition-all ${
+                activeGender === key ? "bg-white text-gray-900" : "text-gray-400 hover:bg-white/[0.06]"
+              }`}
+            >
+              {label}
+            </button>
+          ))}
 
           <span className="mx-1 h-6 w-px bg-white/10" />
 
           <button
             onClick={() => setTopOnly((v) => !v)}
             className={`rounded-lg px-4 py-2 text-xs sm:text-sm font-bold uppercase tracking-wider transition-all ${
-              topOnly
-                ? activeType === "nogi" ? "bg-acid text-black" : "bg-electric text-white"
-                : "text-gray-400 hover:bg-white/[0.06]"
+              topOnly ? accentClass : "text-gray-400 hover:bg-white/[0.06]"
             }`}
           >
-            {topOnly ? "All" : "Top 10"}
+            {topOnly ? "Vše" : "Top 10"}
           </button>
         </div>
       </div>
 
       {/* Belt tabs */}
       <div className="mb-10 flex flex-wrap gap-2">
-        {activeBeltsList.map((belt) => {
-          const count = rankings?.[activeType]?.[activeGender]?.[belt]?.length ?? 0;
+        {beltOrder.map((belt) => {
+          const count = section?.[activeGender]?.[belt]?.length ?? 0;
+          if (count === 0) return null;
           const isActive = activeBelt === belt;
           return (
             <button
@@ -147,9 +178,7 @@ export default function RankingsPage() {
               }`}
             >
               {belt}
-              {count > 0 && (
-                <span className="ml-1.5 text-xs opacity-60">({count})</span>
-              )}
+              <span className="ml-1.5 text-xs opacity-60">({count})</span>
             </button>
           );
         })}
@@ -169,7 +198,6 @@ export default function RankingsPage() {
                 <th className="w-[72px] px-4 py-2 font-display tracking-widest pl-6">Rank</th>
                 <th className="w-[22%] px-4 py-2 font-display tracking-widest">Závodník</th>
                 <th className="px-4 py-2 font-display tracking-widest">Klub</th>
-
                 <th className="w-[180px] px-4 py-2 font-display tracking-widest text-center" colSpan={3}>
                   Medaile
                 </th>
@@ -190,7 +218,6 @@ export default function RankingsPage() {
                   <td className="px-4 py-3">
                     <span className="text-gray-400 text-base font-medium line-clamp-1">{entry.club}</span>
                   </td>
-
                   <td className="px-2 py-3">
                     <div className="flex items-center gap-1.5 justify-center">
                       <MedalBadge type="gold" />

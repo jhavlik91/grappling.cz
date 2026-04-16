@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import type { ArticlePreview } from "@/types/content";
 
@@ -17,7 +18,14 @@ export function ArticleCardSmall({ article }: { article: ArticlePreview }) {
           <span>{article.readingTime} min</span>
         </div>
       </div>
-      <div className="h-14 w-14 flex-shrink-0 rounded-lg bg-gradient-to-br from-gray-800 to-gray-900" />
+      <div className="relative h-14 w-14 flex-shrink-0 rounded-lg bg-gradient-to-br from-gray-800 to-gray-900 overflow-hidden">
+        <Image
+          src={article.imageUrl}
+          alt={article.title}
+          fill
+          className="object-cover"
+        />
+      </div>
     </Link>
   );
 }

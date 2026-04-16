@@ -1,0 +1,841 @@
+{
+  "slug": "event-31007",
+  "name": "Pardubice Grappling Open vol.6",
+  "date": "2026-04-16",
+  "country": "CZ",
+  "categories": [
+    {
+      "name": "Men No-GI / Beginner / -77 kg",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Unknown",
+      "belt": "Beginner",
+      "weight": "-77 kg",
+      "isKid": false,
+      "athletes": [
+        {
+          "name": "Daniel Merta",
+          "country": "cz",
+          "club": "RBSD Šumperk",
+          "placement": 1,
+          "userId": 2713332
+        },
+        {
+          "name": "Dominik Mach",
+          "country": "cz",
+          "club": "",
+          "placement": 2,
+          "userId": 2777087
+        },
+        {
+          "name": "Antonín Kašpar",
+          "country": "cz",
+          "club": "Grappling MMA Hořice",
+          "placement": 3,
+          "userId": 2614374
+        }
+      ]
+    },
+    {
+      "name": "Men No-GI / Beginner / -84 kg",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Unknown",
+      "belt": "Beginner",
+      "weight": "-84 kg",
+      "isKid": false,
+      "athletes": [
+        {
+          "name": "Michal Bělohlávek",
+          "country": "cz",
+          "club": "Sportovní Klub Pretorian Pardubice",
+          "placement": 1,
+          "userId": 1911411
+        },
+        {
+          "name": "Štěpán Půlpán",
+          "country": "cz",
+          "club": "Good luck gym Hradec Králové",
+          "placement": 2,
+          "userId": 2155485
+        },
+        {
+          "name": "Jan Daniel Görner",
+          "country": "cz",
+          "club": "CTFT MMA",
+          "placement": 3,
+          "userId": 2767112
+        }
+      ]
+    },
+    {
+      "name": "Men No-GI / Intermediate / -66 kg",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Unknown",
+      "belt": "Advanced",
+      "weight": "-66 kg",
+      "isKid": false,
+      "athletes": [
+        {
+          "name": "Šimon Seidl",
+          "country": "cz",
+          "club": "Grappling MMA Hořice",
+          "placement": 1,
+          "userId": 1683262
+        },
+        {
+          "name": "Jan Šubrt",
+          "country": "cz",
+          "club": "RBSD Šumperk",
+          "placement": 2,
+          "userId": 348576
+        },
+        {
+          "name": "Vojtěch Kalina",
+          "country": "cz",
+          "club": "Good luck gym Hradec Králové",
+          "placement": 3,
+          "userId": 2155356
+        }
+      ]
+    },
+    {
+      "name": "Men No-GI / Intermediate / -93 kg",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Unknown",
+      "belt": "Advanced",
+      "weight": "-93 kg",
+      "isKid": false,
+      "athletes": [
+        {
+          "name": "Vasia Gichka",
+          "country": "ua",
+          "club": "Good luck gym Hradec Králové",
+          "placement": 1,
+          "userId": 1934181
+        },
+        {
+          "name": "Jan Kvasnička",
+          "country": "cz",
+          "club": "DSC GYM CESKA TREBOVA",
+          "placement": 2,
+          "userId": 79483
+        },
+        {
+          "name": "Ivan Zyzen",
+          "country": "",
+          "club": "CTFT MMA",
+          "placement": 3,
+          "userId": 1936609
+        }
+      ]
+    },
+    {
+      "name": "Women GI / Blue Belt / +60kg",
+      "gi": true,
+      "gender": "Female",
+      "ageGroup": "Unknown",
+      "belt": "Blue",
+      "weight": "+60kg",
+      "isKid": false,
+      "athletes": [
+        {
+          "name": "Karolina Jandová",
+          "country": "cz",
+          "club": "DSC GYM CESKA TREBOVA",
+          "placement": 1,
+          "userId": 250896
+        },
+        {
+          "name": "Magdalena Čechová",
+          "country": "cz",
+          "club": "Academy of Movement",
+          "placement": 2,
+          "userId": 2035390
+        },
+        {
+          "name": "Eva Šimáková",
+          "country": "cz",
+          "club": "Delta gym",
+          "placement": 3,
+          "userId": 1228462
+        }
+      ]
+    },
+    {
+      "name": "Boys Junior No-GI / 6-8 years / -40 kg / Beginner",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "6-8 years",
+      "belt": "Beginner",
+      "weight": "-40 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Simon Filip",
+          "country": "cz",
+          "club": "Reinders MMA",
+          "placement": 1,
+          "userId": 2607946
+        },
+        {
+          "name": "Lukáš Habich",
+          "country": "cz",
+          "club": "Choketopus gym",
+          "placement": 2,
+          "userId": 2558672
+        },
+        {
+          "name": "Alexej Kosík",
+          "country": "cz",
+          "club": "DSC GYM CESKA TREBOVA",
+          "placement": 3,
+          "userId": 1413323
+        }
+      ]
+    },
+    {
+      "name": "Boys Junior No-GI / 9-10 years / -32 kg / Intermediate",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "9-10 years",
+      "belt": "Advanced",
+      "weight": "-32 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Luka Long",
+          "country": "cu",
+          "club": "Reinders MMA",
+          "placement": 1,
+          "userId": 1462761
+        },
+        {
+          "name": "Vojtěch Šatava",
+          "country": "cz",
+          "club": "Academy of Movement",
+          "placement": 2,
+          "userId": 1246942
+        },
+        {
+          "name": "Ladislav Kolaja",
+          "country": "cz",
+          "club": "DSC GYM CESKA TREBOVA",
+          "placement": 3,
+          "userId": 2431216
+        }
+      ]
+    },
+    {
+      "name": "Boys Junior No-GI / 9-10 years / -40 kg / Professional",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "9-10 years",
+      "belt": "Advanced",
+      "weight": "-40 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Alex Janda",
+          "country": "cz",
+          "club": "DSC GYM CESKA TREBOVA",
+          "placement": 1,
+          "userId": 1081605
+        },
+        {
+          "name": "Michal Mitlehner",
+          "country": "cz",
+          "club": "Academy of Movement",
+          "placement": 2,
+          "userId": 987699
+        }
+      ]
+    },
+    {
+      "name": "Boys Junior No-GI / 11-12 years / -40 kg / Beginner",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "11-12 years",
+      "belt": "Beginner",
+      "weight": "-40 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Albert Veverka",
+          "country": "cz",
+          "club": "Grappling MMA Hořice",
+          "placement": 1,
+          "userId": 2793234
+        },
+        {
+          "name": "Maksym Kalynych",
+          "country": "cz",
+          "club": "CTFT MMA",
+          "placement": 2,
+          "userId": 1933598
+        },
+        {
+          "name": "Tadeáš Sokol",
+          "country": "cz",
+          "club": "Academy of Movement",
+          "placement": 3,
+          "userId": 1544310
+        }
+      ]
+    },
+    {
+      "name": "Boys Junior No-GI / 11-12 years / -50 kg / Beginner",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "11-12 years",
+      "belt": "Beginner",
+      "weight": "-50 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Karel Kolář",
+          "country": "cz",
+          "club": "Reinders MMA",
+          "placement": 1,
+          "userId": 1726008
+        },
+        {
+          "name": "Matyáš Divíšek",
+          "country": "cz",
+          "club": "Delta gym",
+          "placement": 2,
+          "userId": 2431874
+        },
+        {
+          "name": "Davyd Makarov",
+          "country": "ua",
+          "club": "RBSD Šumperk",
+          "placement": 3,
+          "userId": 2405116
+        }
+      ]
+    },
+    {
+      "name": "Boys Junior No-GI / 13-14 years / -55 kg / Beginner",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "13-14 years",
+      "belt": "Beginner",
+      "weight": "-55 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Adam Dočkal",
+          "country": "cz",
+          "club": "Renzo Gracie Prague",
+          "placement": 1,
+          "userId": 809604
+        },
+        {
+          "name": "Yaroslav Solovei",
+          "country": "ua",
+          "club": "Red Dot Gym",
+          "placement": 2,
+          "userId": 2504437
+        }
+      ]
+    },
+    {
+      "name": "Boys Junior No-GI / 13-14 years / -70 kg / Beginner",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "13-14 years",
+      "belt": "Beginner",
+      "weight": "-70 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Jakub Kučera",
+          "country": "cz",
+          "club": "RBSD Šumperk",
+          "placement": 1,
+          "userId": 2650881
+        },
+        {
+          "name": "Matěj Vejchoda",
+          "country": "cz",
+          "club": "RBSD Šumperk",
+          "placement": 2,
+          "userId": 1696718
+        },
+        {
+          "name": "Krystof Rompot",
+          "country": "cz",
+          "club": "Sportovní Klub Pretorian Pardubice",
+          "placement": 3,
+          "userId": 1892063
+        }
+      ]
+    },
+    {
+      "name": "Boys Junior No-GI / 15-17 years / -60 kg / Beginner",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "15-17 years",
+      "belt": "Beginner",
+      "weight": "-60 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Ondřej Koudelka",
+          "country": "cz",
+          "club": "Red Dot Gym",
+          "placement": 1,
+          "userId": 1118971
+        },
+        {
+          "name": "Šimon Dospěl",
+          "country": "cz",
+          "club": "",
+          "placement": 2,
+          "userId": 2526978
+        },
+        {
+          "name": "Bruno Čížek",
+          "country": "cz",
+          "club": "DSC GYM CESKA TREBOVA",
+          "placement": 3,
+          "userId": 2401337
+        }
+      ]
+    },
+    {
+      "name": "Boys Junior No-GI / 15-17 years / -75 kg / Beginner",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "15-17 years",
+      "belt": "Beginner",
+      "weight": "-75 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Leoš Píša",
+          "country": "cz",
+          "club": "",
+          "placement": 1,
+          "userId": 2148246
+        },
+        {
+          "name": "Jan Kučera",
+          "country": "cz",
+          "club": "RBSD Šumperk",
+          "placement": 2,
+          "userId": 1764779
+        },
+        {
+          "name": "Robin Tribula",
+          "country": "cz",
+          "club": "Good luck gym Hradec Králové",
+          "placement": 3,
+          "userId": 2629849
+        }
+      ]
+    },
+    {
+      "name": "Boys Junior GI / 6-8 years / -36 kg / Beginner",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "6-8 years",
+      "belt": "Beginner",
+      "weight": "-36 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Mahulena Pirklová",
+          "country": "cz",
+          "club": "DSC GYM CESKA TREBOVA",
+          "placement": 1,
+          "userId": 2456240
+        },
+        {
+          "name": "Matyáš Habich",
+          "country": "cz",
+          "club": "Choketopus gym",
+          "placement": 2,
+          "userId": 2558675
+        },
+        {
+          "name": "Johanka Vrabcová",
+          "country": "cz",
+          "club": "Red Dot Gym",
+          "placement": 3,
+          "userId": 2784949
+        }
+      ]
+    },
+    {
+      "name": "Boys Junior GI / 9-10 years / -28 kg / Beginner",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "9-10 years",
+      "belt": "Beginner",
+      "weight": "-28 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Michal Chuda",
+          "country": "cz",
+          "club": "DSC GYM CESKA TREBOVA",
+          "placement": 1,
+          "userId": 2502182
+        },
+        {
+          "name": "Štěpán Pokorný",
+          "country": "cz",
+          "club": "Academy of Movement",
+          "placement": 2,
+          "userId": 2749050
+        }
+      ]
+    },
+    {
+      "name": "Boys Junior GI / 9-10 years / -32 kg / Intermediate",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "9-10 years",
+      "belt": "Advanced",
+      "weight": "-32 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Vojtěch Šatava",
+          "country": "cz",
+          "club": "Academy of Movement",
+          "placement": 1,
+          "userId": 1246942
+        },
+        {
+          "name": "Sebastian Petrovický",
+          "country": "cz",
+          "club": "Academy of Movement",
+          "placement": 2,
+          "userId": 1246928
+        },
+        {
+          "name": "Ladislav Kolaja",
+          "country": "cz",
+          "club": "DSC GYM CESKA TREBOVA",
+          "placement": 3,
+          "userId": 2431216
+        }
+      ]
+    },
+    {
+      "name": "Boys Junior GI / 9-10 years / -36 kg / Beginner",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "9-10 years",
+      "belt": "Beginner",
+      "weight": "-36 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Simon Filip",
+          "country": "cz",
+          "club": "Reinders MMA",
+          "placement": 1,
+          "userId": 2607946
+        },
+        {
+          "name": "Filip Veselý",
+          "country": "cz",
+          "club": "Delta gym",
+          "placement": 2,
+          "userId": 2428943
+        },
+        {
+          "name": "Lukáš Habich",
+          "country": "cz",
+          "club": "Choketopus gym",
+          "placement": 3,
+          "userId": 2558672
+        }
+      ]
+    },
+    {
+      "name": "Boys Junior GI / 9-10 years / -36 kg / Intermediate",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "9-10 years",
+      "belt": "Advanced",
+      "weight": "-36 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Alex Janda",
+          "country": "cz",
+          "club": "DSC GYM CESKA TREBOVA",
+          "placement": 1,
+          "userId": 1081605
+        },
+        {
+          "name": "Michal Mitlehner",
+          "country": "cz",
+          "club": "Academy of Movement",
+          "placement": 2,
+          "userId": 987699
+        }
+      ]
+    },
+    {
+      "name": "Boys Junior GI / 11-12 years / -40 kg / Beginner",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "11-12 years",
+      "belt": "Beginner",
+      "weight": "-40 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Tadeáš Sokol",
+          "country": "cz",
+          "club": "Academy of Movement",
+          "placement": 1,
+          "userId": 1544310
+        },
+        {
+          "name": "Maksym Kalynych",
+          "country": "cz",
+          "club": "CTFT MMA",
+          "placement": 2,
+          "userId": 1933598
+        }
+      ]
+    },
+    {
+      "name": "Boys Junior GI / 11-12 years / -45 kg / Beginner",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "11-12 years",
+      "belt": "Beginner",
+      "weight": "-45 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Karel Kolář",
+          "country": "cz",
+          "club": "Reinders MMA",
+          "placement": 1,
+          "userId": 1726008
+        },
+        {
+          "name": "Volodymyr Demchuk",
+          "country": "ua",
+          "club": "Red Dot Gym",
+          "placement": 2,
+          "userId": 1656570
+        },
+        {
+          "name": "Viktor Burkovsky",
+          "country": "ua",
+          "club": "Academy of Movement",
+          "placement": 3,
+          "userId": 2739512
+        }
+      ]
+    },
+    {
+      "name": "Boys Junior GI / 11-12 years / -55 kg / Beginner",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "11-12 years",
+      "belt": "Beginner",
+      "weight": "-55 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Matyáš Divíšek",
+          "country": "cz",
+          "club": "Delta gym",
+          "placement": 1,
+          "userId": 2431874
+        },
+        {
+          "name": "Jaroslav Tobiška",
+          "country": "cz",
+          "club": "DSC GYM CESKA TREBOVA",
+          "placement": 2,
+          "userId": 2160364
+        }
+      ]
+    },
+    {
+      "name": "Boys Junior GI / 13-14 years / -45 kg / Intermediate",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "13-14 years",
+      "belt": "Advanced",
+      "weight": "-45 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Ondřej Šatava",
+          "country": "cz",
+          "club": "Academy of Movement",
+          "placement": 1,
+          "userId": 987809
+        },
+        {
+          "name": "Jakub Komárek",
+          "country": "cz",
+          "club": "Delta gym",
+          "placement": 2,
+          "userId": 1230408
+        }
+      ]
+    },
+    {
+      "name": "Boys Junior GI / 13-14 years / -55 kg / Intermediate",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "13-14 years",
+      "belt": "Advanced",
+      "weight": "-55 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Lukáš Kubín",
+          "country": "cz",
+          "club": "Red Dot Gym",
+          "placement": 1,
+          "userId": 1241410
+        },
+        {
+          "name": "Adam Dočkal",
+          "country": "cz",
+          "club": "Renzo Gracie Prague",
+          "placement": 2,
+          "userId": 809604
+        },
+        {
+          "name": "Matěj Plachý",
+          "country": "cz",
+          "club": "Delta gym",
+          "placement": 3,
+          "userId": 2785141
+        }
+      ]
+    },
+    {
+      "name": "Girls Junior No-GI / -32 kg / 6-8 years / Beginner",
+      "gi": false,
+      "gender": "Female",
+      "ageGroup": "6-8 years",
+      "belt": "Beginner",
+      "weight": "-32 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Ema Hrabalová",
+          "country": "cz",
+          "club": "DSC GYM CESKA TREBOVA",
+          "placement": 1,
+          "userId": 1950823
+        },
+        {
+          "name": "Matyáš Habich",
+          "country": "cz",
+          "club": "Choketopus gym",
+          "placement": 2,
+          "userId": 2558675
+        },
+        {
+          "name": "Mahulena Pirklová",
+          "country": "cz",
+          "club": "DSC GYM CESKA TREBOVA",
+          "placement": 3,
+          "userId": 2456240
+        }
+      ]
+    },
+    {
+      "name": "Girls Junior No-GI / -55 kg / 15-17 years / Beginner",
+      "gi": false,
+      "gender": "Female",
+      "ageGroup": "15-17 years",
+      "belt": "Beginner",
+      "weight": "-55 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Zuzana Jecu",
+          "country": "cz",
+          "club": "RBSD Šumperk",
+          "placement": 1,
+          "userId": 1320582
+        },
+        {
+          "name": "Karolína Emílie Šlosárová",
+          "country": "cz",
+          "club": "RBSD Šumperk",
+          "placement": 2,
+          "userId": 2212384
+        }
+      ]
+    },
+    {
+      "name": "Girls Junior GI / -28 kg / 6-8 years / Beginner",
+      "gi": true,
+      "gender": "Female",
+      "ageGroup": "6-8 years",
+      "belt": "Beginner",
+      "weight": "-28 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Emiliia Vavrysevych",
+          "country": "ua",
+          "club": "Red Dot Gym",
+          "placement": 1,
+          "userId": 1935212
+        },
+        {
+          "name": "Anežka Stejskalová",
+          "country": "cz",
+          "club": "Academy of Movement",
+          "placement": 2,
+          "userId": 2351407
+        }
+      ]
+    },
+    {
+      "name": "Girls Junior GI / -50 kg / 11-12 years / Intermediate",
+      "gi": true,
+      "gender": "Female",
+      "ageGroup": "11-12 years",
+      "belt": "Advanced",
+      "weight": "-50 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Bibiana Dvořáková",
+          "country": "cz",
+          "club": "DSC GYM CESKA TREBOVA",
+          "placement": 1,
+          "userId": 974565
+        },
+        {
+          "name": "Tereza Matějková",
+          "country": "cz",
+          "club": "Academy of Movement",
+          "placement": 2,
+          "userId": 1422427
+        },
+        {
+          "name": "Rozalie Novotna",
+          "country": "cz",
+          "club": "DSC GYM CESKA TREBOVA",
+          "placement": 3,
+          "userId": 858906
+        }
+      ]
+    }
+  ]
+}

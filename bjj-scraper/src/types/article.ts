@@ -4,6 +4,8 @@ export interface RawArticle {
   date: string | null;
   author: string | null;
   content: string;
+  image_url: string | null;
+  video_embed_url: string | null;
 }
 
 export interface ProcessedArticle {

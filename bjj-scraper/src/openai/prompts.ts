@@ -18,15 +18,20 @@ export function buildUserPrompt(
   title: string,
   date: string | null,
   author: string | null,
-  text: string
+  text: string,
+  videoEmbedUrl?: string | null
 ): string {
+  const videoNote = videoEmbedUrl
+    ? `\nVIDEO EMBED: ${videoEmbedUrl}\n(Článek obsahuje video. Na vhodném místě v article_markdown vlož blok: [VIDEO:${videoEmbedUrl}])`
+    : '';
+
   return `
 Zpracuj následující článek ze zdroje:
 Zdroj: ${sourceName}
 URL: ${sourceUrl}
 Původní titulek: ${title}
 Datum: ${date || 'neznámé'}
-Autor: ${author || 'neznámé'}
+Autor: ${author || 'neznámé'}${videoNote}
 
 PŮVODNÍ TEXT:
 ${text}

@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import type { ArticlePreview } from "@/types/content";
 import { ContentBadge } from "./ContentBadge";
@@ -10,6 +11,12 @@ export function ArticleCardLarge({ article }: { article: ArticlePreview }) {
     >
       {/* Image area */}
       <div className="relative h-56 sm:h-64 bg-gradient-to-br from-purple-950/50 via-gray-900 to-gray-800 overflow-hidden">
+        <Image
+          src={article.imageUrl}
+          alt={article.title}
+          fill
+          className="object-cover"
+        />
         <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent" />
         <div className="absolute bottom-4 left-4">
           <ContentBadge tag={article.tag} />

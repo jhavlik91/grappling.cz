@@ -1,3 +1,6 @@
+import fs from "node:fs/promises";
+import path from "node:path";
+import matter from "gray-matter";
 import { notFound } from "next/navigation";
 import { ArticleHero } from "@/components/article/ArticleHero";
 import { ArticleMeta } from "@/components/article/ArticleMeta";
@@ -5,22 +8,21 @@ import { ArticleBody } from "@/components/article/ArticleBody";
 import { RelatedArticles } from "@/components/article/RelatedArticles";
 import { SidebarRecommended } from "@/components/article/SidebarRecommended";
 import { SidebarAd } from "@/components/ads/SidebarAd";
-import { getArticleBySlug, trendingArticles } from "@/lib/mockData";
+import { trendingArticles } from "@/lib/mockData";
+import type { ArticleDetail, ArticleBodyBlock } from "@/types/content";
 
 // For static export: pre-generate known slugs
-export function generateStaticParams() {
-  const slugs = [
-    "gordon-ryan-adcc-2025-analyza",
-    "cesky-grappling-2026-roste",
-    "rozhovor-michal-pesek",
-    "guard-passing-tipy",
-    "turnaj-brno-open-vysledky",
-    "heel-hook-pravidla-ibjjf",
-    "jak-zacit-s-bjj",
-    "dagestan-wrestlers-bjj",
-    "predturnajova-priprava",
-  ];
-  return slugs.map((slug) => ({ slug }));
+export async function generateStaticParams() {
+  try {
+    const articlesDir = path.join(process.cwd(), "content", "articles");
+    const files = await fs.readdir(articlesDir);
+    const mdxSlugs = files
+      .filter((f) => f.endsWith(".mdx") || f.endsWith(".md"))
+      .map((f) => f.replace(/\.(mdx|md)$/, ""));
+    return mdxSlugs.map((slug) => ({ slug }));
+  } catch {
+    return [];
+  }
 }
 
 export default async function ArticleDetailPage({
@@ -29,7 +31,44 @@ export default async function ArticleDetailPage({
   params: Promise<{ slug: string }>;
 }) {
   const { slug } = await params;
-  const article = getArticleBySlug(slug);
+
+  let article: ArticleDetail | null = null;
+
+  try {
+    const articlesDir = path.join(process.cwd(), "content", "articles");
+    let filePath = path.join(articlesDir, `${slug}.mdx`);
+
+    try {
+      await fs.access(filePath);
+    } catch {
+      filePath = path.join(articlesDir, `${slug}.md`);
+    }
+
+    const raw = await fs.readFile(filePath, "utf8");
+    const parsed = matter(raw);
+
+    const body: ArticleBodyBlock[] = parsed.content
+      .split("\n\n")
+      .filter(p => p.trim().length > 0)
+      .map(text => ({ type: "paragraph", text: text.trim() }));
+
+    article = {
+      slug,
+      title: (parsed.data.title as string) ?? slug,
+      subtitle: "",
+      perex: (parsed.data.excerpt as string) ?? parsed.content.slice(0, 150),
+      imageUrl: (parsed.data.image as string) ?? "/images/hero-grappling.jpg",
+      tag: (parsed.data.tag as any) ?? "ZPRÁVY",
+      author: (parsed.data.author as string) ?? "Jan Novák",
+      authorImageUrl: "/images/author.jpg",
+      date: (parsed.data.date as string) ?? "",
+      readingTime: Math.ceil(parsed.content.length / 1000) || 5,
+      body,
+      relatedArticles: [],
+    };
+  } catch {
+    // Not found
+  }
 
   if (!article) {
     notFound();

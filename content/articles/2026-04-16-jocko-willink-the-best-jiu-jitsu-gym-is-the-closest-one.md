@@ -1,0 +1,14 @@
+---
+title: "Jocko Willink: “The Best Jiu-Jitsu Gym Is The Closest One”"
+date: "2026-04-16"
+source: "BJJ Eastern Europe"
+original_url: "https://www.bjjee.com/bjj-news/jocko-willink-the-best-jiu-jitsu-gym-is-the-closest-one/"
+excerpt: "Jocko Willink: “The Best Jiu-Jitsu Gym Is The Closest One” APR 09, 2026BJJEE1 AdminArticles, BJJ News Choosing a BJJ academy can often feel overwhelming. Many p"
+type: "zahranuci"
+image: "https://www.bjjee.com/wp-content/uploads/2022/05/Jocko-Willink-grappling.jpg"
+author: "BJJEE1 Admin"
+---
+
+# Jocko Willink: “The Best Jiu-Jitsu Gym Is The Closest One”
+
+Jocko Willink: “The Best Jiu-Jitsu Gym Is The Closest One” APR 09, 2026BJJEE1 AdminArticles, BJJ News Choosing a BJJ academy can often feel overwhelming. Many people focus on finding the perfect coach, the toughest room, or the best culture… But according to Jocko Willink, most are missing the most important factor. Speaking on Jack Osbourne’s podcast, Willink gave a simple, practical answer: One of the main questions that people will ask me is: “What school should I go to?” Get out Google Maps, put where you live and where you work and which one is close, because proximity is the highest weighted thing. It may sound overly simplistic, especially coming from someone who has trained since the early 1990s, but Willink’s philosophy is rooted in consistency. The best gym in the world doesn’t matter if you can’t show up regularly: If you have five schools to choose from, choose the one that’s closest to you. At the same time, not everyone thrives in a strict environment: You got to find out what fits your personality, what you like and what’s your vibe. Willink’s own academy reflects this mindset. Rather than enforcing rigid rules, he prioritizes accessibility and real-life practicality: These are people that have jobs, that have families, that have kids, like they’re going to be late for class. Sloth Jiu-Jitsu: The Ultimate Guide for Calmly Beating Bigger, Younger Opponents 💥 What if slowing down was the fastest way to win? 💭 Tired of Getting Smashed by Younger, Stronger Grapplers? It’s not your age. It’s your strategy. If you’re a passionate grappler over 35 who’s sick of getting outpaced, outmuscled, or out-cardio’d by opponents half your age — this 120 page e-book was made for you. 🔓 Unlock the Power of Sloth Jiu-Jitsu: Build Sustainable Strength—Without Wrecking Your Joints, Energy, or Jiu-Jitsu Tired of waking up sore and burnt out after lifting? Sloth Strength is a proven blueprint for grapplers over 35 who want to get stronger—without the pain, burnout, or injuries. Developed from 25 years on the mats, this no-burnout approach is made specifically for BJJ athletes in their 30s, 40s, and beyond. BJJ academy BJJ Advice BJJ gym bjj school BJJ Tips bjj training jocko willink

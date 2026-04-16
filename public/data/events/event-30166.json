@@ -1,0 +1,1329 @@
+{
+  "slug": "event-30166",
+  "name": "CFS 13 CZECH CHAMPIONSHIP ČSAKJ 2026",
+  "date": "2026-04-16",
+  "country": "CZ",
+  "categories": [
+    {
+      "name": "Grappling Gi / U12 Děti chlapci / -20 kg",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "Under 12",
+      "belt": "Beginner",
+      "weight": "-20 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Elin Kofroňová",
+          "country": "cz",
+          "club": "SAMURAI FIGHT CLUB",
+          "placement": 1,
+          "userId": 1525801
+        },
+        {
+          "name": "Milan Hrudka",
+          "country": "cz",
+          "club": "SAMURAI FIGHT CLUB",
+          "placement": 2,
+          "userId": 2434336
+        },
+        {
+          "name": "David Boček",
+          "country": "cz",
+          "club": "PTÁČKOVI CZECH COMBAT FEDERATION",
+          "placement": 3,
+          "userId": 2429618
+        }
+      ]
+    },
+    {
+      "name": "Grappling Gi / U12 Děti chlapci / -25 kg",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "Under 12",
+      "belt": "Beginner",
+      "weight": "-25 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Josef Vrága",
+          "country": "cz",
+          "club": "COMBAT GYM Chrastava",
+          "placement": 1,
+          "userId": 1372549
+        },
+        {
+          "name": "Luka Lakomý",
+          "country": "cz",
+          "club": "PTÁČKOVI CZECH COMBAT FEDERATION",
+          "placement": 2,
+          "userId": 2768011
+        }
+      ]
+    },
+    {
+      "name": "Grappling Gi / U12 Děti chlapci / -30 kg",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "Under 12",
+      "belt": "Beginner",
+      "weight": "-30 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Jan Rác",
+          "country": "cz",
+          "club": "5th Dimension BJJ",
+          "placement": 1,
+          "userId": 1510533
+        },
+        {
+          "name": "Jan Brázda",
+          "country": "cz",
+          "club": "HACHIMAN Lázně Toušeň",
+          "placement": 2,
+          "userId": 2686510
+        },
+        {
+          "name": "Noel Filipovský",
+          "country": "cz",
+          "club": "Budoteam Horoměřice",
+          "placement": 3,
+          "userId": 1830341
+        }
+      ]
+    },
+    {
+      "name": "Grappling Gi / U12 Děti chlapci / -35 kg",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "Under 12",
+      "belt": "Beginner",
+      "weight": "-35 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Miroslav Lagron",
+          "country": "cz",
+          "club": "Brazilian Jiu-Jitsu Ústí nad Orlicí",
+          "placement": 1,
+          "userId": 1899446
+        },
+        {
+          "name": "Leoš Chovanec",
+          "country": "cz",
+          "club": "COMBAT GYM Chrastava",
+          "placement": 2,
+          "userId": 2418756
+        },
+        {
+          "name": "Ondřej Jirásek",
+          "country": "cz",
+          "club": "COMBAT GYM Chrastava",
+          "placement": 3,
+          "userId": 2059789
+        }
+      ]
+    },
+    {
+      "name": "Grappling Gi / U12 Děti chlapci / -40 kg",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "Under 12",
+      "belt": "Beginner",
+      "weight": "-40 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Milan Flegr",
+          "country": "cz",
+          "club": "MMA Monster Gym",
+          "placement": 1,
+          "userId": 648853
+        },
+        {
+          "name": "Vojtěch Hřebík",
+          "country": "cz",
+          "club": "HACHIMAN Lázně Toušeň",
+          "placement": 2,
+          "userId": 1759694
+        },
+        {
+          "name": "David Chromčák",
+          "country": "cz",
+          "club": "5th Dimension BJJ",
+          "placement": 3,
+          "userId": 1920269
+        }
+      ]
+    },
+    {
+      "name": "Grappling Gi / U12 Děti chlapci / -45 kg",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "Under 12",
+      "belt": "Beginner",
+      "weight": "-45 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Martin Sombota",
+          "country": "cz",
+          "club": "Tiger Fight Club Chomutov",
+          "placement": 1,
+          "userId": 671375
+        },
+        {
+          "name": "Patrik Stayr",
+          "country": "cz",
+          "club": "Tiger Fight Club Chomutov",
+          "placement": 2,
+          "userId": 1751632
+        }
+      ]
+    },
+    {
+      "name": "Grappling Gi / U12 Děti chlapci / -50 kg",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "Under 12",
+      "belt": "Beginner",
+      "weight": "-50 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Lukáš Lendel",
+          "country": "cz",
+          "club": "SAMURAI FIGHT CLUB",
+          "placement": 1,
+          "userId": 2080146
+        },
+        {
+          "name": "Karel Straka",
+          "country": "cz",
+          "club": "Tiger Fight Club Chomutov",
+          "placement": 2,
+          "userId": 1751620
+        }
+      ]
+    },
+    {
+      "name": "Grappling Gi / U12 Děti chlapci / 50+ kg",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "Under 12",
+      "belt": "Beginner",
+      "weight": "Unknown",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Karel Schämmer",
+          "country": "cz",
+          "club": "SAMURAI FIGHT CLUB",
+          "placement": 1,
+          "userId": 2691364
+        },
+        {
+          "name": "Mikuláš Brabec",
+          "country": "cz",
+          "club": "Tiger Fight Club Chomutov",
+          "placement": 2,
+          "userId": 1509666
+        },
+        {
+          "name": "Milan Marek",
+          "country": "cz",
+          "club": "Tiger Fight Club Chomutov",
+          "placement": 3,
+          "userId": 671345
+        }
+      ]
+    },
+    {
+      "name": "Grappling Gi / U12 Děti dívky / -30 kg",
+      "gi": true,
+      "gender": "Female",
+      "ageGroup": "Under 12",
+      "belt": "Beginner",
+      "weight": "-30 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Barbora Hypšová",
+          "country": "cz",
+          "club": "PTÁČKOVI CZECH COMBAT FEDERATION",
+          "placement": 1,
+          "userId": 2073648
+        },
+        {
+          "name": "Emily Zoe Slezáková",
+          "country": "cz",
+          "club": "Budo team",
+          "placement": 2,
+          "userId": 2737206
+        },
+        {
+          "name": "Nataly Sarkány",
+          "country": "cz",
+          "club": "SAMURAI FIGHT CLUB",
+          "placement": 3,
+          "userId": 899259
+        }
+      ]
+    },
+    {
+      "name": "Grappling Gi / U12 Děti dívky / -45 kg",
+      "gi": true,
+      "gender": "Female",
+      "ageGroup": "Under 12",
+      "belt": "Beginner",
+      "weight": "-45 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Ema Šerclová",
+          "country": "cz",
+          "club": "PTÁČKOVI CZECH COMBAT FEDERATION",
+          "placement": 1,
+          "userId": 1516447
+        },
+        {
+          "name": "Natali Chromčáková",
+          "country": "cz",
+          "club": "5th Dimension BJJ",
+          "placement": 2,
+          "userId": 2454614
+        },
+        {
+          "name": "Zuzana Bencova",
+          "country": "cz",
+          "club": "Benca Ju-jitsu",
+          "placement": 3,
+          "userId": 1505575
+        }
+      ]
+    },
+    {
+      "name": "Grappling Gi / U15 Junioři chlapci / -40 kg",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "Under 15",
+      "belt": "Advanced",
+      "weight": "-40 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Martin Holeček",
+          "country": "cz",
+          "club": "Benca Ju-jitsu",
+          "placement": 1,
+          "userId": 2443441
+        },
+        {
+          "name": "Ondřej Palus",
+          "country": "cz",
+          "club": "Tiger Fight Club Chomutov",
+          "placement": 2,
+          "userId": 1836044
+        }
+      ]
+    },
+    {
+      "name": "Grappling Gi / U15 Junioři chlapci / -45 kg",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "Under 15",
+      "belt": "Advanced",
+      "weight": "-45 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "David Mařík",
+          "country": "cz",
+          "club": "Reinders MMA",
+          "placement": 1,
+          "userId": 1848211
+        },
+        {
+          "name": "Filip Linka",
+          "country": "cz",
+          "club": "5th Dimension BJJ",
+          "placement": 2,
+          "userId": 2731316
+        }
+      ]
+    },
+    {
+      "name": "Grappling Gi / U15 Junioři chlapci / -50 kg",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "Under 15",
+      "belt": "Advanced",
+      "weight": "-50 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Jan Kubín",
+          "country": "cz",
+          "club": "Brazilian Jiu-Jitsu Ústí nad Orlicí",
+          "placement": 1,
+          "userId": 657057
+        },
+        {
+          "name": "Maxmilián Kain",
+          "country": "cz",
+          "club": "HACHIMAN Lázně Toušeň",
+          "placement": 2,
+          "userId": 1515165
+        }
+      ]
+    },
+    {
+      "name": "Grappling Gi / U15 Junioři chlapci / -55 kg",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "Under 15",
+      "belt": "Advanced",
+      "weight": "-55 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Jan Kubín",
+          "country": "cz",
+          "club": "Brazilian Jiu-Jitsu Ústí nad Orlicí",
+          "placement": 1,
+          "userId": 657057
+        },
+        {
+          "name": "Simon Falešník",
+          "country": "cz",
+          "club": "Tiger Fight Club Chomutov",
+          "placement": 2,
+          "userId": 671380
+        },
+        {
+          "name": "Sebastian  Zack Slezák",
+          "country": "cz",
+          "club": "Budo team",
+          "placement": 3,
+          "userId": 2743457
+        }
+      ]
+    },
+    {
+      "name": "Grappling Gi / U15 Junioři chlapci / -60 kg",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "Under 15",
+      "belt": "Advanced",
+      "weight": "-60 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Jáchym Singer",
+          "country": "cz",
+          "club": "Budoteam Horoměřice",
+          "placement": 1,
+          "userId": 1828588
+        },
+        {
+          "name": "Jiří Chudý",
+          "country": "cz",
+          "club": "Tiger Fight Club Chomutov",
+          "placement": 2,
+          "userId": 671354
+        },
+        {
+          "name": "Maroš Mišák",
+          "country": "cz",
+          "club": "Tiger Fight Club Chomutov",
+          "placement": 3,
+          "userId": 2428950
+        }
+      ]
+    },
+    {
+      "name": "Grappling Gi / U15 Junioři dívky / -50 kg",
+      "gi": true,
+      "gender": "Female",
+      "ageGroup": "Under 15",
+      "belt": "Advanced",
+      "weight": "-50 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Katerina Bencova",
+          "country": "cz",
+          "club": "Benca Ju-jitsu",
+          "placement": 1,
+          "userId": 1505554
+        },
+        {
+          "name": "Tereza Bokšayová",
+          "country": "cz",
+          "club": "SAMURAI FIGHT CLUB",
+          "placement": 2,
+          "userId": 2081336
+        },
+        {
+          "name": "Tereza Pfefferová",
+          "country": "cz",
+          "club": "PTÁČKOVI CZECH COMBAT FEDERATION",
+          "placement": 3,
+          "userId": 1516451
+        }
+      ]
+    },
+    {
+      "name": "Grappling Gi / U15 Junioři dívky / 65+ kg",
+      "gi": true,
+      "gender": "Female",
+      "ageGroup": "Under 15",
+      "belt": "Advanced",
+      "weight": "Unknown",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Zuzana Nováková",
+          "country": "cz",
+          "club": "PTÁČKOVI CZECH COMBAT FEDERATION",
+          "placement": 1,
+          "userId": 900398
+        },
+        {
+          "name": "Alice Březinová",
+          "country": "cz",
+          "club": "PTÁČKOVI CZECH COMBAT FEDERATION",
+          "placement": 2,
+          "userId": 1516428
+        }
+      ]
+    },
+    {
+      "name": "Grappling Gi / U18 Kadeti chlapci / -75 kg",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "Under 18",
+      "belt": "Advanced",
+      "weight": "-75 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Antonin Vitvar",
+          "country": "cz",
+          "club": "Benca Ju-jitsu",
+          "placement": 1,
+          "userId": 1505588
+        },
+        {
+          "name": "Lukáš Hassl",
+          "country": "cz",
+          "club": "Tiger Fight Club Chomutov",
+          "placement": 2,
+          "userId": 2707817
+        }
+      ]
+    },
+    {
+      "name": "Grappling Gi / U18 Kadeti dívky / -70 kg",
+      "gi": true,
+      "gender": "Female",
+      "ageGroup": "Under 18",
+      "belt": "Advanced",
+      "weight": "-70 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Aneta Herdová",
+          "country": "cz",
+          "club": "Kobra Kladno",
+          "placement": 1,
+          "userId": 2752488
+        },
+        {
+          "name": "Lenka Kučerová",
+          "country": "cz",
+          "club": "SAMURAI FIGHT CLUB",
+          "placement": 2,
+          "userId": 1519664
+        },
+        {
+          "name": "Eliška Ulmanová",
+          "country": "cz",
+          "club": "Kobra Kladno",
+          "placement": 3,
+          "userId": 2652153
+        }
+      ]
+    },
+    {
+      "name": "Grappling Gi / +18 Dospělí muži / 90+ kg",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "Adult",
+      "belt": "Unknown",
+      "weight": "Unknown",
+      "isKid": false,
+      "athletes": [
+        {
+          "name": "Petr Holouš",
+          "country": "cz",
+          "club": "Tiger Jiu Jitsu Kralupy",
+          "placement": 1,
+          "userId": 67543
+        },
+        {
+          "name": "Radek Jedlička",
+          "country": "cz",
+          "club": "Brazilian Jiu-Jitsu Ústí nad Orlicí",
+          "placement": 2,
+          "userId": 797385
+        }
+      ]
+    },
+    {
+      "name": "Grappling NoGi / U12 Děti chlapci / -20 kg",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Under 12",
+      "belt": "Beginner",
+      "weight": "-20 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Elin Kofroňová",
+          "country": "cz",
+          "club": "SAMURAI FIGHT CLUB",
+          "placement": 1,
+          "userId": 1525801
+        },
+        {
+          "name": "David Boček",
+          "country": "cz",
+          "club": "PTÁČKOVI CZECH COMBAT FEDERATION",
+          "placement": 2,
+          "userId": 2429618
+        }
+      ]
+    },
+    {
+      "name": "Grappling NoGi / U12 Děti chlapci / -25 kg",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Under 12",
+      "belt": "Beginner",
+      "weight": "-25 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Josef Vrága",
+          "country": "cz",
+          "club": "COMBAT GYM Chrastava",
+          "placement": 1,
+          "userId": 1372549
+        },
+        {
+          "name": "Mathias Bojko",
+          "country": "cz",
+          "club": "PTÁČKOVI CZECH COMBAT FEDERATION",
+          "placement": 2,
+          "userId": 2427518
+        }
+      ]
+    },
+    {
+      "name": "Grappling NoGi / U12 Děti chlapci / -30 kg",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Under 12",
+      "belt": "Beginner",
+      "weight": "-30 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Vasil Batryn",
+          "country": "ua",
+          "club": "SLON GYM PRAHA",
+          "placement": 1,
+          "userId": 1934080
+        },
+        {
+          "name": "Martin Skřítek",
+          "country": "cz",
+          "club": "Tiger Fight Club Chomutov",
+          "placement": 2,
+          "userId": 671337
+        },
+        {
+          "name": "Sebastian Schulz",
+          "country": "cz",
+          "club": "SLON GYM PRAHA",
+          "placement": 3,
+          "userId": 2697456
+        }
+      ]
+    },
+    {
+      "name": "Grappling NoGi / U12 Děti chlapci / -40 kg",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Under 12",
+      "belt": "Beginner",
+      "weight": "-40 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Štěpán Škrabálek",
+          "country": "cz",
+          "club": "COMBAT GYM Chrastava",
+          "placement": 1,
+          "userId": 1379922
+        },
+        {
+          "name": "Ondřej Pospíšil",
+          "country": "cz",
+          "club": "Kobra Kladno",
+          "placement": 2,
+          "userId": 1515790
+        },
+        {
+          "name": "Paul Shanahan",
+          "country": "cz",
+          "club": "PTÁČKOVI CZECH COMBAT FEDERATION",
+          "placement": 3,
+          "userId": 2796974
+        }
+      ]
+    },
+    {
+      "name": "Grappling NoGi / U12 Děti chlapci / -45 kg",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Under 12",
+      "belt": "Beginner",
+      "weight": "-45 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Martin Sombota",
+          "country": "cz",
+          "club": "Tiger Fight Club Chomutov",
+          "placement": 1,
+          "userId": 671375
+        },
+        {
+          "name": "Jack Shanahan",
+          "country": "cz",
+          "club": "PTÁČKOVI CZECH COMBAT FEDERATION",
+          "placement": 2,
+          "userId": 2796972
+        },
+        {
+          "name": "Patrik Štayr",
+          "country": "cz",
+          "club": "Tiger Fight Club Chomutov",
+          "placement": 3,
+          "userId": 2766346
+        }
+      ]
+    },
+    {
+      "name": "Grappling NoGi / U12 Děti chlapci / -50 kg",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Under 12",
+      "belt": "Beginner",
+      "weight": "-50 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Jan Švarc",
+          "country": "cz",
+          "club": "Fight Arena Slaný",
+          "placement": 1,
+          "userId": 1381021
+        },
+        {
+          "name": "Karel Straka",
+          "country": "cz",
+          "club": "Tiger Fight Club Chomutov",
+          "placement": 2,
+          "userId": 1751620
+        }
+      ]
+    },
+    {
+      "name": "Grappling NoGi / U12 Děti chlapci / 50+ kg",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Under 12",
+      "belt": "Beginner",
+      "weight": "Unknown",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Grigor Dimitrov",
+          "country": "cz",
+          "club": "SAMURAI FIGHT CLUB",
+          "placement": 1,
+          "userId": 1520055
+        },
+        {
+          "name": "Milan Marek",
+          "country": "cz",
+          "club": "Tiger Fight Club Chomutov",
+          "placement": 2,
+          "userId": 671345
+        }
+      ]
+    },
+    {
+      "name": "Grappling NoGi / U12 Děti dívky / -30 kg",
+      "gi": false,
+      "gender": "Female",
+      "ageGroup": "Under 12",
+      "belt": "Beginner",
+      "weight": "-30 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Barbora Hypšová",
+          "country": "cz",
+          "club": "PTÁČKOVI CZECH COMBAT FEDERATION",
+          "placement": 1,
+          "userId": 2073648
+        },
+        {
+          "name": "Nataly Sarkány",
+          "country": "cz",
+          "club": "SAMURAI FIGHT CLUB",
+          "placement": 2,
+          "userId": 899259
+        }
+      ]
+    },
+    {
+      "name": "Grappling NoGi / U12 Děti dívky / -45 kg",
+      "gi": false,
+      "gender": "Female",
+      "ageGroup": "Under 12",
+      "belt": "Beginner",
+      "weight": "-45 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Zuzana Bencova",
+          "country": "cz",
+          "club": "Benca Ju-jitsu",
+          "placement": 1,
+          "userId": 1505575
+        },
+        {
+          "name": "Ema Šerclová",
+          "country": "cz",
+          "club": "PTÁČKOVI CZECH COMBAT FEDERATION",
+          "placement": 2,
+          "userId": 1516447
+        },
+        {
+          "name": "Valerie Kubalíková",
+          "country": "cz",
+          "club": "PTÁČKOVI CZECH COMBAT FEDERATION",
+          "placement": 3,
+          "userId": 2772989
+        }
+      ]
+    },
+    {
+      "name": "Grappling NoGi / U15 Junioři chlapci / -40 kg",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Under 15",
+      "belt": "Advanced",
+      "weight": "-40 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "David Mařík",
+          "country": "cz",
+          "club": "Reinders MMA",
+          "placement": 1,
+          "userId": 1848211
+        },
+        {
+          "name": "Martin Holeček",
+          "country": "cz",
+          "club": "Benca Ju-jitsu",
+          "placement": 2,
+          "userId": 2443441
+        },
+        {
+          "name": "Tadeáš Dufek",
+          "country": "cz",
+          "club": "",
+          "placement": 3,
+          "userId": 2799122
+        }
+      ]
+    },
+    {
+      "name": "Grappling NoGi / U15 Junioři chlapci / -45 kg",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Under 15",
+      "belt": "Advanced",
+      "weight": "-45 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Matyáš Barák",
+          "country": "cz",
+          "club": "Reinders MMA",
+          "placement": 1,
+          "userId": 1280211
+        },
+        {
+          "name": "Timur BOBYLEV",
+          "country": "cz",
+          "club": "",
+          "placement": 2,
+          "userId": 1990147
+        },
+        {
+          "name": "David Seifert",
+          "country": "cz",
+          "club": "",
+          "placement": 3,
+          "userId": 2456342
+        }
+      ]
+    },
+    {
+      "name": "Grappling NoGi / U15 Junioři chlapci / -55 kg",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Under 15",
+      "belt": "Advanced",
+      "weight": "-55 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Radek Herman",
+          "country": "cz",
+          "club": "Fight Arena Slaný",
+          "placement": 1,
+          "userId": 2764886
+        },
+        {
+          "name": "Patrik Pospíšil",
+          "country": "cz",
+          "club": "Kobra Kladno",
+          "placement": 2,
+          "userId": 1515789
+        },
+        {
+          "name": "Dominik Holík",
+          "country": "cz",
+          "club": "ŠKOLA BOJOVÝCH UMĚNÍ MOST",
+          "placement": 3,
+          "userId": 1519311
+        }
+      ]
+    },
+    {
+      "name": "Grappling NoGi / U15 Junioři chlapci / -60 kg",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Under 15",
+      "belt": "Advanced",
+      "weight": "-60 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Milan Koubek",
+          "country": "cz",
+          "club": "SAMURAI FIGHT CLUB",
+          "placement": 1,
+          "userId": 826615
+        },
+        {
+          "name": "Michal Martin",
+          "country": "cz",
+          "club": "Street Fighting Ju- Jitsu Karlovy Vary",
+          "placement": 2,
+          "userId": 2765432
+        },
+        {
+          "name": "Dominik Pecho",
+          "country": "cz",
+          "club": "ŠKOLA BOJOVÝCH UMĚNÍ MOST",
+          "placement": 3,
+          "userId": 1519287
+        }
+      ]
+    },
+    {
+      "name": "Grappling NoGi / U15 Junioři chlapci / 70+ kg",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Under 15",
+      "belt": "Advanced",
+      "weight": "Unknown",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Jáchym Singer",
+          "country": "cz",
+          "club": "Budoteam Horoměřice",
+          "placement": 1,
+          "userId": 1828588
+        },
+        {
+          "name": "Ladislav Smrž",
+          "country": "cz",
+          "club": "Glory Fight Club",
+          "placement": 2,
+          "userId": 2606771
+        },
+        {
+          "name": "Martin Galoda",
+          "country": "cz",
+          "club": "Street Fighting Ju- Jitsu Karlovy Vary",
+          "placement": 3,
+          "userId": 2765441
+        }
+      ]
+    },
+    {
+      "name": "Grappling NoGi / U15 Junioři dívky / -55 kg",
+      "gi": false,
+      "gender": "Female",
+      "ageGroup": "Under 15",
+      "belt": "Advanced",
+      "weight": "-55 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Katerina Bencova",
+          "country": "cz",
+          "club": "Benca Ju-jitsu",
+          "placement": 1,
+          "userId": 1505554
+        },
+        {
+          "name": "Veronika Dobiášová",
+          "country": "cz",
+          "club": "SAMURAI FIGHT CLUB",
+          "placement": 2,
+          "userId": 675174
+        },
+        {
+          "name": "Paulína Koreňová",
+          "country": "cz",
+          "club": "",
+          "placement": 3,
+          "userId": 2690355
+        }
+      ]
+    },
+    {
+      "name": "Grappling NoGi / U15 Junioři dívky / -60 kg",
+      "gi": false,
+      "gender": "Female",
+      "ageGroup": "Under 15",
+      "belt": "Advanced",
+      "weight": "-60 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Veronika Dobiášová",
+          "country": "cz",
+          "club": "SAMURAI FIGHT CLUB",
+          "placement": 1,
+          "userId": 675174
+        },
+        {
+          "name": "Zuzana Nováková",
+          "country": "cz",
+          "club": "PTÁČKOVI CZECH COMBAT FEDERATION",
+          "placement": 2,
+          "userId": 900398
+        }
+      ]
+    },
+    {
+      "name": "Grappling NoGi / U15 Junioři dívky / 65+ kg",
+      "gi": false,
+      "gender": "Female",
+      "ageGroup": "Under 15",
+      "belt": "Advanced",
+      "weight": "Unknown",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Hana Schwarzová",
+          "country": "cz",
+          "club": "SAMURAI FIGHT CLUB",
+          "placement": 1,
+          "userId": 1330794
+        },
+        {
+          "name": "Alice Březinová",
+          "country": "cz",
+          "club": "PTÁČKOVI CZECH COMBAT FEDERATION",
+          "placement": 2,
+          "userId": 1516428
+        }
+      ]
+    },
+    {
+      "name": "Grappling NoGi / U18 Kadeti chlapci / -65 kg",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Under 18",
+      "belt": "Advanced",
+      "weight": "-65 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Filip Mařík",
+          "country": "cz",
+          "club": "Reinders MMA",
+          "placement": 1,
+          "userId": 1366447
+        },
+        {
+          "name": "Jakub Mareš",
+          "country": "cz",
+          "club": "SLON GYM PRAHA",
+          "placement": 2,
+          "userId": 2578204
+        },
+        {
+          "name": "Jan Pavelec",
+          "country": "cz",
+          "club": "SAMURAI FIGHT CLUB",
+          "placement": 3,
+          "userId": 1518374
+        }
+      ]
+    },
+    {
+      "name": "Grappling NoGi / U18 Kadeti chlapci / -75 kg",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Under 18",
+      "belt": "Advanced",
+      "weight": "-75 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Antonin Vitvar",
+          "country": "cz",
+          "club": "Benca Ju-jitsu",
+          "placement": 1,
+          "userId": 1505588
+        },
+        {
+          "name": "Oldřich Šoch",
+          "country": "cz",
+          "club": "Kobra Kladno",
+          "placement": 2,
+          "userId": 898042
+        },
+        {
+          "name": "Matvej Kozlov",
+          "country": "cz",
+          "club": "Street Fighting Ju- Jitsu Karlovy Vary",
+          "placement": 3,
+          "userId": 2796770
+        }
+      ]
+    },
+    {
+      "name": "Grappling NoGi / U18 Kadeti chlapci / -80 kg",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Under 18",
+      "belt": "Advanced",
+      "weight": "-80 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Tomáš Tesař",
+          "country": "cz",
+          "club": "Grappling Squad Praha",
+          "placement": 1,
+          "userId": 1540850
+        },
+        {
+          "name": "Dimitrij Rozman",
+          "country": "cz",
+          "club": "Budoteam Sokol Horoměřice",
+          "placement": 2,
+          "userId": 1465145
+        },
+        {
+          "name": "Artur Yevhrashyn",
+          "country": "ua",
+          "club": "MMA Chomutov",
+          "placement": 3,
+          "userId": 2789656
+        }
+      ]
+    },
+    {
+      "name": "Grappling NoGi / U18 Kadeti chlapci / 80+ kg",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Under 18",
+      "belt": "Advanced",
+      "weight": "Unknown",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Evgenij Rozman",
+          "country": "cz",
+          "club": "Budoteam Sokol Horoměřice",
+          "placement": 1,
+          "userId": 1465136
+        },
+        {
+          "name": "Yaroslav Parfentiiev",
+          "country": "ua",
+          "club": "MMA Chomutov",
+          "placement": 2,
+          "userId": 2792411
+        },
+        {
+          "name": "David Havlů",
+          "country": "cz",
+          "club": "Kobra Kladno",
+          "placement": 3,
+          "userId": 691171
+        }
+      ]
+    },
+    {
+      "name": "Grappling NoGi / +18 Dospělí muži / -70 kg",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Adult",
+      "belt": "Unknown",
+      "weight": "-70 kg",
+      "isKid": false,
+      "athletes": [
+        {
+          "name": "Jakub Pipek",
+          "country": "cz",
+          "club": "Kobra Kladno",
+          "placement": 1,
+          "userId": 2005811
+        },
+        {
+          "name": "Dmytro Vyhnych",
+          "country": "ua",
+          "club": "MMA Chomutov",
+          "placement": 2,
+          "userId": 2791465
+        },
+        {
+          "name": "Ondřej Zoch",
+          "country": "cz",
+          "club": "MMA Chomutov",
+          "placement": 3,
+          "userId": 2140547
+        }
+      ]
+    },
+    {
+      "name": "Grappling NoGi / +18 Dospělí muži / -75 kg",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Adult",
+      "belt": "Unknown",
+      "weight": "-75 kg",
+      "isKid": false,
+      "athletes": [
+        {
+          "name": "Václav Hrdlička",
+          "country": "cz",
+          "club": "Choketopus gym",
+          "placement": 1,
+          "userId": 524670
+        },
+        {
+          "name": "Jakub Tureček",
+          "country": "cz",
+          "club": "Ji-Jitsu Janovice nad Úhlavou",
+          "placement": 2,
+          "userId": 1520143
+        },
+        {
+          "name": "David Valdman",
+          "country": "cz",
+          "club": "ELITE FIGHT CLUB (EFC)",
+          "placement": 3,
+          "userId": 2781093
+        }
+      ]
+    },
+    {
+      "name": "Grappling NoGi / +18 Dospělí muži / 90+ kg",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Adult",
+      "belt": "Unknown",
+      "weight": "Unknown",
+      "isKid": false,
+      "athletes": [
+        {
+          "name": "Petr Holouš",
+          "country": "cz",
+          "club": "Tiger Jiu Jitsu Kralupy",
+          "placement": 1,
+          "userId": 67543
+        },
+        {
+          "name": "Radek Jedlička",
+          "country": "cz",
+          "club": "Brazilian Jiu-Jitsu Ústí nad Orlicí",
+          "placement": 2,
+          "userId": 797385
+        },
+        {
+          "name": "Tomáš Studénka",
+          "country": "cz",
+          "club": "ELITE FIGHT CLUB (EFC)",
+          "placement": 3,
+          "userId": 2781074
+        }
+      ]
+    },
+    {
+      "name": "Grappling NoGi / +18 Dospělí ženy / 70+ kg",
+      "gi": false,
+      "gender": "Unknown",
+      "ageGroup": "Adult",
+      "belt": "Unknown",
+      "weight": "Unknown",
+      "isKid": false,
+      "athletes": [
+        {
+          "name": "Vanessa Drábová",
+          "country": "cz",
+          "club": "Ji-Jitsu Janovice nad Úhlavou",
+          "placement": 1,
+          "userId": 1520091
+        },
+        {
+          "name": "Eliška Podlahová",
+          "country": "cz",
+          "club": "Ji-Jitsu Janovice nad Úhlavou",
+          "placement": 2,
+          "userId": 2692855
+        }
+      ]
+    }
+  ]
+}

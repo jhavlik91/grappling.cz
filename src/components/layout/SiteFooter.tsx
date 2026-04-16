@@ -22,13 +22,12 @@ export function SiteFooter() {
             <div className="space-y-2">
               <p className="font-semibold uppercase tracking-wider text-gray-400">Obsah</p>
               <Link href="/zpravy" className="block hover:text-white transition-colors">Zprávy</Link>
-              <Link href="/videa" className="block hover:text-white transition-colors">Videa</Link>
+              <Link href="/seminare" className="block hover:text-white transition-colors">Semináře</Link>
               <Link href="/events" className="block hover:text-white transition-colors">Turnaje</Link>
             </div>
             <div className="space-y-2">
               <p className="font-semibold uppercase tracking-wider text-gray-400">Více</p>
               <Link href="/rankings" className="block hover:text-white transition-colors">Žebříčky</Link>
-              <Link href="/articles" className="block hover:text-white transition-colors">Články</Link>
             </div>
           </nav>
         </div>

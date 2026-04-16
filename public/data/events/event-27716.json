@@ -1,16 +1,491 @@
 {
   "slug": "event-27716",
   "name": "AGF Event 27716",
-  "date": "2026-04-10",
+  "date": "2026-04-16",
   "country": "CZ",
   "categories": [
+    {
+      "name": "Gi Kids / Girls / Juniors (12 - 13 yrs) / Yellow / Light III (Up to 52.20 kg)",
+      "gi": true,
+      "gender": "Female",
+      "ageGroup": "12-13 years",
+      "belt": "Advanced",
+      "weight": "up to 52.20 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Bibiana Dvořáková",
+          "country": "cz",
+          "club": "DSC GYM CESKA TREBOVA",
+          "placement": 1,
+          "userId": 974565
+        },
+        {
+          "name": "Ema Linkova",
+          "country": "cz",
+          "club": "Red Dot Gym",
+          "placement": 2,
+          "userId": 1656543
+        },
+        {
+          "name": "Tereza Matějková",
+          "country": "cz",
+          "club": "Academy of Movement",
+          "placement": 3,
+          "userId": 1422427
+        }
+      ]
+    },
+    {
+      "name": "Gi Kids / Girls / Juniors (12 - 13 yrs) / Yellow / Middle I (Up to 56.70 kg)",
+      "gi": true,
+      "gender": "Female",
+      "ageGroup": "12-13 years",
+      "belt": "Advanced",
+      "weight": "up to 56.70 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Bibiana Dvořáková",
+          "country": "cz",
+          "club": "DSC GYM CESKA TREBOVA",
+          "placement": 1,
+          "userId": 974565
+        },
+        {
+          "name": "Polina Dacheva",
+          "country": "cz",
+          "club": "Naru BJJ and Self-Defence",
+          "placement": 2,
+          "userId": 2380481
+        }
+      ]
+    },
+    {
+      "name": "Gi Kids / Mixed / Kids (8 - 9 yrs) / White / Feather II (Up to 34.00 kg)",
+      "gi": true,
+      "gender": "Mixed",
+      "ageGroup": "8-9 years",
+      "belt": "Beginner",
+      "weight": "up to 34.00 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Matyáš Habich",
+          "country": "cz",
+          "club": "Choketopus gym",
+          "placement": 1,
+          "userId": 2558675
+        },
+        {
+          "name": "Ema Hrabalová",
+          "country": "cz",
+          "club": "DSC GYM CESKA TREBOVA",
+          "placement": 2,
+          "userId": 1950823
+        },
+        {
+          "name": "Adriano Castelli",
+          "country": "it",
+          "club": "Naru BJJ and Self-Defence",
+          "placement": 3,
+          "userId": 2677048
+        }
+      ]
+    },
+    {
+      "name": "Gi Kids / Boys / Pre Teen (10 - 11 yrs) / White / Feather III (Up to 38.60 kg)",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "10-11 years",
+      "belt": "Beginner",
+      "weight": "up to 38.60 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Simon Filip",
+          "country": "cz",
+          "club": "Reinders MMA",
+          "placement": 1,
+          "userId": 2607946
+        },
+        {
+          "name": "Roman Marčenko",
+          "country": "cz",
+          "club": "Tiger gym",
+          "placement": 2,
+          "userId": 2035549
+        },
+        {
+          "name": "David Voloshchuk",
+          "country": "ua",
+          "club": "Naru BJJ and Self-Defence",
+          "placement": 3,
+          "userId": 2380493
+        }
+      ]
+    },
+    {
+      "name": "Gi Kids / Boys / Pre Teen (10 - 11 yrs) / Gray / Feather III (Up to 38.60 kg)",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "10-11 years",
+      "belt": "Beginner",
+      "weight": "up to 38.60 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Nicolas Bonetti",
+          "country": "cz",
+          "club": "MATHIAS RIBEIRO TEAM",
+          "placement": 1,
+          "userId": 1746741
+        },
+        {
+          "name": "Alex Janda",
+          "country": "cz",
+          "club": "DSC GYM CESKA TREBOVA",
+          "placement": 2,
+          "userId": 1081605
+        },
+        {
+          "name": "Tobiáš Kristián Kmeť",
+          "country": "cz",
+          "club": "Academy of Movement",
+          "placement": 3,
+          "userId": 1246989
+        }
+      ]
+    },
+    {
+      "name": "Gi Kids / Boys / Juniors (12 - 13 yrs) / White / Middle I (Up to 56.70 kg)",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "12-13 years",
+      "belt": "Beginner",
+      "weight": "up to 56.70 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Tobiáš Podroužek",
+          "country": "cz",
+          "club": "Choketopus gym",
+          "placement": 1,
+          "userId": 2429667
+        },
+        {
+          "name": "Mikulas Kocik",
+          "country": "cz",
+          "club": "Naru BJJ and Self-Defence",
+          "placement": 2,
+          "userId": 2454938
+        }
+      ]
+    },
+    {
+      "name": "Gi Kids / Boys / Juniors (12 - 13 yrs) / Gray / Feather III (Up to 38.60 kg)",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "12-13 years",
+      "belt": "Beginner",
+      "weight": "up to 38.60 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Petr Tesař",
+          "country": "cz",
+          "club": "Samba Jiu Jitsu",
+          "placement": 1,
+          "userId": 2648674
+        },
+        {
+          "name": "Valentin Karavans",
+          "country": "cz",
+          "club": "Naru BJJ and Self-Defence",
+          "placement": 2,
+          "userId": 2380510
+        }
+      ]
+    },
+    {
+      "name": "Gi Kids / Boys / Juniors (12 - 13 yrs) / Gray / Light II (Up to 47.60 kg)",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "12-13 years",
+      "belt": "Beginner",
+      "weight": "up to 47.60 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Nikolas Soudný",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "placement": 1,
+          "userId": 1443439
+        },
+        {
+          "name": "Eliáš Fuccillo",
+          "country": "cz",
+          "club": "Choketopus gym",
+          "placement": 2,
+          "userId": 2434501
+        }
+      ]
+    },
+    {
+      "name": "Gi Kids / Boys / Juniors (12 - 13 yrs) / Yellow / Feather III (Up to 38.60 kg)",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "12-13 years",
+      "belt": "Advanced",
+      "weight": "up to 38.60 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Ondřej Šatava",
+          "country": "cz",
+          "club": "Academy of Movement",
+          "placement": 1,
+          "userId": 987809
+        },
+        {
+          "name": "Sevak Bagdasaryan",
+          "country": "us",
+          "club": "Legacy Brazilian Jiu-Jitsu Yerevan",
+          "placement": 2,
+          "userId": 922028
+        },
+        {
+          "name": "Volodymyr Demchuk",
+          "country": "ua",
+          "club": "Red Dot Gym",
+          "placement": 3,
+          "userId": 1656570
+        }
+      ]
+    },
+    {
+      "name": "Gi Kids / Boys / Teen (14 - 15 yrs) / Green / Middle III (Up to 65.80 kg)",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "14-15 years",
+      "belt": "Advanced",
+      "weight": "up to 65.80 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Filip Richtárik",
+          "country": "sk",
+          "club": "Base Bjj Nitra",
+          "placement": 1,
+          "userId": 1225244
+        },
+        {
+          "name": "Ondřej Koudelka",
+          "country": "cz",
+          "club": "Red Dot Gym",
+          "placement": 2,
+          "userId": 1118971
+        }
+      ]
+    },
+    {
+      "name": "Gi Kids / Boys / Pre Teen (10 - 11 yrs) / Gray / Feather I (Up to 29.50 kg)",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "10-11 years",
+      "belt": "Beginner",
+      "weight": "up to 29.50 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Jan Veselý",
+          "country": "cz",
+          "club": "Medo Gym Rosice",
+          "placement": 1,
+          "userId": 2223717
+        },
+        {
+          "name": "Vojtěch Šatava",
+          "country": "cz",
+          "club": "Academy of Movement",
+          "placement": 2,
+          "userId": 1246942
+        },
+        {
+          "name": "Nazarii Mosiienko",
+          "country": "ua",
+          "club": "Naru BJJ and Self-Defence",
+          "placement": 3,
+          "userId": 2714207
+        }
+      ]
+    },
+    {
+      "name": "Gi Kids / Boys / Teen (14 - 15 yrs) / Yellow / Middle II (Up to 61.20 kg)",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "14-15 years",
+      "belt": "Advanced",
+      "weight": "up to 61.20 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Lukáš Kubín",
+          "country": "cz",
+          "club": "Red Dot Gym",
+          "placement": 1,
+          "userId": 1241410
+        },
+        {
+          "name": "Tomáš Fikr",
+          "country": "cz",
+          "club": "Academy of Movement",
+          "placement": 2,
+          "userId": 987680
+        }
+      ]
+    },
+    {
+      "name": "Gi Kids / Girls / Little Kids (8 - 9 yrs) / Yellow / Feather I (Up to 29.50 kg)",
+      "gi": true,
+      "gender": "Female",
+      "ageGroup": "8-9 years",
+      "belt": "Advanced",
+      "weight": "up to 29.50 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Emiliia Vavrysevych",
+          "country": "ua",
+          "club": "Red Dot Gym",
+          "placement": 1,
+          "userId": 1935212
+        },
+        {
+          "name": "Anežka Stejskalová",
+          "country": "cz",
+          "club": "Academy of Movement",
+          "placement": 2,
+          "userId": 2351407
+        }
+      ]
+    },
+    {
+      "name": "Gi Kids Challenger / Girls / Regular Challenger / Light II (Up to 47.60 kg)",
+      "gi": true,
+      "gender": "Female",
+      "ageGroup": "Unknown",
+      "belt": "Unknown",
+      "weight": "up to 47.60 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Ema Linkova",
+          "country": "cz",
+          "club": "Red Dot Gym",
+          "placement": 1,
+          "userId": 1656543
+        },
+        {
+          "name": "VIKTORIIA VOLOSHCHUK",
+          "country": "ua",
+          "club": "Naru BJJ and Self-Defence",
+          "placement": 2,
+          "userId": 2700885
+        }
+      ]
+    },
+    {
+      "name": "Gi Kids Challenger / Boys / White Challenger / Feather III (Up to 38.60 kg)",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "Unknown",
+      "belt": "Beginner",
+      "weight": "up to 38.60 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Lukáš Habich",
+          "country": "cz",
+          "club": "Choketopus gym",
+          "placement": 1,
+          "userId": 2558672
+        },
+        {
+          "name": "Matyáš Habich",
+          "country": "cz",
+          "club": "Choketopus gym",
+          "placement": 2,
+          "userId": 2558675
+        }
+      ]
+    },
+    {
+      "name": "Gi Kids Challenger / Boys / Regular Challenger / Feather III (Up to 38.60 kg)",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "Unknown",
+      "belt": "Unknown",
+      "weight": "up to 38.60 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Matyáš Barák",
+          "country": "cz",
+          "club": "Reinders MMA",
+          "placement": 1,
+          "userId": 1280211
+        },
+        {
+          "name": "Ondřej Šatava",
+          "country": "cz",
+          "club": "Academy of Movement",
+          "placement": 2,
+          "userId": 987809
+        },
+        {
+          "name": "Sevak Bagdasaryan",
+          "country": "us",
+          "club": "Legacy Brazilian Jiu-Jitsu Yerevan",
+          "placement": 3,
+          "userId": 922028
+        }
+      ]
+    },
+    {
+      "name": "Gi Kids Challenger / Boys / Regular Challenger / Light III (Up to 52.20 kg)",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "Unknown",
+      "belt": "Unknown",
+      "weight": "up to 52.20 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Jan Kubín",
+          "country": "cz",
+          "club": "Brazilian Jiu-Jitsu Ústí nad Orlicí",
+          "placement": 1,
+          "userId": 657057
+        },
+        {
+          "name": "Nikolas Soudný",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "placement": 2,
+          "userId": 1443439
+        }
+      ]
+    },
     {
       "name": "Gi Juveniles - Adults / Male / Adult (18+) / White / Feather (Up to 72.60 kg)",
       "gi": true,
       "gender": "Male",
-      "ageGroup": "Juvenile",
+      "ageGroup": "Adult",
       "belt": "White",
       "weight": "up to 72.60 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Jiří Ortman",
@@ -39,9 +514,10 @@
       "name": "Gi Juveniles - Adults / Male / Adult (18+) / White / Light (Up to 79.40 kg)",
       "gi": true,
       "gender": "Male",
-      "ageGroup": "Juvenile",
+      "ageGroup": "Adult",
       "belt": "White",
       "weight": "up to 79.40 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Bleron Gashi",
@@ -70,9 +546,10 @@
       "name": "Gi Juveniles - Adults / Male / Adult (18+) / White / Middle (Up to 86.20 kg)",
       "gi": true,
       "gender": "Male",
-      "ageGroup": "Juvenile",
+      "ageGroup": "Adult",
       "belt": "White",
       "weight": "up to 86.20 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Asadullah Dadaschev",
@@ -101,9 +578,10 @@
       "name": "Gi Juveniles - Adults / Male / Adult (18+) / Blue / Rooster (Up to 60 kg)",
       "gi": true,
       "gender": "Male",
-      "ageGroup": "Juvenile",
+      "ageGroup": "Adult",
       "belt": "Blue",
       "weight": "up to 60 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Armen Bagdasaryan",
@@ -132,9 +610,10 @@
       "name": "Gi Juveniles - Adults / Male / Adult (18+) / Blue / Light (Up to 79.40 kg)",
       "gi": true,
       "gender": "Male",
-      "ageGroup": "Juvenile",
+      "ageGroup": "Adult",
       "belt": "Blue",
       "weight": "up to 79.40 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Oldřich Slavík",
@@ -163,9 +642,10 @@
       "name": "Gi Juveniles - Adults / Male / Adult (18+) / Blue / Medium Heavy (Up to 93.00 kg)",
       "gi": true,
       "gender": "Male",
-      "ageGroup": "Juvenile",
+      "ageGroup": "Adult",
       "belt": "Blue",
       "weight": "up to 93.00 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "René Viktorín",
@@ -194,9 +674,10 @@
       "name": "Gi Juveniles - Adults / Male / Master 1 (30+) / White / Medium Heavy (Up to 93.00 kg)",
       "gi": true,
       "gender": "Male",
-      "ageGroup": "Juvenile",
+      "ageGroup": "Master",
       "belt": "White",
       "weight": "up to 93.00 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Martin Bajádi",
@@ -218,9 +699,10 @@
       "name": "Gi Juveniles - Adults / Male / Master 1 (30+) / Blue / Middle (Up to 86.20 kg)",
       "gi": true,
       "gender": "Male",
-      "ageGroup": "Juvenile",
+      "ageGroup": "Master",
       "belt": "Blue",
       "weight": "up to 86.20 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Bohdan Lysychenko",
@@ -242,9 +724,10 @@
       "name": "Gi Juveniles - Adults / Male / Seniors (40+) / Blue / Light (Up to 79.40 kg)",
       "gi": true,
       "gender": "Male",
-      "ageGroup": "Juvenile",
+      "ageGroup": "Senior",
       "belt": "Blue",
       "weight": "up to 79.40 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "S. KingDavis",
@@ -266,9 +749,10 @@
       "name": "Gi Juveniles - Adults / Female / Adult (18+) / Blue / Middle (Up to 74.80 kg)",
       "gi": true,
       "gender": "Female",
-      "ageGroup": "Juvenile",
+      "ageGroup": "Adult",
       "belt": "Blue",
       "weight": "up to 74.80 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Sofia Rinková",
@@ -290,9 +774,10 @@
       "name": "Gi Juveniles - Adults / Female / Seniors (40+) / Blue /  Light (Up to 68.00 kg)",
       "gi": true,
       "gender": "Female",
-      "ageGroup": "Juvenile",
+      "ageGroup": "Senior",
       "belt": "Blue",
       "weight": "up to 68.00 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Lucie Kalinová",
@@ -321,9 +806,10 @@
       "name": "Gi Juveniles / Adults / Male / Master 1 (30+) / Blue / Medium Heavy (Up to 93.00 kg)",
       "gi": true,
       "gender": "Male",
-      "ageGroup": "Juvenile",
+      "ageGroup": "Master",
       "belt": "Blue",
       "weight": "up to 93.00 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Jan Kodada",
@@ -352,9 +838,10 @@
       "name": "Gi Juveniles - Adults Challenger / Male / Adult (18+) / White / Challenger II (Up to 999.00 kg)",
       "gi": true,
       "gender": "Male",
-      "ageGroup": "Juvenile",
+      "ageGroup": "Adult",
       "belt": "White",
       "weight": "up to 999.00 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Asadullah Dadaschev",
@@ -383,9 +870,10 @@
       "name": "Gi Juveniles - Adults Challenger / Male / Adult (18+) / Blue / Challenger I (Up to 79.50 kg)",
       "gi": true,
       "gender": "Male",
-      "ageGroup": "Juvenile",
+      "ageGroup": "Adult",
       "belt": "Blue",
       "weight": "up to 79.50 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Oldřich Slavík",
@@ -414,9 +902,10 @@
       "name": "Gi Juveniles - Adults Challenger / Male / Master 1 (30+) / Blue / Challenger II (Up to 999.00 kg)",
       "gi": true,
       "gender": "Male",
-      "ageGroup": "Juvenile",
+      "ageGroup": "Master",
       "belt": "Blue",
       "weight": "up to 999.00 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Jan Kodada",
@@ -445,9 +934,10 @@
       "name": "Gi Juveniles - Adults Challenger / Male / Executives (50+) / Blue / Challenger II (Up to 999.00 kg)",
       "gi": true,
       "gender": "Male",
-      "ageGroup": "Juvenile",
+      "ageGroup": "Executive",
       "belt": "Blue",
       "weight": "up to 999.00 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Radek Čermák",
@@ -469,9 +959,10 @@
       "name": "Gi Juveniles - Adults Challenger / Female / Adult (18+) / Blue / Challenger II (Up to 999.00 kg)",
       "gi": true,
       "gender": "Female",
-      "ageGroup": "Juvenile",
+      "ageGroup": "Adult",
       "belt": "Blue",
       "weight": "up to 999.00 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Lucie Kalinová",
@@ -490,12 +981,348 @@
       ]
     },
     {
+      "name": "No Gi Kids / Mixed / Kids (8 - 9 yrs) / White / Feather II (Up to 34.00 kg)",
+      "gi": false,
+      "gender": "Mixed",
+      "ageGroup": "8-9 years",
+      "belt": "Beginner",
+      "weight": "up to 34.00 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Matyáš Habich",
+          "country": "cz",
+          "club": "Choketopus gym",
+          "placement": 1,
+          "userId": 2558675
+        },
+        {
+          "name": "Jan Koch",
+          "country": "cz",
+          "club": "RBSD Šumperk",
+          "placement": 2,
+          "userId": 1079321
+        },
+        {
+          "name": "Ema Hrabalová",
+          "country": "cz",
+          "club": "DSC GYM CESKA TREBOVA",
+          "placement": 3,
+          "userId": 1950823
+        }
+      ]
+    },
+    {
+      "name": "No Gi Kids / Boys / Kids (8 - 9 yrs) / Gray / Feather I (Up to 29.50 kg)",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "8-9 years",
+      "belt": "Beginner",
+      "weight": "up to 29.50 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Jan Veselý",
+          "country": "cz",
+          "club": "Medo Gym Rosice",
+          "placement": 1,
+          "userId": 2223717
+        },
+        {
+          "name": "Marek Kostka",
+          "country": "cz",
+          "club": "RBSD Šumperk",
+          "placement": 2,
+          "userId": 1697736
+        }
+      ]
+    },
+    {
+      "name": "No Gi Kids / Boys / Pre Teen (10 - 11 yrs) / White / Feather III (Up to 38.60 kg)",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "10-11 years",
+      "belt": "Beginner",
+      "weight": "up to 38.60 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Simon Filip",
+          "country": "cz",
+          "club": "Reinders MMA",
+          "placement": 1,
+          "userId": 2607946
+        },
+        {
+          "name": "Lukáš Habich",
+          "country": "cz",
+          "club": "Choketopus gym",
+          "placement": 2,
+          "userId": 2558672
+        }
+      ]
+    },
+    {
+      "name": "No Gi Kids / Boys / Pre Teen (10 - 11 yrs) / Yellow / Feather I (Up to 29.50 kg)",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "10-11 years",
+      "belt": "Advanced",
+      "weight": "up to 29.50 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Alex Kubin",
+          "country": "cz",
+          "club": "Brazilian Jiu-Jitsu Ústí nad Orlicí",
+          "placement": 1,
+          "userId": 1116459
+        },
+        {
+          "name": "Luka Long",
+          "country": "cu",
+          "club": "Reinders MMA",
+          "placement": 2,
+          "userId": 1462761
+        }
+      ]
+    },
+    {
+      "name": "No Gi Kids / Boys / Juniors (12 - 13 yrs) / White / Middle I (Up to 56.70 kg)",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "12-13 years",
+      "belt": "Beginner",
+      "weight": "up to 56.70 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "David Stratil",
+          "country": "cz",
+          "club": "RBSD Šumperk",
+          "placement": 1,
+          "userId": 1781418
+        },
+        {
+          "name": "Matyáš Pěnička",
+          "country": "cz",
+          "club": "RBSD Šumperk",
+          "placement": 2,
+          "userId": 1696720
+        },
+        {
+          "name": "Davyd Makarov",
+          "country": "ua",
+          "club": "RBSD Šumperk",
+          "placement": 3,
+          "userId": 2405116
+        }
+      ]
+    },
+    {
+      "name": "No Gi Kids / Boys / Juniors (12 - 13 yrs) / Gray / Light II (Up to 47.60 kg)",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "12-13 years",
+      "belt": "Beginner",
+      "weight": "up to 47.60 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Nikolas Soudný",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "placement": 1,
+          "userId": 1443439
+        },
+        {
+          "name": "Eliáš Fuccillo",
+          "country": "cz",
+          "club": "Choketopus gym",
+          "placement": 2,
+          "userId": 2434501
+        }
+      ]
+    },
+    {
+      "name": "No Gi Kids / Boys / Juniors (12 - 13 yrs) / Yellow / Feather III (Up to 38.60 kg)",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "12-13 years",
+      "belt": "Advanced",
+      "weight": "up to 38.60 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Sevak Bagdasaryan",
+          "country": "us",
+          "club": "Legacy Brazilian Jiu-Jitsu Yerevan",
+          "placement": 1,
+          "userId": 922028
+        },
+        {
+          "name": "Nicolas Bonetti",
+          "country": "cz",
+          "club": "MATHIAS RIBEIRO TEAM",
+          "placement": 2,
+          "userId": 1746741
+        }
+      ]
+    },
+    {
+      "name": "No Gi Kids / Boys / Teen (14 - 15 yrs) / White / Middle I (Up to 56.70 kg)",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "14-15 years",
+      "belt": "Beginner",
+      "weight": "up to 56.70 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Lukáš Kuna",
+          "country": "cz",
+          "club": "ALMEIDA JJ",
+          "placement": 1,
+          "userId": 2003630
+        },
+        {
+          "name": "Yaroslav Solovei",
+          "country": "ua",
+          "club": "Red Dot Gym",
+          "placement": 2,
+          "userId": 2504437
+        },
+        {
+          "name": "Kryštof Karfík",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "placement": 3,
+          "userId": 2338000
+        }
+      ]
+    },
+    {
+      "name": "No Gi Kids / Boys / Teen (14 - 15 yrs) / White / Heavy II (Up to 999.00 kg)",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "14-15 years",
+      "belt": "Beginner",
+      "weight": "up to 999.00 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Adam Drabeš",
+          "country": "cz",
+          "club": "RBSD Šumperk",
+          "placement": 1,
+          "userId": 257142
+        },
+        {
+          "name": "Tomáš Stratil",
+          "country": "cz",
+          "club": "RBSD Šumperk",
+          "placement": 2,
+          "userId": 1696704
+        }
+      ]
+    },
+    {
+      "name": "No Gi Kids Challenger / Boys / White Challenger / Feather III (Up to 38.60 kg)",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Unknown",
+      "belt": "Beginner",
+      "weight": "up to 38.60 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "David Mařík",
+          "country": "cz",
+          "club": "Reinders MMA",
+          "placement": 1,
+          "userId": 1848211
+        },
+        {
+          "name": "Matyáš Habich",
+          "country": "cz",
+          "club": "Choketopus gym",
+          "placement": 2,
+          "userId": 2558675
+        },
+        {
+          "name": "Jan Koch",
+          "country": "cz",
+          "club": "RBSD Šumperk",
+          "placement": 3,
+          "userId": 1079321
+        }
+      ]
+    },
+    {
+      "name": "No Gi Kids Challenger / Boys / Regular Challenger / Feather III (Up to 38.60 kg)",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Unknown",
+      "belt": "Unknown",
+      "weight": "up to 38.60 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Matyáš Barák",
+          "country": "cz",
+          "club": "Reinders MMA",
+          "placement": 1,
+          "userId": 1280211
+        },
+        {
+          "name": "Sevak Bagdasaryan",
+          "country": "us",
+          "club": "Legacy Brazilian Jiu-Jitsu Yerevan",
+          "placement": 2,
+          "userId": 922028
+        },
+        {
+          "name": "Nicolas Bonetti",
+          "country": "cz",
+          "club": "MATHIAS RIBEIRO TEAM",
+          "placement": 3,
+          "userId": 1746741
+        }
+      ]
+    },
+    {
+      "name": "No Gi Kids Challenger / Boys / Regular Challenger / Light III (Up to 52.20 kg)",
+      "gi": false,
+      "gender": "Male",
+      "ageGroup": "Unknown",
+      "belt": "Unknown",
+      "weight": "up to 52.20 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Jan Kubín",
+          "country": "cz",
+          "club": "Brazilian Jiu-Jitsu Ústí nad Orlicí",
+          "placement": 1,
+          "userId": 657057
+        },
+        {
+          "name": "Nikolas Soudný",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "placement": 2,
+          "userId": 1443439
+        }
+      ]
+    },
+    {
       "name": "No Gi Juveniles - Adults / Male / Juvenile / Blue / Light Feather (Up to 65.80 kg)",
       "gi": false,
       "gender": "Male",
       "ageGroup": "Juvenile",
-      "belt": "Blue",
+      "belt": "Advanced",
       "weight": "up to 65.80 kg",
+      "isKid": true,
       "athletes": [
         {
           "name": "Jaromír Roggenbuck",
@@ -517,9 +1344,10 @@
       "name": "No Gi Juveniles - Adults / Male / Adult (18+) / White / Light Feather (Up to 65.80 kg)",
       "gi": false,
       "gender": "Male",
-      "ageGroup": "Juvenile",
+      "ageGroup": "Adult",
       "belt": "White",
       "weight": "up to 65.80 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Jan Šubrt",
@@ -548,9 +1376,10 @@
       "name": "No Gi Juveniles - Adults / Male / Adult (18+) / White / Feather (Up to 72.60 kg)",
       "gi": false,
       "gender": "Male",
-      "ageGroup": "Juvenile",
+      "ageGroup": "Adult",
       "belt": "White",
       "weight": "up to 72.60 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Daniel Merta",
@@ -579,9 +1408,10 @@
       "name": "No Gi Juveniles - Adults / Male / Adult (18+) / White / Light (Up to 79.40 kg)",
       "gi": false,
       "gender": "Male",
-      "ageGroup": "Juvenile",
+      "ageGroup": "Adult",
       "belt": "White",
       "weight": "up to 79.40 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Lukáš Duras",
@@ -610,9 +1440,10 @@
       "name": "No Gi Juveniles - Adults / Male / Adult (18+) / White / Middle (Up to 86.20 kg)",
       "gi": false,
       "gender": "Male",
-      "ageGroup": "Juvenile",
+      "ageGroup": "Adult",
       "belt": "White",
       "weight": "up to 86.20 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Asadullah Dadaschev",
@@ -641,9 +1472,10 @@
       "name": "No Gi Juveniles - Adults / Male / Adult (18+) / White / Medium Heavy (Up to 93.00 kg)",
       "gi": false,
       "gender": "Male",
-      "ageGroup": "Juvenile",
+      "ageGroup": "Adult",
       "belt": "White",
       "weight": "up to 93.00 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Šimon Lucký",
@@ -672,9 +1504,10 @@
       "name": "No Gi Juveniles - Adults / Male / Adult (18+) / Blue / Rooster (Up to 60 kg)",
       "gi": false,
       "gender": "Male",
-      "ageGroup": "Juvenile",
+      "ageGroup": "Adult",
       "belt": "Blue",
       "weight": "up to 60 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Armen Bagdasaryan",
@@ -703,9 +1536,10 @@
       "name": "No Gi Juveniles - Adults / Male / Adult (18+) / Blue / Light (Up to 79.40 kg)",
       "gi": false,
       "gender": "Male",
-      "ageGroup": "Juvenile",
+      "ageGroup": "Adult",
       "belt": "Blue",
       "weight": "up to 79.40 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Julian Bar",
@@ -734,9 +1568,10 @@
       "name": "No Gi Juveniles - Adults / Male / Adult (18+) / Blue / Medium Heavy (Up to 93.00 kg)",
       "gi": false,
       "gender": "Male",
-      "ageGroup": "Juvenile",
+      "ageGroup": "Adult",
       "belt": "Blue",
       "weight": "up to 93.00 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Gevorg Mazmanov",
@@ -765,9 +1600,10 @@
       "name": "No Gi Juveniles - Adults / Male / Master 1 (30+) / Blue / Medium Heavy (Up to 93.00 kg)",
       "gi": false,
       "gender": "Male",
-      "ageGroup": "Juvenile",
+      "ageGroup": "Master",
       "belt": "Blue",
       "weight": "up to 93.00 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Radek Beneš",
@@ -796,9 +1632,10 @@
       "name": "No Gi Juveniles - Adults Challenger / Male / Adult (18+) / White / Challenger I (Up to 79.50 kg)",
       "gi": false,
       "gender": "Male",
-      "ageGroup": "Juvenile",
+      "ageGroup": "Adult",
       "belt": "White",
       "weight": "up to 79.50 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Jan Skořepa",
@@ -827,9 +1664,10 @@
       "name": "No Gi Juveniles - Adults Challenger / Male / Adult (18+) / White / Challenger II (Up to 999.00 kg)",
       "gi": false,
       "gender": "Male",
-      "ageGroup": "Juvenile",
+      "ageGroup": "Adult",
       "belt": "White",
       "weight": "up to 999.00 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Asadullah Dadaschev",
@@ -851,9 +1689,10 @@
       "name": "No Gi Juveniles - Adults Challenger / Male / Adult (18+) / Blue / Challenger II (Up to 999.00 kg)",
       "gi": false,
       "gender": "Male",
-      "ageGroup": "Juvenile",
+      "ageGroup": "Adult",
       "belt": "Blue",
       "weight": "up to 999.00 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Radek Beneš",

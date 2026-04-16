@@ -5,6 +5,16 @@ import { generateHash } from '../utils/hash';
 import { Popelina } from '../storage/popelina';
 import { processArticleWithAI } from '../openai/client';
 
+const sleep = (ms: number) => new Promise(resolve => setTimeout(resolve, ms));
+const MAX_CANDIDATES = config.MAX_CANDIDATES;
+const SCRAPE_DELAY_MS = config.SCRAPE_DELAY_MS;
+
+function parseArticleDate(dateStr: string | null): Date | null {
+  if (!dateStr) return null;
+  const d = new Date(dateStr);
+  return isNaN(d.getTime()) ? null : d;
+}
+
 import { flograpplingScraper } from '../scrapers/flograppling.scraper';
 import { jitsmagazineScraper } from '../scrapers/jitsmagazine.scraper';
 import { grapplinginsiderScraper } from '../scrapers/grapplinginsider.scraper';
@@ -20,7 +30,11 @@ const SCRAPERS = [
 ];
 
 export async function runScrapingJob(sourceFilter?: string) {
-  logger.info(`Starting daily scraping job...${sourceFilter ? ` (Filtering for: ${sourceFilter})` : ''}`);
+  const cutoffDate = config.DAYS_BACK > 0
+    ? new Date(Date.now() - config.DAYS_BACK * 24 * 60 * 60 * 1000)
+    : null;
+
+  logger.info(`Starting daily scraping job...${sourceFilter ? ` (Filtering for: ${sourceFilter})` : ''}${cutoffDate ? ` (articles newer than ${cutoffDate.toISOString().split('T')[0]})` : ''}`);
   
   const popelina = new Popelina();
   await popelina.init();
@@ -45,20 +59,38 @@ export async function runScrapingJob(sourceFilter?: string) {
       }
       logger.info(`Running scraper for ${scraper.sourceName}`);
       let page = await context.newPage();
-      let urls: string[] = [];
-      
+      let candidates: import('../scrapers/base.types').ArticleCandidate[] = [];
+
       try {
-        urls = await scraper.getArticleUrls(page);
+        candidates = await scraper.getArticleUrls(page);
       } catch (e: any) {
         logger.error(`Failed to get URLs from ${scraper.sourceName}: ${e.message}`);
         await page.close();
         continue;
       }
 
-      stats.found += urls.length;
-      logger.info(`Found ${urls.length} candidate URLs on ${scraper.sourceName}`);
+      // Listing pages are newest-first — cap to avoid loading dozens of old articles
+      if (candidates.length > MAX_CANDIDATES) {
+        logger.info(`Capping ${candidates.length} candidates to ${MAX_CANDIDATES} for ${scraper.sourceName}`);
+        candidates = candidates.slice(0, MAX_CANDIDATES);
+      }
 
-      for (const url of urls) {
+      stats.found += candidates.length;
+      logger.info(`Found ${candidates.length} candidate URLs on ${scraper.sourceName}`);
+
+      for (const candidate of candidates) {
+        const url = candidate.url;
+
+        // Early date filter — if the listing page already provided a date, skip before loading the article
+        if (cutoffDate && candidate.date) {
+          const earlyDate = parseArticleDate(candidate.date);
+          if (earlyDate && earlyDate < cutoffDate) {
+            logger.info(`Skipping old article (${candidate.date}): ${url}`);
+            stats.duplicate++;
+            continue;
+          }
+        }
+
         if (popelina.isArticleProcessed(url)) {
           logger.info(`Skipping duplicate URL: ${url}`);
           stats.duplicate++;
@@ -66,6 +98,7 @@ export async function runScrapingJob(sourceFilter?: string) {
         }
 
         try {
+          await sleep(SCRAPE_DELAY_MS);
           const rawArticle = await scraper.getArticleDetails(page, url);
           const rawContentForHash = `${rawArticle.title}\n${rawArticle.content}`;
           const contentHash = generateHash(rawContentForHash);
@@ -74,6 +107,15 @@ export async function runScrapingJob(sourceFilter?: string) {
             logger.info(`Skipping duplicate content by hash: ${url}`);
             stats.duplicate++;
             continue;
+          }
+
+          if (cutoffDate) {
+            const articleDate = parseArticleDate(rawArticle.date);
+            if (articleDate && articleDate < cutoffDate) {
+              logger.info(`Skipping old article (${rawArticle.date}): ${url}`);
+              stats.duplicate++;
+              continue;
+            }
           }
 
           logger.success(`New article found: ${rawArticle.title}`);
@@ -93,7 +135,8 @@ export async function runScrapingJob(sourceFilter?: string) {
             rawArticle.title,
             rawArticle.date,
             rawArticle.author,
-            rawArticle.content
+            rawArticle.content,
+            rawArticle.video_embed_url
           );
 
           await popelina.saveProcessed(rawArticle, processed, contentHash, scraper.sourceName);

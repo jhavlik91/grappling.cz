@@ -1,31 +1,35 @@
 import { Page } from 'playwright';
-import { ScraperModule } from './base.types';
+import { ScraperModule, ArticleCandidate } from './base.types';
 import { RawArticle } from '../types/article';
-import { cleanText } from '../utils/normalize';
+import { cleanText, extractVideoEmbed } from '../utils/normalize';
 import { logger } from '../utils/logger';
 
 export const grapplinginsiderScraper: ScraperModule = {
   sourceName: 'Grappling Insider',
 
-  async getArticleUrls(page: Page): Promise<string[]> {
-    const urls: string[] = [];
+  async getArticleUrls(page: Page): Promise<ArticleCandidate[]> {
+    const candidates: ArticleCandidate[] = [];
     try {
       await page.goto('https://grapplinginsider.com/', { waitUntil: 'domcontentloaded' });
-      const linkLocators = page.locator('h3.entry-title a, article a.elementor-post__read-more');
-      const count = await linkLocators.count();
-      
-      for (let i = 0; i < count; i++) {
-        const href = await linkLocators.nth(i).getAttribute('href');
-        if (href && href.startsWith('https://grapplinginsider.com/')) {
-          if (!urls.includes(href)) {
-            urls.push(href);
-          }
+      const results = await page.evaluate(() => {
+        return Array.from(document.querySelectorAll('h2 a')).map(a => {
+          const article = (a as HTMLElement).closest('article') || (a as HTMLElement).parentElement?.parentElement;
+          const time = article?.querySelector('time');
+          return {
+            url: (a as HTMLAnchorElement).href,
+            date: time?.getAttribute('datetime') ?? null,
+          };
+        });
+      });
+      for (const { url, date } of results) {
+        if (url.startsWith('https://grapplinginsider.com/') && !candidates.some(c => c.url === url)) {
+          candidates.push({ url, date });
         }
       }
     } catch (e: any) {
       logger.error(`GrapplingInsider getArticleUrls error: ${e.message}`);
     }
-    return urls;
+    return candidates;
   },
 
   async getArticleDetails(page: Page, url: string): Promise<RawArticle> {
@@ -35,6 +39,7 @@ export const grapplinginsiderScraper: ScraperModule = {
     let author = null;
     let date = null;
     let content = '';
+    let image_url: string | null = null;
 
     try {
       title = await page.locator('h1').first().innerText();
@@ -61,12 +66,21 @@ export const grapplinginsiderScraper: ScraperModule = {
       }
     }
 
+    image_url = await page.evaluate(() => {
+      const el = document.querySelector<HTMLMetaElement>('meta[property="og:image"]');
+      return el?.content ?? null;
+    });
+
+    const video_embed_url = await extractVideoEmbed(page);
+
     return {
       title: cleanText(title),
       url,
       date: date ? date.trim() : null,
       author: author ? cleanText(author.replace('By', '').trim()) : null,
-      content: cleanText(content)
+      content: cleanText(content),
+      image_url,
+      video_embed_url
     };
   }
 };

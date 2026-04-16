@@ -33,7 +33,6 @@ export interface TournamentPreview {
   date: string;
   location: string;
   imageUrl: string;
-  competitorCount: number;
   status: "upcoming" | "live" | "completed";
 }
 

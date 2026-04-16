@@ -1,0 +1,1229 @@
+{
+  "slug": "event-28099",
+  "name": "GRIND 12 Kids (NO-GI & GI ROUND ROBIN)",
+  "date": "2026-04-16",
+  "country": "CZ",
+  "categories": [
+    {
+      "name": "Gi / 4-6 years / Mixed / -24 kg / Mixed (4 - 9 years)",
+      "gi": true,
+      "gender": "Mixed",
+      "ageGroup": "4-6 years",
+      "belt": "Unknown",
+      "weight": "-24 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Constantin Pîslaru",
+          "country": "cz",
+          "club": "SLON GYM PRAHA",
+          "placement": 1,
+          "userId": 1933705
+        },
+        {
+          "name": "Zbyněk Zámečník",
+          "country": "cz",
+          "club": "Jiu-Jitsu Academy Praha",
+          "placement": 2,
+          "userId": 1918331
+        }
+      ]
+    },
+    {
+      "name": "Gi / 7-9 years / Mixed / -21 kg / Mixed (4 - 9 years)",
+      "gi": true,
+      "gender": "Mixed",
+      "ageGroup": "7-9 years",
+      "belt": "Unknown",
+      "weight": "-21 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Stella Netíková",
+          "country": "cz",
+          "club": "Choketopus gym",
+          "placement": 1,
+          "userId": 2603495
+        },
+        {
+          "name": "Benjamin Štumpf",
+          "country": "cz",
+          "club": "5th Dimension BJJ",
+          "placement": 2,
+          "userId": 1756172
+        },
+        {
+          "name": "Emily Benešová",
+          "country": "cz",
+          "club": "5th Dimension BJJ",
+          "placement": 3,
+          "userId": 1929100
+        }
+      ]
+    },
+    {
+      "name": "Gi / 7-9 years / Mixed / -24 kg / Mixed (4 - 9 years)",
+      "gi": true,
+      "gender": "Mixed",
+      "ageGroup": "7-9 years",
+      "belt": "Unknown",
+      "weight": "-24 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Emiliia Vavrysevych",
+          "country": "ua",
+          "club": "Red Dot Gym",
+          "placement": 1,
+          "userId": 1935212
+        },
+        {
+          "name": "Matyáš Mánek",
+          "country": "cz",
+          "club": "5th Dimension BJJ",
+          "placement": 2,
+          "userId": 2570773
+        },
+        {
+          "name": "Benjamin Štumpf",
+          "country": "cz",
+          "club": "5th Dimension BJJ",
+          "placement": 3,
+          "userId": 1756172
+        }
+      ]
+    },
+    {
+      "name": "Gi / 7-9 years / Mixed / -28 kg / Mixed (4 - 9 years)",
+      "gi": true,
+      "gender": "Mixed",
+      "ageGroup": "7-9 years",
+      "belt": "Unknown",
+      "weight": "-28 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Antonín Vejmelka",
+          "country": "cz",
+          "club": "Choketopus gym",
+          "placement": 1,
+          "userId": 2488685
+        },
+        {
+          "name": "Moshe Archibald",
+          "country": "us",
+          "club": "Team Serpente Panama",
+          "placement": 2,
+          "userId": 1446081
+        },
+        {
+          "name": "Botond Baros",
+          "country": "hu",
+          "club": "Törökbálinti Brazil Jiu Jitsu Sportegyesület (ZR TEAM TÖRÖKBÁLINT)",
+          "placement": 3,
+          "userId": 1023851
+        }
+      ]
+    },
+    {
+      "name": "Gi / 7-9 years / Mixed / -32 kg / Mixed (4 - 9 years)",
+      "gi": true,
+      "gender": "Mixed",
+      "ageGroup": "7-9 years",
+      "belt": "Unknown",
+      "weight": "-32 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Filip Daruda",
+          "country": "cz",
+          "club": "Tiger gym",
+          "placement": 1,
+          "userId": 1702158
+        },
+        {
+          "name": "Ema Hrabalová",
+          "country": "cz",
+          "club": "DSC GYM CESKA TREBOVA",
+          "placement": 2,
+          "userId": 1950823
+        },
+        {
+          "name": "Šimon Mareček",
+          "country": "cz",
+          "club": "Choketopus gym",
+          "placement": 3,
+          "userId": 1767451
+        }
+      ]
+    },
+    {
+      "name": "Gi / 7-9 years / Mixed / -36 kg / Mixed (4 - 9 years)",
+      "gi": true,
+      "gender": "Mixed",
+      "ageGroup": "7-9 years",
+      "belt": "Unknown",
+      "weight": "-36 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Kiril Delos Santos",
+          "country": "de",
+          "club": "Dream Art Nürnberg",
+          "placement": 1,
+          "userId": 1733685
+        },
+        {
+          "name": "Matouš Dančo",
+          "country": "cz",
+          "club": "Octopus Liberec",
+          "placement": 2,
+          "userId": 1768556
+        },
+        {
+          "name": "Mykola Beshleha",
+          "country": "ua",
+          "club": "Tiger gym",
+          "placement": 3,
+          "userId": 1146143
+        }
+      ]
+    },
+    {
+      "name": "Gi / 7-9 years / Mixed / -40 kg / Mixed (4 - 9 years)",
+      "gi": true,
+      "gender": "Mixed",
+      "ageGroup": "7-9 years",
+      "belt": "Unknown",
+      "weight": "-40 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Alex Janda",
+          "country": "cz",
+          "club": "DSC GYM CESKA TREBOVA",
+          "placement": 1,
+          "userId": 1081605
+        },
+        {
+          "name": "Alexej Kosík",
+          "country": "cz",
+          "club": "DSC GYM CESKA TREBOVA",
+          "placement": 2,
+          "userId": 1413323
+        },
+        {
+          "name": "Lukáš Habich",
+          "country": "cz",
+          "club": "Choketopus gym",
+          "placement": 3,
+          "userId": 2558672
+        }
+      ]
+    },
+    {
+      "name": "Gi / 10-12 years / Boy / -28 kg / Advanced",
+      "gi": true,
+      "gender": "Mixed",
+      "ageGroup": "10-12 years",
+      "belt": "Advanced",
+      "weight": "-28 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Jan Rác",
+          "country": "cz",
+          "club": "5th Dimension BJJ",
+          "placement": 1,
+          "userId": 1510533
+        },
+        {
+          "name": "Jáchym Karhánek",
+          "country": "cz",
+          "club": "Samba Jiu Jitsu",
+          "placement": 2,
+          "userId": 1374059
+        },
+        {
+          "name": "Jonáš Karhánek",
+          "country": "cz",
+          "club": "Samba Jiu Jitsu",
+          "placement": 3,
+          "userId": 1374061
+        }
+      ]
+    },
+    {
+      "name": "Gi / 10-12 years / Boy / -32 kg / Beginner",
+      "gi": true,
+      "gender": "Mixed",
+      "ageGroup": "10-12 years",
+      "belt": "Beginner",
+      "weight": "-32 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Michael Goroĺ",
+          "country": "cz",
+          "club": "Jiu-Jitsu Academy Praha",
+          "placement": 1,
+          "userId": 1761485
+        },
+        {
+          "name": "Radek Papoušek",
+          "country": "cz",
+          "club": "5th Dimension BJJ",
+          "placement": 2,
+          "userId": 2601872
+        },
+        {
+          "name": "Viktor Vacek",
+          "country": "cz",
+          "club": "5th Dimension BJJ",
+          "placement": 3,
+          "userId": 1512151
+        }
+      ]
+    },
+    {
+      "name": "Gi / 10-12 years / Boy / -32 kg / Advanced",
+      "gi": true,
+      "gender": "Mixed",
+      "ageGroup": "10-12 years",
+      "belt": "Advanced",
+      "weight": "-32 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Alexander Ciornii",
+          "country": "at",
+          "club": "Ratiborets Vienna",
+          "placement": 1,
+          "userId": 680595
+        },
+        {
+          "name": "Adam Martin",
+          "country": "cz",
+          "club": "5th Dimension BJJ",
+          "placement": 2,
+          "userId": 1743324
+        }
+      ]
+    },
+    {
+      "name": "Gi / 10-12 years / Boy / -36 kg / Beginner",
+      "gi": true,
+      "gender": "Mixed",
+      "ageGroup": "10-12 years",
+      "belt": "Beginner",
+      "weight": "-36 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "David Chromčák",
+          "country": "cz",
+          "club": "5th Dimension BJJ",
+          "placement": 1,
+          "userId": 1920269
+        },
+        {
+          "name": "Hynek Zoubek",
+          "country": "cz",
+          "club": "Choketopus gym",
+          "placement": 2,
+          "userId": 2582075
+        },
+        {
+          "name": "Filip Vicány",
+          "country": "cz",
+          "club": "Choketopus gym",
+          "placement": 3,
+          "userId": 2619051
+        }
+      ]
+    },
+    {
+      "name": "Gi / 10-12 years / Boy / -40 kg / Beginner",
+      "gi": true,
+      "gender": "Mixed",
+      "ageGroup": "10-12 years",
+      "belt": "Beginner",
+      "weight": "-40 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Karen Avahimian",
+          "country": "ua",
+          "club": "Ratiborets Vienna",
+          "placement": 1,
+          "userId": 1529092
+        },
+        {
+          "name": "Petr Zajíc",
+          "country": "cz",
+          "club": "OFA",
+          "placement": 2,
+          "userId": 1214675
+        },
+        {
+          "name": "Faissal Moro",
+          "country": "cz",
+          "club": "Samba Jiu Jitsu",
+          "placement": 3,
+          "userId": 1091076
+        }
+      ]
+    },
+    {
+      "name": "Gi / 10-12 years / Boy / -45 kg / Advanced",
+      "gi": true,
+      "gender": "Mixed",
+      "ageGroup": "10-12 years",
+      "belt": "Advanced",
+      "weight": "-45 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Zóra Gyenge",
+          "country": "hu",
+          "club": "VSD Jiu-Jitsu",
+          "placement": 1,
+          "userId": 1346079
+        },
+        {
+          "name": "Tibor Culek",
+          "country": "cz",
+          "club": "Delta gym",
+          "placement": 2,
+          "userId": 1387746
+        },
+        {
+          "name": "Volodymyr Demchuk",
+          "country": "ua",
+          "club": "Red Dot Gym",
+          "placement": 3,
+          "userId": 1656570
+        }
+      ]
+    },
+    {
+      "name": "Gi / 10-12 years / Boy / +60 kg / Advanced",
+      "gi": true,
+      "gender": "Mixed",
+      "ageGroup": "10-12 years",
+      "belt": "Advanced",
+      "weight": "+60 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Michael Nováček",
+          "country": "cz",
+          "club": "Tiger gym",
+          "placement": 1,
+          "userId": 1451889
+        },
+        {
+          "name": "Mikuláš Šicha",
+          "country": "cz",
+          "club": "5th Dimension BJJ",
+          "placement": 2,
+          "userId": 1894622
+        }
+      ]
+    },
+    {
+      "name": "Gi / 10-12 years / Girl / -32 kg / Beginner",
+      "gi": true,
+      "gender": "Mixed",
+      "ageGroup": "10-12 years",
+      "belt": "Beginner",
+      "weight": "-32 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Klaudie Kobzanova",
+          "country": "cz",
+          "club": "Gracie Barra Jessheim",
+          "placement": 1,
+          "userId": 1460714
+        },
+        {
+          "name": "Marharyta Rohachova",
+          "country": "ua",
+          "club": "Sportovní Klub Pretorian Pardubice",
+          "placement": 2,
+          "userId": 2554119
+        },
+        {
+          "name": "Laura Vicány",
+          "country": "cz",
+          "club": "Choketopus gym",
+          "placement": 3,
+          "userId": 2619101
+        }
+      ]
+    },
+    {
+      "name": "Gi / 10-12 years / Girl / -50 kg / Beginner",
+      "gi": true,
+      "gender": "Mixed",
+      "ageGroup": "10-12 years",
+      "belt": "Beginner",
+      "weight": "-50 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Zuzana Jakeschová",
+          "country": "cz",
+          "club": "DSC GYM CESKA TREBOVA",
+          "placement": 1,
+          "userId": 2188160
+        },
+        {
+          "name": "Natali Chromčáková",
+          "country": "cz",
+          "club": "5th Dimension BJJ",
+          "placement": 2,
+          "userId": 2454614
+        },
+        {
+          "name": "Nela Lapáčková",
+          "country": "cz",
+          "club": "Choketopus gym",
+          "placement": 3,
+          "userId": 2625893
+        }
+      ]
+    },
+    {
+      "name": "Gi / 13-14 years / Boy / -45 kg / Beginner",
+      "gi": true,
+      "gender": "Mixed",
+      "ageGroup": "13-14 years",
+      "belt": "Beginner",
+      "weight": "-45 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Nikolas Soudný",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "placement": 1,
+          "userId": 1443439
+        },
+        {
+          "name": "Martin Jurečka",
+          "country": "cz",
+          "club": "DSC GYM CESKA TREBOVA",
+          "placement": 2,
+          "userId": 1978340
+        },
+        {
+          "name": "Samuel Plechatý",
+          "country": "cz",
+          "club": "Octopus Liberec",
+          "placement": 3,
+          "userId": 2603925
+        }
+      ]
+    },
+    {
+      "name": "Gi / 13-14 years / Boy / -50 kg / Beginner",
+      "gi": true,
+      "gender": "Mixed",
+      "ageGroup": "13-14 years",
+      "belt": "Beginner",
+      "weight": "-50 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "David Grgula",
+          "country": "cz",
+          "club": "Choketopus gym",
+          "placement": 1,
+          "userId": 2624437
+        },
+        {
+          "name": "Eliáš Fuccillo",
+          "country": "cz",
+          "club": "Choketopus gym",
+          "placement": 2,
+          "userId": 2434501
+        },
+        {
+          "name": "Kryštof Ladýř",
+          "country": "cz",
+          "club": "Octopus Liberec",
+          "placement": 3,
+          "userId": 1774418
+        }
+      ]
+    },
+    {
+      "name": "Gi / 13-14 years / Boy / -50 kg / Advanced",
+      "gi": true,
+      "gender": "Mixed",
+      "ageGroup": "13-14 years",
+      "belt": "Advanced",
+      "weight": "-50 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Bruno Čížek",
+          "country": "cz",
+          "club": "DSC GYM CESKA TREBOVA",
+          "placement": 1,
+          "userId": 2401337
+        },
+        {
+          "name": "Matyáš Barák",
+          "country": "cz",
+          "club": "Reinders MMA",
+          "placement": 2,
+          "userId": 1280211
+        },
+        {
+          "name": "Dmytro Yankovyi",
+          "country": "ua",
+          "club": "Choketopus gym",
+          "placement": 3,
+          "userId": 1458517
+        }
+      ]
+    },
+    {
+      "name": "Gi / 13-14 years / Boy / -55 kg / Beginner",
+      "gi": true,
+      "gender": "Mixed",
+      "ageGroup": "13-14 years",
+      "belt": "Beginner",
+      "weight": "-55 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Richard Černohous",
+          "country": "cz",
+          "club": "Sportovní Klub Pretorian Pardubice",
+          "placement": 1,
+          "userId": 2056563
+        },
+        {
+          "name": "Mikuláš Boltík",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "placement": 2,
+          "userId": 2567186
+        },
+        {
+          "name": "Teodor Dolejs",
+          "country": "cz",
+          "club": "Octopus Liberec",
+          "placement": 3,
+          "userId": 2604052
+        }
+      ]
+    },
+    {
+      "name": "Gi / 13-14 years / Boy / -55 kg / Advanced",
+      "gi": true,
+      "gender": "Mixed",
+      "ageGroup": "13-14 years",
+      "belt": "Advanced",
+      "weight": "-55 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Matej Cermak",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "placement": 1,
+          "userId": 2008083
+        },
+        {
+          "name": "Lukáš Kubín",
+          "country": "cz",
+          "club": "Red Dot Gym",
+          "placement": 2,
+          "userId": 1241410
+        },
+        {
+          "name": "Šimon Dyntar",
+          "country": "cz",
+          "club": "Sportovní Klub Pretorian Pardubice",
+          "placement": 3,
+          "userId": 2064205
+        }
+      ]
+    },
+    {
+      "name": "Gi / 13-14 years / Boy / -60 kg / Beginner",
+      "gi": true,
+      "gender": "Mixed",
+      "ageGroup": "13-14 years",
+      "belt": "Beginner",
+      "weight": "-60 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Krystof Rompot",
+          "country": "cz",
+          "club": "Sportovní Klub Pretorian Pardubice",
+          "placement": 1,
+          "userId": 1892063
+        },
+        {
+          "name": "Jakub Lapáček",
+          "country": "cz",
+          "club": "Choketopus gym",
+          "placement": 2,
+          "userId": 2627337
+        }
+      ]
+    },
+    {
+      "name": "Gi / 13-14 years / Boy / -60 kg / Advanced",
+      "gi": true,
+      "gender": "Mixed",
+      "ageGroup": "13-14 years",
+      "belt": "Advanced",
+      "weight": "-60 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Filip Plzák",
+          "country": "cz",
+          "club": "Tiger gym",
+          "placement": 1,
+          "userId": 1442766
+        },
+        {
+          "name": "Adam Rudij",
+          "country": "cz",
+          "club": "5th Dimension BJJ",
+          "placement": 2,
+          "userId": 900764
+        }
+      ]
+    },
+    {
+      "name": "Gi / 13-14 years / Boy / +65 kg / Beginner",
+      "gi": true,
+      "gender": "Mixed",
+      "ageGroup": "13-14 years",
+      "belt": "Beginner",
+      "weight": "+65 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Matyáš Zegermacher",
+          "country": "cz",
+          "club": "Gladiators Gym - BulletProof",
+          "placement": 1,
+          "userId": 1427632
+        },
+        {
+          "name": "Michal Labuda",
+          "country": "cz",
+          "club": "Octopus Liberec",
+          "placement": 2,
+          "userId": 2598600
+        }
+      ]
+    },
+    {
+      "name": "No-Gi / 4-6 years / Mixed (4 - 9 years) / -24 kg / Mixed (4 - 9 years)",
+      "gi": false,
+      "gender": "Mixed",
+      "ageGroup": "4-6 years",
+      "belt": "Unknown",
+      "weight": "-24 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Constantin Pîslaru",
+          "country": "cz",
+          "club": "SLON GYM PRAHA",
+          "placement": 1,
+          "userId": 1933705
+        },
+        {
+          "name": "Maxim Kubák",
+          "country": "cz",
+          "club": "Gladiators Gym - BulletProof",
+          "placement": 2,
+          "userId": 2608181
+        }
+      ]
+    },
+    {
+      "name": "No-Gi / 7-9 years / Mixed (4 - 9 years) / -28 kg / Mixed (4 - 9 years)",
+      "gi": false,
+      "gender": "Mixed",
+      "ageGroup": "7-9 years",
+      "belt": "Unknown",
+      "weight": "-28 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Botond Baros",
+          "country": "hu",
+          "club": "Törökbálinti Brazil Jiu Jitsu Sportegyesület (ZR TEAM TÖRÖKBÁLINT)",
+          "placement": 1,
+          "userId": 1023851
+        },
+        {
+          "name": "Vasil Batryn",
+          "country": "ua",
+          "club": "SLON GYM PRAHA",
+          "placement": 2,
+          "userId": 1934080
+        },
+        {
+          "name": "Adélka Bugnerová",
+          "country": "cz",
+          "club": "Laguz Grappling Praha",
+          "placement": 3,
+          "userId": 890400
+        }
+      ]
+    },
+    {
+      "name": "No-Gi / 7-9 years / Mixed (4 - 9 years) / -32 kg / Mixed (4 - 9 years)",
+      "gi": false,
+      "gender": "Mixed",
+      "ageGroup": "7-9 years",
+      "belt": "Unknown",
+      "weight": "-32 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Matyáš Habich",
+          "country": "cz",
+          "club": "Choketopus gym",
+          "placement": 1,
+          "userId": 2558675
+        },
+        {
+          "name": "Ema Hrabalová",
+          "country": "cz",
+          "club": "DSC GYM CESKA TREBOVA",
+          "placement": 2,
+          "userId": 1950823
+        },
+        {
+          "name": "Kryštof Kubák",
+          "country": "cz",
+          "club": "Gladiators Gym - BulletProof",
+          "placement": 3,
+          "userId": 2608162
+        }
+      ]
+    },
+    {
+      "name": "No-Gi / 7-9 years / Mixed (4 - 9 years) / -36 kg / Mixed (4 - 9 years)",
+      "gi": false,
+      "gender": "Mixed",
+      "ageGroup": "7-9 years",
+      "belt": "Unknown",
+      "weight": "-36 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Kiril Delos Santos",
+          "country": "de",
+          "club": "Dream Art Nürnberg",
+          "placement": 1,
+          "userId": 1733685
+        },
+        {
+          "name": "Mykola Beshleha",
+          "country": "ua",
+          "club": "Tiger gym",
+          "placement": 2,
+          "userId": 1146143
+        }
+      ]
+    },
+    {
+      "name": "No-Gi / 7-9 years / Mixed (4 - 9 years) / -40 kg / Mixed (4 - 9 years)",
+      "gi": false,
+      "gender": "Mixed",
+      "ageGroup": "7-9 years",
+      "belt": "Unknown",
+      "weight": "-40 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Alex Janda",
+          "country": "cz",
+          "club": "DSC GYM CESKA TREBOVA",
+          "placement": 1,
+          "userId": 1081605
+        },
+        {
+          "name": "Alexej Kosík",
+          "country": "cz",
+          "club": "DSC GYM CESKA TREBOVA",
+          "placement": 2,
+          "userId": 1413323
+        }
+      ]
+    },
+    {
+      "name": "No-Gi / 10-12 years / Boy / -28 kg / Advanced",
+      "gi": false,
+      "gender": "Mixed",
+      "ageGroup": "10-12 years",
+      "belt": "Advanced",
+      "weight": "-28 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Luka Long",
+          "country": "cu",
+          "club": "Reinders MMA",
+          "placement": 1,
+          "userId": 1462761
+        },
+        {
+          "name": "Jonáš Karhánek",
+          "country": "cz",
+          "club": "Samba Jiu Jitsu",
+          "placement": 2,
+          "userId": 1374061
+        },
+        {
+          "name": "Jáchym Karhánek",
+          "country": "cz",
+          "club": "Samba Jiu Jitsu",
+          "placement": 3,
+          "userId": 1374059
+        }
+      ]
+    },
+    {
+      "name": "No-Gi / 10-12 years / Boy / -32 kg / Beginners",
+      "gi": false,
+      "gender": "Mixed",
+      "ageGroup": "10-12 years",
+      "belt": "Unknown",
+      "weight": "-32 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Michael Goroĺ",
+          "country": "cz",
+          "club": "Jiu-Jitsu Academy Praha",
+          "placement": 1,
+          "userId": 1761485
+        },
+        {
+          "name": "Tomáš Sečka",
+          "country": "cz",
+          "club": "Sportovní Klub Pretorian Pardubice",
+          "placement": 2,
+          "userId": 2610528
+        }
+      ]
+    },
+    {
+      "name": "No-Gi / 10-12 years / Boy / -36 kg / Beginners",
+      "gi": false,
+      "gender": "Mixed",
+      "ageGroup": "10-12 years",
+      "belt": "Unknown",
+      "weight": "-36 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Khairulla Djamulaev",
+          "country": "ru-ad",
+          "club": "Champions Factory",
+          "placement": 1,
+          "userId": 1961743
+        },
+        {
+          "name": "Alexander Ciornii",
+          "country": "at",
+          "club": "Ratiborets Vienna",
+          "placement": 2,
+          "userId": 680595
+        },
+        {
+          "name": "David Chromčák",
+          "country": "cz",
+          "club": "5th Dimension BJJ",
+          "placement": 3,
+          "userId": 1920269
+        }
+      ]
+    },
+    {
+      "name": "No-Gi / 10-12 years / Boy / -40 kg / Beginners",
+      "gi": false,
+      "gender": "Mixed",
+      "ageGroup": "10-12 years",
+      "belt": "Unknown",
+      "weight": "-40 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Petr Zajíc",
+          "country": "cz",
+          "club": "OFA",
+          "placement": 1,
+          "userId": 1214675
+        },
+        {
+          "name": "Karen Avahimian",
+          "country": "ua",
+          "club": "Ratiborets Vienna",
+          "placement": 2,
+          "userId": 1529092
+        },
+        {
+          "name": "Lukas Trnka",
+          "country": "cz",
+          "club": "Gladiators Gym - BulletProof",
+          "placement": 3,
+          "userId": 2602111
+        }
+      ]
+    },
+    {
+      "name": "No-Gi / 10-12 years / Boy / -45 kg / Advanced",
+      "gi": false,
+      "gender": "Mixed",
+      "ageGroup": "10-12 years",
+      "belt": "Advanced",
+      "weight": "-45 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Zóra Gyenge",
+          "country": "hu",
+          "club": "VSD Jiu-Jitsu",
+          "placement": 1,
+          "userId": 1346079
+        },
+        {
+          "name": "Faissal Moro",
+          "country": "cz",
+          "club": "Samba Jiu Jitsu",
+          "placement": 2,
+          "userId": 1091076
+        },
+        {
+          "name": "Kincső Lakatos",
+          "country": "hu",
+          "club": "VSD Jiu-Jitsu",
+          "placement": 3,
+          "userId": 1426332
+        }
+      ]
+    },
+    {
+      "name": "No-Gi / 10-12 years / Girl / -50 kg / Advanced",
+      "gi": false,
+      "gender": "Mixed",
+      "ageGroup": "10-12 years",
+      "belt": "Advanced",
+      "weight": "-50 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Zóra Gyenge",
+          "country": "hu",
+          "club": "VSD Jiu-Jitsu",
+          "placement": 1,
+          "userId": 1346079
+        },
+        {
+          "name": "Rozalie Novotna",
+          "country": "cz",
+          "club": "DSC GYM CESKA TREBOVA",
+          "placement": 2,
+          "userId": 858906
+        }
+      ]
+    },
+    {
+      "name": "No-Gi / 13-14 years / Boy / -45 kg / Beginners",
+      "gi": false,
+      "gender": "Mixed",
+      "ageGroup": "13-14 years",
+      "belt": "Unknown",
+      "weight": "-45 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Nikolas Soudný",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "placement": 1,
+          "userId": 1443439
+        },
+        {
+          "name": "Tom Pavek",
+          "country": "de",
+          "club": "MMA Combat Sivi",
+          "placement": 2,
+          "userId": 1735651
+        },
+        {
+          "name": "Martin Jurečka",
+          "country": "cz",
+          "club": "DSC GYM CESKA TREBOVA",
+          "placement": 3,
+          "userId": 1978340
+        }
+      ]
+    },
+    {
+      "name": "No-Gi / 13-14 years / Boy / -50 kg / Beginners",
+      "gi": false,
+      "gender": "Mixed",
+      "ageGroup": "13-14 years",
+      "belt": "Unknown",
+      "weight": "-50 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Eliáš Fuccillo",
+          "country": "cz",
+          "club": "Choketopus gym",
+          "placement": 1,
+          "userId": 2434501
+        },
+        {
+          "name": "Tobiáš Podroužek",
+          "country": "cz",
+          "club": "Choketopus gym",
+          "placement": 2,
+          "userId": 2429667
+        }
+      ]
+    },
+    {
+      "name": "No-Gi / 13-14 years / Boy / -50 kg / Advanced",
+      "gi": false,
+      "gender": "Mixed",
+      "ageGroup": "13-14 years",
+      "belt": "Advanced",
+      "weight": "-50 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Bruno Čížek",
+          "country": "cz",
+          "club": "DSC GYM CESKA TREBOVA",
+          "placement": 1,
+          "userId": 2401337
+        },
+        {
+          "name": "Adam Dočkal",
+          "country": "cz",
+          "club": "Renzo Gracie Prague",
+          "placement": 2,
+          "userId": 809604
+        },
+        {
+          "name": "Matyáš Barák",
+          "country": "cz",
+          "club": "Reinders MMA",
+          "placement": 3,
+          "userId": 1280211
+        }
+      ]
+    },
+    {
+      "name": "No-Gi / 13-14 years / Boy / -55 kg / Beginners",
+      "gi": false,
+      "gender": "Mixed",
+      "ageGroup": "13-14 years",
+      "belt": "Unknown",
+      "weight": "-55 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Jan Bouška",
+          "country": "cz",
+          "club": "Pragoplata BJJ",
+          "placement": 1,
+          "userId": 2604839
+        },
+        {
+          "name": "Richard Černohous",
+          "country": "cz",
+          "club": "Sportovní Klub Pretorian Pardubice",
+          "placement": 2,
+          "userId": 2056563
+        },
+        {
+          "name": "Mikuláš Boltík",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "placement": 3,
+          "userId": 2567186
+        }
+      ]
+    },
+    {
+      "name": "No-Gi / 13-14 years / Boy / -60 kg / Advanced",
+      "gi": false,
+      "gender": "Mixed",
+      "ageGroup": "13-14 years",
+      "belt": "Advanced",
+      "weight": "-60 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Adam Rudij",
+          "country": "cz",
+          "club": "5th Dimension BJJ",
+          "placement": 1,
+          "userId": 900764
+        },
+        {
+          "name": "Václav Flesar",
+          "country": "cz",
+          "club": "Glory Fight Club",
+          "placement": 2,
+          "userId": 2023797
+        }
+      ]
+    },
+    {
+      "name": "No-Gi / 13-14 years / Boy / +65 kg / Beginners",
+      "gi": false,
+      "gender": "Mixed",
+      "ageGroup": "13-14 years",
+      "belt": "Unknown",
+      "weight": "+65 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Jakub Adamek",
+          "country": "cz",
+          "club": "MMA Liberec",
+          "placement": 1,
+          "userId": 2572977
+        },
+        {
+          "name": "Maxim Galamb",
+          "country": "cz",
+          "club": "Sportovní Klub Pretorian Pardubice",
+          "placement": 2,
+          "userId": 2136729
+        },
+        {
+          "name": "Matyáš Zegermacher",
+          "country": "cz",
+          "club": "Gladiators Gym - BulletProof",
+          "placement": 3,
+          "userId": 1427632
+        }
+      ]
+    }
+  ]
+}

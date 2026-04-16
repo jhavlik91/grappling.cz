@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import type { ArticlePreview } from "@/types/content";
 import { ContentBadge } from "./ContentBadge";
@@ -5,8 +6,16 @@ import { ContentBadge } from "./ContentBadge";
 export function HeroFeature({ article }: { article: ArticlePreview }) {
   return (
     <section className="relative overflow-hidden rounded-xl">
-      {/* Background image placeholder */}
+      {/* Background gradient fallback */}
       <div className="absolute inset-0 bg-gradient-to-br from-purple-950/80 via-gray-900 to-gray-950" />
+      {/* Article image */}
+      <Image
+        src={article.imageUrl}
+        alt={article.title}
+        fill
+        className="object-cover"
+        priority
+      />
       <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/40 to-transparent" />
 
       <div className="relative px-6 py-16 sm:px-10 sm:py-24 lg:py-32">

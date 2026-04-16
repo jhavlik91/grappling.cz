@@ -1,0 +1,257 @@
+{
+  "slug": "event-30133",
+  "name": "CJJA Kids Open – Gladiators Games",
+  "date": "2026-04-16",
+  "country": "CZ",
+  "categories": [
+    {
+      "name": "Kids Gi / White / Pee Wee I (7yrs) / -27,20 kg",
+      "gi": true,
+      "gender": "Mixed",
+      "ageGroup": "Unknown",
+      "belt": "Beginner",
+      "weight": "-27,20 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Matyáš Píha",
+          "country": "cz",
+          "club": "Gladiators Gym - BulletProof",
+          "placement": 1,
+          "userId": 2668705
+        },
+        {
+          "name": "Maxim Kubák",
+          "country": "cz",
+          "club": "Gladiators Gym - BulletProof",
+          "placement": 2,
+          "userId": 2608181
+        }
+      ]
+    },
+    {
+      "name": "Kids Gi / White / Pee Wee (8-9yrs) / -30,20 kg",
+      "gi": true,
+      "gender": "Mixed",
+      "ageGroup": "8-9 years",
+      "belt": "Beginner",
+      "weight": "-30,20 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Aleš Lauer",
+          "country": "cz",
+          "club": "Gladiators Gym - BulletProof",
+          "placement": 1,
+          "userId": 2584340
+        },
+        {
+          "name": "Kryštof Zegermacher",
+          "country": "cz",
+          "club": "Gladiators Gym - BulletProof",
+          "placement": 2,
+          "userId": 1427636
+        },
+        {
+          "name": "Marcus Neuwirth",
+          "country": "cz",
+          "club": "Gladiators Gym - BulletProof",
+          "placement": 3,
+          "userId": 2712497
+        }
+      ]
+    },
+    {
+      "name": "Kids Gi / White / Pee Wee III (9yrs) / -33,40 kg",
+      "gi": true,
+      "gender": "Mixed",
+      "ageGroup": "Unknown",
+      "belt": "Beginner",
+      "weight": "-33,40 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Natálie Skálová",
+          "country": "cz",
+          "club": "Gladiators Gym - BulletProof",
+          "placement": 1,
+          "userId": 2660954
+        },
+        {
+          "name": "Kryštof Kubák",
+          "country": "cz",
+          "club": "Gladiators Gym - BulletProof",
+          "placement": 2,
+          "userId": 2608162
+        },
+        {
+          "name": "Aleš Lauer",
+          "country": "cz",
+          "club": "Gladiators Gym - BulletProof",
+          "placement": 3,
+          "userId": 2584340
+        }
+      ]
+    },
+    {
+      "name": "Kids Gi / White / Junior I (10yrs) / -36,30 kg",
+      "gi": true,
+      "gender": "Mixed",
+      "ageGroup": "Juvenile",
+      "belt": "Beginner",
+      "weight": "-36,30 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Viktorie Czabanová",
+          "country": "cz",
+          "club": "Gladiators Gym - BulletProof",
+          "placement": 1,
+          "userId": 1529238
+        },
+        {
+          "name": "Natálie Skálová",
+          "country": "cz",
+          "club": "Gladiators Gym - BulletProof",
+          "placement": 2,
+          "userId": 2660954
+        },
+        {
+          "name": "Matyáš Fürst",
+          "country": "cz",
+          "club": "Gladiators Gym - BulletProof",
+          "placement": 3,
+          "userId": 2706646
+        }
+      ]
+    },
+    {
+      "name": "Kids Gi / White / Junior (10-12yrs) / -36,30 kg",
+      "gi": true,
+      "gender": "Mixed",
+      "ageGroup": "10-12 years",
+      "belt": "Beginner",
+      "weight": "-36,30 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Filip Šťastný",
+          "country": "cz",
+          "club": "Gladiators Gym - BulletProof",
+          "placement": 1,
+          "userId": 2693025
+        },
+        {
+          "name": "Lukas Trnka",
+          "country": "cz",
+          "club": "Gladiators Gym - BulletProof",
+          "placement": 2,
+          "userId": 2602111
+        },
+        {
+          "name": "Artem Kharcenko",
+          "country": "ua",
+          "club": "Gladiators Gym - BulletProof",
+          "placement": 3,
+          "userId": 2721862
+        }
+      ]
+    },
+    {
+      "name": "Kids Gi / White / Junior (10-12yrs) / -40,40 kg",
+      "gi": true,
+      "gender": "Mixed",
+      "ageGroup": "10-12 years",
+      "belt": "Beginner",
+      "weight": "-40,40 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Filip Šťastný",
+          "country": "cz",
+          "club": "Gladiators Gym - BulletProof",
+          "placement": 1,
+          "userId": 2693025
+        },
+        {
+          "name": "Viktorie Czabanová",
+          "country": "cz",
+          "club": "Gladiators Gym - BulletProof",
+          "placement": 2,
+          "userId": 1529238
+        },
+        {
+          "name": "Artem Kharcenko",
+          "country": "ua",
+          "club": "Gladiators Gym - BulletProof",
+          "placement": 3,
+          "userId": 2721862
+        }
+      ]
+    },
+    {
+      "name": "Kids Gi / White / Teen  (13-15yrs) / -65,10 kg",
+      "gi": true,
+      "gender": "Mixed",
+      "ageGroup": "13-15 years",
+      "belt": "Beginner",
+      "weight": "-65,10 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Jakub Řezáč",
+          "country": "cz",
+          "club": "Gladiators Gym - BulletProof",
+          "placement": 1,
+          "userId": 2530290
+        },
+        {
+          "name": "Matyáš Zegermacher",
+          "country": "cz",
+          "club": "Gladiators Gym - BulletProof",
+          "placement": 2,
+          "userId": 1427632
+        },
+        {
+          "name": "Matyáš Urbánek",
+          "country": "cz",
+          "club": "Gladiators Gym - BulletProof",
+          "placement": 3,
+          "userId": 2686444
+        }
+      ]
+    },
+    {
+      "name": "Kids Gi / White / Teen I (13yrs) / -65,10 kg",
+      "gi": true,
+      "gender": "Mixed",
+      "ageGroup": "14-15 years",
+      "belt": "Beginner",
+      "weight": "-65,10 kg",
+      "isKid": true,
+      "athletes": [
+        {
+          "name": "Matyáš Zegermacher",
+          "country": "cz",
+          "club": "Gladiators Gym - BulletProof",
+          "placement": 1,
+          "userId": 1427632
+        },
+        {
+          "name": "Matyáš Hájek",
+          "country": "cz",
+          "club": "Gladiators Gym - BulletProof",
+          "placement": 2,
+          "userId": 2686920
+        },
+        {
+          "name": "Matyáš Urbánek",
+          "country": "cz",
+          "club": "Gladiators Gym - BulletProof",
+          "placement": 3,
+          "userId": 2686444
+        }
+      ]
+    }
+  ]
+}

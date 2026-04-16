@@ -1,0 +1,182 @@
+{
+  "slug": "event-30461",
+  "name": "Relax",
+  "date": "2026-04-16",
+  "country": "CZ",
+  "categories": [
+    {
+      "name": "Men / 70 kg / Adult / White Belt",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "Adult",
+      "belt": "White",
+      "weight": "70 kg",
+      "isKid": false,
+      "athletes": [
+        {
+          "name": "Yurii Hyndych",
+          "country": "ua",
+          "club": "ZR Team, Center, Praha",
+          "placement": 1,
+          "userId": 1763571
+        },
+        {
+          "name": "Mohammad Keshi",
+          "country": "sy",
+          "club": "Reinders MMA",
+          "placement": 2,
+          "userId": 2096975
+        },
+        {
+          "name": "Jan Hrom",
+          "country": "cz",
+          "club": "Reinders MMA",
+          "placement": 3,
+          "userId": 2740476
+        }
+      ]
+    },
+    {
+      "name": "Men / 80 kg / Adult / White Belt",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "Adult",
+      "belt": "White",
+      "weight": "80 kg",
+      "isKid": false,
+      "athletes": [
+        {
+          "name": "Valerii Movchan",
+          "country": "imm",
+          "club": "",
+          "placement": 1,
+          "userId": 2338372
+        },
+        {
+          "name": "Vojtěch Netopil",
+          "country": "cz",
+          "club": "Draculino Kroměříž",
+          "placement": 2,
+          "userId": 2518339
+        },
+        {
+          "name": "Štěpán Kroupa",
+          "country": "cz",
+          "club": "BulletproofJJ",
+          "placement": 3,
+          "userId": 1686427
+        }
+      ]
+    },
+    {
+      "name": "Men / 80 kg / Adult / Blue Belt",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "Adult",
+      "belt": "Blue",
+      "weight": "80 kg",
+      "isKid": false,
+      "athletes": [
+        {
+          "name": "Michal Vavroušek",
+          "country": "cz",
+          "club": "Reinders MMA",
+          "placement": 1,
+          "userId": 1215037
+        },
+        {
+          "name": "Julian Bar",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "placement": 2,
+          "userId": 1392785
+        },
+        {
+          "name": "Petr Sládek",
+          "country": "cz",
+          "club": "Choketopus gym",
+          "placement": 3,
+          "userId": 517727
+        },
+        {
+          "name": "Said-Magomed Nachnajev",
+          "country": "ps",
+          "club": "Jungle BJJ Prague",
+          "placement": 3,
+          "userId": 886746
+        },
+        {
+          "name": "Nikita Stegura",
+          "country": "ua",
+          "club": "Gorila MMA",
+          "placement": 3,
+          "userId": 2169536
+        }
+      ]
+    },
+    {
+      "name": "Men / 90 kg / Adult / White Belt",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "Adult",
+      "belt": "White",
+      "weight": "90 kg",
+      "isKid": false,
+      "athletes": [
+        {
+          "name": "Michal Tranta",
+          "country": "cz",
+          "club": "Reinders MMA",
+          "placement": 1,
+          "userId": 1943967
+        },
+        {
+          "name": "Yaroslav Rossokha",
+          "country": "ua",
+          "club": "Summit Submission",
+          "placement": 2,
+          "userId": 2729690
+        },
+        {
+          "name": "Antonín Venc",
+          "country": "cz",
+          "club": "Gorila MMA",
+          "placement": 3,
+          "userId": 2362079
+        }
+      ]
+    },
+    {
+      "name": "Men / 100 kg / Adult / Blue Belt",
+      "gi": true,
+      "gender": "Male",
+      "ageGroup": "Adult",
+      "belt": "Blue",
+      "weight": "100 kg",
+      "isKid": false,
+      "athletes": [
+        {
+          "name": "Jáchym Tkaczyk",
+          "country": "cz",
+          "club": "Tiger Jiu Jitsu Kralupy",
+          "placement": 1,
+          "userId": 254929
+        },
+        {
+          "name": "Oleksandr Mostovoj",
+          "country": "ua",
+          "club": "Choketopus gym",
+          "placement": 2,
+          "userId": 2548112
+        },
+        {
+          "name": "Kryštof Málek",
+          "country": "cz",
+          "club": "Jungle BJJ Prague",
+          "placement": 3,
+          "userId": 149835
+        }
+      ]
+    }
+  ]
+}

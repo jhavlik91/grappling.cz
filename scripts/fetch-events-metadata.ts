@@ -30,11 +30,16 @@ async function getCzechEventUrls(): Promise<string[]> {
     }
   }
   
-  // Explicitně přidáme proběhlé turnaje, které potřebujeme pro interní žebříčky
-  const pastEventIds = ["27716", "30095", "28782", "28045", "28098"];
-  for (const id of pastEventIds) {
-    // AGf and smoothcomp URLs. To be safe, we just use smoothcomp.com base
-    urls.add(`https://smoothcomp.com/en/event/${id}`);
+  // Přidáme všechny proběhlé eventy z events-config.json
+  try {
+    const configPath = new URL("../data/events-config.json", import.meta.url).pathname;
+    const { readFileSync } = await import("node:fs");
+    const config: { eventId: number; baseUrl: string }[] = JSON.parse(readFileSync(configPath, "utf8"));
+    for (const e of config) {
+      urls.add(`${e.baseUrl}/en/event/${e.eventId}`);
+    }
+  } catch (err) {
+    console.warn("Could not load events-config.json:", err);
   }
   
   return Array.from(urls);
@@ -47,7 +52,15 @@ async function fetchEventData(url: string) {
     
     // Extract title
     const titleMatch = html.match(/<h1[^>]*>\s*([\s\S]*?)\s*<\/h1>/);
-    const title = titleMatch ? titleMatch[1].replace(/<[^>]+>/g, '').trim() : '';
+    const rawTitle = titleMatch ? titleMatch[1].replace(/<[^>]+>/g, '').trim() : '';
+    const title = rawTitle
+      .replace(/&amp;/g, '&')
+      .replace(/&lt;/g, '<')
+      .replace(/&gt;/g, '>')
+      .replace(/&quot;/g, '"')
+      .replace(/&#39;/g, "'")
+      .replace(/&nbsp;/g, ' ')
+      .trim();
     
     // Extract logo
     const logoMatch = html.match(/<meta\s+property="og:image"\s+content="([^"]+)"/i) 
@@ -93,7 +106,7 @@ async function fetchEventData(url: string) {
     if (!dateStr) {
       const dateMatch = html.match(/<span class="icon icon-calendar pull-left"><\/span>\s*<span>(.*?)<\/span>/);
       if (dateMatch) {
-         dateStr = dateMatch[1].trim(); 
+         dateStr = dateMatch[1].trim();
       }
     }
 
