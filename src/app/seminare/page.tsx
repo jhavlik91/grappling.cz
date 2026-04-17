@@ -1,15 +1,17 @@
 import fs from "node:fs/promises";
 import path from "node:path";
-import Link from "next/link";
 import { CollapsibleSection } from "@/components/ui/CollapsibleSection";
+import { SeminarFormButton } from "./SeminarFormButton";
 
 interface Seminar {
   name: string;
   date: string;
+  time?: string;
   location: string;
   instructor: string;
   url?: string;
   logoUrl?: string;
+  registrationFee?: string;
   description?: string;
 }
 
@@ -39,7 +41,6 @@ function SeminarCard({ seminar, isPast }: { seminar: Seminar; isPast?: boolean }
             <span className="text-2xl">🎓</span>
           )}
         </div>
-
         <div className="flex flex-col flex-1 min-w-0 justify-center">
           <div className="text-sm text-[#A855F7] font-bold uppercase tracking-widest mb-1.5 flex items-center gap-1.5">
             <span className="w-1.5 h-1.5 rounded-full bg-[#A855F7] shadow-[0_0_8px_rgba(168,85,247,0.8)]"></span>
@@ -55,82 +56,100 @@ function SeminarCard({ seminar, isPast }: { seminar: Seminar; isPast?: boolean }
         <div className="flex flex-col gap-2 text-base text-gray-400">
           {seminar.instructor && (
             <div className="flex items-center gap-2.5">
-              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-gray-500"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path><circle cx="12" cy="7" r="4"></circle></svg>
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-gray-500 shrink-0"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path><circle cx="12" cy="7" r="4"></circle></svg>
               <span>{seminar.instructor}</span>
             </div>
           )}
           {seminar.date && (
             <div className="flex items-center gap-2.5">
-              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-gray-500"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg>
-              <span>{formatDate(seminar.date)}</span>
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-gray-500 shrink-0"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg>
+              <span>
+                {formatDate(seminar.date)}
+                {seminar.time ? ` · ${seminar.time}` : ""}
+              </span>
             </div>
           )}
           {seminar.location && (
             <div className="flex items-center gap-2.5">
-              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-gray-500"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-gray-500 shrink-0"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
               <span>{seminar.location}</span>
+            </div>
+          )}
+          {seminar.registrationFee && (
+            <div className="flex items-center gap-2.5">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-gray-500 shrink-0"><line x1="12" y1="1" x2="12" y2="23"></line><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"></path></svg>
+              <span>{seminar.registrationFee}</span>
             </div>
           )}
         </div>
 
+        {seminar.description && (
+          <p className="text-sm text-gray-400 leading-relaxed">{seminar.description}</p>
+        )}
+
         {seminar.url && (
-          <div className="flex flex-wrap gap-3 items-center relative z-10">
-            <a
-              href={seminar.url}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="btn-outline rounded-lg px-4 py-2 text-sm flex-1 text-center font-bold"
-            >
-              VÍCE INFO
-            </a>
-          </div>
+          <a
+            href={seminar.url}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="btn-outline rounded-lg px-4 py-2 text-sm text-center font-bold"
+          >
+            REGISTRACE / VÍCE INFO
+          </a>
         )}
       </div>
     </div>
   );
 }
 
-export default async function SeminarePage() {
-  let futureSeminars: Seminar[] = [];
-  let pastSeminars: Seminar[] = [];
-
+async function getSeminars(): Promise<Seminar[]> {
   try {
-    const dataPath = path.join(process.cwd(), "data", "seminare.json");
-    const raw = await fs.readFile(dataPath, "utf8");
-    const all: Seminar[] = JSON.parse(raw);
-    const now = new Date();
-    futureSeminars = all.filter((s) => new Date(s.date) >= now);
-    pastSeminars = all.filter((s) => new Date(s.date) < now);
-    futureSeminars.sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime());
-    pastSeminars.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+    const filePath = path.join(process.cwd(), "public", "data", "seminare.json");
+    const raw = await fs.readFile(filePath, "utf8");
+    return JSON.parse(raw);
   } catch {
-    // Žádná data ještě nejsou
+    return [];
   }
+}
+
+export default async function SeminarePage() {
+  const seminars = await getSeminars();
+
+  const now = new Date();
+  const future = seminars
+    .filter((s) => new Date(s.date) >= now)
+    .sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime());
+  const past = seminars
+    .filter((s) => new Date(s.date) < now)
+    .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 
   return (
     <div className="mx-auto max-w-7xl px-4 py-10">
-      <h1 className="font-display text-4xl font-black uppercase tracking-tight text-white sm:text-5xl">
-        Semináře
-      </h1>
-      <p className="mt-4 mb-12 text-sm text-gray-400 max-w-2xl leading-relaxed">
-        Přehled plánovaných a proběhlých grapplingových seminářů v České republice.
-      </p>
+      <div className="flex items-start justify-between gap-4 mb-12">
+        <div>
+          <h1 className="font-display text-4xl font-black uppercase tracking-tight text-white sm:text-5xl">
+            Semináře
+          </h1>
+          <p className="mt-4 text-sm text-gray-400 max-w-2xl leading-relaxed">
+            Přehled plánovaných a proběhlých grapplingových seminářů v České republice.
+          </p>
+        </div>
+        <SeminarFormButton />
+      </div>
 
-      {futureSeminars.length > 0 && (
+      {future.length > 0 && (
         <CollapsibleSection
           title="Plánované semináře"
           defaultOpen={true}
           titleIcon={<span className="w-2.5 h-2.5 rounded-full bg-[#A855F7] animate-pulse"></span>}
         >
           <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
-            {futureSeminars.map((seminar, i) => (
-              <SeminarCard key={i} seminar={seminar} />
-            ))}
+            {future.map((s, i) => <SeminarCard key={i} seminar={s} />)}
           </div>
         </CollapsibleSection>
       )}
 
-      {pastSeminars.length > 0 && (
+      {past.length > 0 && (
         <CollapsibleSection
           title="Proběhlé semináře"
           defaultOpen={true}
@@ -141,14 +160,12 @@ export default async function SeminarePage() {
           }
         >
           <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
-            {pastSeminars.map((seminar, i) => (
-              <SeminarCard key={i} seminar={seminar} isPast />
-            ))}
+            {past.map((s, i) => <SeminarCard key={i} seminar={s} isPast />)}
           </div>
         </CollapsibleSection>
       )}
 
-      {futureSeminars.length === 0 && pastSeminars.length === 0 && (
+      {future.length === 0 && past.length === 0 && (
         <div className="glass rounded-2xl py-20 text-center">
           <p className="text-lg text-gray-500">Momentálně nejsou evidovány žádné semináře.</p>
         </div>

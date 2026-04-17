@@ -1,4 +1,4 @@
----
+    ---
 title: "(WATCH) BJJ Instructor Demotes Student From Brown To Blue Belt"
 date: "2026-04-16"
 source: "BJJ Eastern Europe"
