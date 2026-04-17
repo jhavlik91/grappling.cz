@@ -1,4 +1,4 @@
-import type { NormalizedEvent, RankingEntry, Rankings } from "@/types/smoothcomp";
+import type { NormalizedEvent, RankingEntry, Rankings, GenderedRankings } from "@/types/smoothcomp";
 
 const MEDAL_POINTS: Record<number, number> = {
   1: 9, // Gold
@@ -6,118 +6,138 @@ const MEDAL_POINTS: Record<number, number> = {
   3: 1, // Bronze
 };
 
+type GenderBeltMap = Map<string, Map<string, Map<string, RankingEntry>>>;
+
+function makeGenderBeltMap(): GenderBeltMap {
+  const m: GenderBeltMap = new Map();
+  m.set("Male", new Map());
+  m.set("Female", new Map());
+  m.set("Mixed", new Map());
+  return m;
+}
+
+function accumulateCategory(
+  genderBeltMap: GenderBeltMap,
+  gender: string,
+  belt: string,
+  eventSlug: string,
+  athletes: NormalizedEvent["categories"][number]["athletes"]
+) {
+  if (!belt || belt === "Unknown") return;
+  if (gender !== "Male" && gender !== "Female" && gender !== "Mixed") return;
+
+  const genderMap = genderBeltMap.get(gender)!;
+  if (!genderMap.has(belt)) {
+    genderMap.set(belt, new Map());
+  }
+  const athleteMap = genderMap.get(belt)!;
+
+  for (const athlete of athletes) {
+    const key = athlete.name.toLowerCase();
+    const points = MEDAL_POINTS[athlete.placement] ?? 0;
+
+    if (!athleteMap.has(key)) {
+      athleteMap.set(key, {
+        name: athlete.name,
+        country: athlete.country,
+        club: athlete.club,
+        belt,
+        points: 0,
+        gold: 0,
+        silver: 0,
+        bronze: 0,
+        events: [],
+        rank: 0,
+      });
+    }
+
+    const entry = athleteMap.get(key)!;
+    entry.points += points;
+    if (athlete.placement === 1) entry.gold++;
+    if (athlete.placement === 2) entry.silver++;
+    if (athlete.placement === 3) entry.bronze++;
+    if (!entry.events.includes(eventSlug)) entry.events.push(eventSlug);
+    if (athlete.club) entry.club = athlete.club;
+    if (athlete.country) entry.country = athlete.country;
+  }
+}
+
+function sortAndRank(entries: RankingEntry[]): RankingEntry[] {
+  entries.sort((a, b) => {
+    if (b.points !== a.points) return b.points - a.points;
+    if (b.gold !== a.gold) return b.gold - a.gold;
+    if (b.silver !== a.silver) return b.silver - a.silver;
+    if (b.bronze !== a.bronze) return b.bronze - a.bronze;
+    return a.name.localeCompare(b.name);
+  });
+
+  let prevEntry: RankingEntry | null = null;
+  for (let i = 0; i < entries.length; i++) {
+    const entry = entries[i];
+    if (
+      prevEntry &&
+      entry.points === prevEntry.points &&
+      entry.gold === prevEntry.gold &&
+      entry.silver === prevEntry.silver &&
+      entry.bronze === prevEntry.bronze
+    ) {
+      entry.rank = prevEntry.rank;
+    } else {
+      entry.rank = i + 1;
+    }
+    prevEntry = entry;
+  }
+  return entries;
+}
+
+function genderBeltMapToRankings(map: GenderBeltMap): GenderedRankings {
+  const result: GenderedRankings = { Male: {}, Female: {} };
+
+  for (const gender of ["Male", "Female", "Mixed"] as const) {
+    const gMap = map.get(gender);
+    if (!gMap || gMap.size === 0) continue;
+
+    const beltResult: Record<string, RankingEntry[]> = {};
+    for (const [belt, athleteMap] of gMap.entries()) {
+      const entries = Array.from(athleteMap.values());
+      beltResult[belt] = sortAndRank(entries);
+    }
+
+    if (gender === "Mixed") {
+      result.Mixed = beltResult;
+    } else {
+      result[gender] = beltResult;
+    }
+  }
+
+  return result;
+}
+
 /**
  * Build aggregated rankings from a list of normalized events.
- * Groups athletes by belt and sorts by points with tie-breaking logic.
+ * Produces four separate ranking tables: gi/nogi × adults/kids.
  */
 export function buildRankings(events: NormalizedEvent[]): Rankings {
-  // Map: gender -> belt -> athlete name -> ranking entry
-  const giMap = new Map<string, Map<string, Map<string, RankingEntry>>>();
-  const nogiMap = new Map<string, Map<string, Map<string, RankingEntry>>>();
-
-  for (const m of [giMap, nogiMap]) {
-    m.set("Male", new Map());
-    m.set("Female", new Map());
-  }
+  const giAdults = makeGenderBeltMap();
+  const nogiAdults = makeGenderBeltMap();
+  const giKids = makeGenderBeltMap();
+  const nogiKids = makeGenderBeltMap();
 
   for (const event of events) {
     for (const category of event.categories) {
-      const belt = category.belt;
-      const gender = category.gender;
+      const targetMap = category.isKid
+        ? (category.gi ? giKids : nogiKids)
+        : (category.gi ? giAdults : nogiAdults);
 
-      if (!belt || belt === "Unknown") continue;
-      if (gender !== "Male" && gender !== "Female") continue;
-
-      const targetMap = category.gi ? giMap : nogiMap;
-      const genderMap = targetMap.get(gender)!;
-
-      if (!genderMap.has(belt)) {
-        genderMap.set(belt, new Map());
-      }
-      const athleteMap = genderMap.get(belt)!;
-
-      for (const athlete of category.athletes) {
-        const key = athlete.name.toLowerCase();
-        const points = MEDAL_POINTS[athlete.placement] ?? 0;
-
-        if (!athleteMap.has(key)) {
-          athleteMap.set(key, {
-            name: athlete.name,
-            country: athlete.country,
-            club: athlete.club,
-            belt,
-            points: 0,
-            gold: 0,
-            silver: 0,
-            bronze: 0,
-            events: [],
-            rank: 0,
-          });
-        }
-
-        const entry = athleteMap.get(key)!;
-        entry.points += points;
-        if (athlete.placement === 1) entry.gold++;
-        if (athlete.placement === 2) entry.silver++;
-        if (athlete.placement === 3) entry.bronze++;
-        if (!entry.events.includes(event.slug)) {
-          entry.events.push(event.slug);
-        }
-        if (athlete.club) entry.club = athlete.club;
-        if (athlete.country) entry.country = athlete.country;
-      }
+      accumulateCategory(targetMap, category.gender, category.belt, event.slug, category.athletes);
     }
-  }
-
-  function sortGenderMap(map: Map<string, Map<string, Map<string, RankingEntry>>>) {
-    const maleResult: Record<string, RankingEntry[]> = {};
-    const femaleResult: Record<string, RankingEntry[]> = {};
-
-    for (const gender of ["Male", "Female"]) {
-      const gMap = map.get(gender)!;
-      const resultObj = gender === "Male" ? maleResult : femaleResult;
-
-      for (const [belt, athleteMap] of gMap.entries()) {
-        const entries = Array.from(athleteMap.values());
-        entries.sort((a, b) => {
-          if (b.points !== a.points) return b.points - a.points;
-          if (b.gold !== a.gold) return b.gold - a.gold;
-          if (b.silver !== a.silver) return b.silver - a.silver;
-          if (b.bronze !== a.bronze) return b.bronze - a.bronze;
-          return a.name.localeCompare(b.name);
-        });
-
-        // Calculate ranks considering ties
-        let prevEntry: RankingEntry | null = null;
-        for (let i = 0; i < entries.length; i++) {
-          const entry = entries[i];
-          if (
-            prevEntry &&
-            entry.points === prevEntry.points &&
-            entry.gold === prevEntry.gold &&
-            entry.silver === prevEntry.silver &&
-            entry.bronze === prevEntry.bronze
-          ) {
-            entry.rank = prevEntry.rank;
-          } else {
-            entry.rank = i + 1;
-          }
-          prevEntry = entry;
-        }
-
-        resultObj[belt] = entries;
-      }
-    }
-
-    return {
-      Male: maleResult,
-      Female: femaleResult
-    };
   }
 
   return {
     updatedAt: new Date().toISOString(),
-    gi: sortGenderMap(giMap),
-    nogi: sortGenderMap(nogiMap),
+    gi: genderBeltMapToRankings(giAdults),
+    nogi: genderBeltMapToRankings(nogiAdults),
+    gi_kids: genderBeltMapToRankings(giKids),
+    nogi_kids: genderBeltMapToRankings(nogiKids),
   };
 }

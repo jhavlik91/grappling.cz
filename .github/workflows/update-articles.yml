@@ -1,0 +1,66 @@
+name: Update Articles
+
+on:
+  schedule:
+    - cron: "0 5 * * *" # 7:00 CEST
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - run: npm ci
+
+      - name: Install bjj-scraper dependencies
+        run: npm ci
+        working-directory: bjj-scraper
+
+      - name: Install Playwright Chromium
+        run: npx playwright install chromium --with-deps
+        working-directory: bjj-scraper
+
+      - name: Run scraper
+        run: npm run scrape
+        working-directory: bjj-scraper
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: gpt-4o-mini
+          DAYS_BACK: 1
+
+      - name: Copy articles to content
+        run: |
+          if ls bjj-scraper/popelina/markdown/*.md 2>/dev/null; then
+            cp bjj-scraper/popelina/markdown/*.md content/articles/
+          fi
+
+      - name: Commit
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add content/articles/
+          git add bjj-scraper/popelina/
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "chore: add new articles [skip ci]"
+            git push
+          else
+            echo "No new articles."
+          fi
+
+      - name: Build
+        run: npm run build
+
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy out --project-name=grappling-cz

@@ -1,0 +1,14 @@
+---
+title: "Islam Makhachev Reveals He Was Robbed During Trip To Italy: “Nice Robbers…”"
+date: "2026-04-16"
+source: "BJJ Eastern Europe"
+original_url: "https://www.bjjee.com/bjj-news/islam-makhachev-reveals-he-was-robbed-during-trip-to-italy-nice-robbers/"
+excerpt: "Islam Makhachev Reveals He Was Robbed During Trip To Italy: “Nice Robbers…” APR 14, 2026BJJEE1 AdminArticles, BJJ News Islam Makhachev has revealed that he was "
+type: "zahranuci"
+image: "https://www.bjjee.com/wp-content/uploads/2026/04/Islam-Makhachev-and-robber.jpg"
+author: "BJJEE1 Admin"
+---
+
+# Islam Makhachev Reveals He Was Robbed During Trip To Italy: “Nice Robbers…”
+
+Islam Makhachev Reveals He Was Robbed During Trip To Italy: “Nice Robbers…” APR 14, 2026BJJEE1 AdminArticles, BJJ News Islam Makhachev has revealed that he was the victim of a robbery while traveling through Italy. The reigning UFC champion, widely regarded as one of the most dominant fighters in the world and the successor to Khabib Nurmagomedov, shared details of the situation, explaining that thieves targeted his belongings while he was on the move: I was driving smoothly to Italy but now I don’t like Italy. I’ll tell you how I got robbed here… All that’s left is this wallet and my passport. The nice robbers returned my passport. Despite the theft, some of his most important personal items were left untouched, including his identification and religious belongings: The praying mat was left as well. Nothing else is needed. However, not everything was spared. Among the items taken was a particularly meaningful possession: The most valuable thing in the suitcase was the football shoes, given to me by [Khvicha Kvaratskhelia] after the last game. Thieves, if football isn’t your thing, I’ll take the shoes back. Those boots had been gifted to Makhachev by Khvicha Kvaratskhelia following a Paris Saint-Germain match. Fortunately, the situation did not escalate into any direct confrontation, and Makhachev remained calm when addressing fans: But it’s all normal. Don’t panic. Sloth Jiu-Jitsu: The Ultimate Guide for Calmly Beating Bigger, Younger Opponents 💥 What if slowing down was the fastest way to win? 💭 Tired of Getting Smashed by Younger, Stronger Grapplers? It’s not your age. It’s your strategy. If you’re a passionate grappler over 35 who’s sick of getting outpaced, outmuscled, or out-cardio’d by opponents half your age — this 120 page e-book was made for you. 🔓 Unlock the Power of Sloth Jiu-Jitsu: Build Sustainable Strength—Without Wrecking Your Joints, Energy, or Jiu-Jitsu Tired of waking up sore and burnt out after lifting? Sloth Strength is a proven blueprint for grapplers over 35 who want to get stronger—without the pain, burnout, or injuries. Developed from 25 years on the mats, this no-burnout approach is made specifically for BJJ athletes in their 30s, 40s, and beyond. controversy crime Islam Makhachev mixed martial arts mma robbery ufc

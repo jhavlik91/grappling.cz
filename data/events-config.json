@@ -38,5 +38,45 @@
     "country": "CZ",
     "enabled": true,
     "baseUrl": "https://tatamybjj.smoothcomp.com"
+  },
+  {
+    "eventId": 30166,
+    "slug": "event-30166",
+    "name": "CFS 13 CZECH CHAMPIONSHIP ČSAKJ 2026",
+    "country": "CZ",
+    "enabled": true,
+    "baseUrl": "https://smoothcomp.com"
+  },
+  {
+    "eventId": 31007,
+    "slug": "event-31007",
+    "name": "Pardubice Grappling Open vol.6",
+    "country": "CZ",
+    "enabled": true,
+    "baseUrl": "https://smoothcomp.com"
+  },
+  {
+    "eventId": 28099,
+    "slug": "event-28099",
+    "name": "GRIND 12 Kids (NO-GI & GI ROUND ROBIN)",
+    "country": "CZ",
+    "enabled": true,
+    "baseUrl": "https://smoothcomp.com"
+  },
+  {
+    "eventId": 30102,
+    "slug": "event-30102",
+    "name": "TATAMY 20: PRAGUE - KIDS (round robin)",
+    "country": "CZ",
+    "enabled": true,
+    "baseUrl": "https://tatamybjj.smoothcomp.com"
+  },
+  {
+    "eventId": 28046,
+    "slug": "event-28046",
+    "name": "TATAMY 19: Czech Open Championship (kids)",
+    "country": "CZ",
+    "enabled": true,
+    "baseUrl": "https://tatamybjj.smoothcomp.com"
   }
 ]

@@ -1,7 +1,7 @@
 {
   "slug": "event-28045",
   "name": "Tatamy Event 28045",
-  "date": "2026-04-10",
+  "date": "2026-04-17",
   "country": "CZ",
   "categories": [
     {
@@ -11,6 +11,7 @@
       "ageGroup": "Adult",
       "belt": "Beginner",
       "weight": "-65 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Abdullah Dudaev",
@@ -42,6 +43,7 @@
       "ageGroup": "Adult",
       "belt": "Beginner",
       "weight": "-70 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Jan Matějka",
@@ -73,6 +75,7 @@
       "ageGroup": "Adult",
       "belt": "Beginner",
       "weight": "-77 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Jakub Kopaničák",
@@ -104,6 +107,7 @@
       "ageGroup": "Adult",
       "belt": "Beginner",
       "weight": "-83 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Jakub Hrubý",
@@ -135,6 +139,7 @@
       "ageGroup": "Adult",
       "belt": "Beginner",
       "weight": "-91 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Martin Brázda",
@@ -166,6 +171,7 @@
       "ageGroup": "Adult",
       "belt": "Beginner",
       "weight": "-100 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Vladyslav Bedrych",
@@ -196,7 +202,8 @@
       "gender": "Male",
       "ageGroup": "Adult",
       "belt": "Beginner",
-      "weight": "100 kg",
+      "weight": "+100 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "David Hegyi",
@@ -225,9 +232,10 @@
       "name": "Adult / No Gi / Male / Beginner / Masters 35+ / -77 kg",
       "gi": false,
       "gender": "Male",
-      "ageGroup": "Master",
+      "ageGroup": "Master 35+",
       "belt": "Beginner",
       "weight": "-77 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Vitalij Motrja",
@@ -249,9 +257,10 @@
       "name": "Adult / No Gi / Male / Beginner / Masters 35+ / -91 kg",
       "gi": false,
       "gender": "Male",
-      "ageGroup": "Master",
+      "ageGroup": "Master 35+",
       "belt": "Beginner",
       "weight": "-91 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Csaba László",
@@ -280,9 +289,10 @@
       "name": "Adult / No Gi / Male / Beginner / Masters 40+ / -77 kg",
       "gi": false,
       "gender": "Male",
-      "ageGroup": "Master",
+      "ageGroup": "Master 40+",
       "belt": "Beginner",
       "weight": "-77 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Michal Kvinta",
@@ -314,6 +324,7 @@
       "ageGroup": "Adult",
       "belt": "Advanced",
       "weight": "-65 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Richard Grégr",
@@ -345,6 +356,7 @@
       "ageGroup": "Adult",
       "belt": "Advanced",
       "weight": "-70 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Rostislav Málek",
@@ -376,6 +388,7 @@
       "ageGroup": "Adult",
       "belt": "Advanced",
       "weight": "-77 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Martin Drábek",
@@ -407,6 +420,7 @@
       "ageGroup": "Adult",
       "belt": "Advanced",
       "weight": "-83 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Filip Svoboda",
@@ -438,6 +452,7 @@
       "ageGroup": "Adult",
       "belt": "Advanced",
       "weight": "-91 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Erik Charles KORNUTA",
@@ -468,7 +483,8 @@
       "gender": "Male",
       "ageGroup": "Adult",
       "belt": "Advanced",
-      "weight": "100 kg",
+      "weight": "+100 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Mateusz Możejko",
@@ -493,6 +509,7 @@
       "ageGroup": "Adult",
       "belt": "Elite",
       "weight": "-65 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Ondřej Bortel",
@@ -524,6 +541,7 @@
       "ageGroup": "Adult",
       "belt": "Elite",
       "weight": "-70 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Jakub Zacpal",
@@ -555,6 +573,7 @@
       "ageGroup": "Adult",
       "belt": "Elite",
       "weight": "-77 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Petr Mynář",
@@ -586,6 +605,7 @@
       "ageGroup": "Adult",
       "belt": "Elite",
       "weight": "-83 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Jan Stach",
@@ -617,6 +637,7 @@
       "ageGroup": "Adult",
       "belt": "Elite",
       "weight": "-91 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Michał Szydłowski",
@@ -648,6 +669,7 @@
       "ageGroup": "Adult",
       "belt": "Elite",
       "weight": "-100 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Samuel Karas",
@@ -678,7 +700,8 @@
       "gender": "Male",
       "ageGroup": "Adult",
       "belt": "Elite",
-      "weight": "100 kg",
+      "weight": "+100 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Anton Orlov",
@@ -707,9 +730,10 @@
       "name": "Adult / No Gi / Male / Professional / Masters 40+ / -83 kg",
       "gi": false,
       "gender": "Male",
-      "ageGroup": "Master",
+      "ageGroup": "Master 40+",
       "belt": "Elite",
       "weight": "-83 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Petr Dohnal",
@@ -741,6 +765,7 @@
       "ageGroup": "Adult",
       "belt": "Beginner",
       "weight": "-60 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Vendula Mikundová",
@@ -772,6 +797,7 @@
       "ageGroup": "Adult",
       "belt": "Beginner",
       "weight": "-70 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Ella Glattová",
@@ -803,6 +829,7 @@
       "ageGroup": "Adult",
       "belt": "Advanced",
       "weight": "-60 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Natalie Reisenauer",
@@ -834,6 +861,7 @@
       "ageGroup": "Adult",
       "belt": "Advanced",
       "weight": "-65 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Jana Marie Muchová",
@@ -865,6 +893,7 @@
       "ageGroup": "Adult",
       "belt": "Elite",
       "weight": "-55 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Sára Štěpánová",
@@ -896,6 +925,7 @@
       "ageGroup": "Adult",
       "belt": "Elite",
       "weight": "-70 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Linda Stachová",
@@ -920,6 +950,7 @@
       "ageGroup": "Adult",
       "belt": "White",
       "weight": "-70 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Jan Škarpa",
@@ -951,6 +982,7 @@
       "ageGroup": "Adult",
       "belt": "White",
       "weight": "-77 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Matúš Kováč",
@@ -982,6 +1014,7 @@
       "ageGroup": "Adult",
       "belt": "White",
       "weight": "-83 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Damir Fijuljanin",
@@ -1013,6 +1046,7 @@
       "ageGroup": "Adult",
       "belt": "White",
       "weight": "-91 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Matus Kubovic",
@@ -1044,6 +1078,7 @@
       "ageGroup": "Adult",
       "belt": "White",
       "weight": "-100 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Dominik Ďurák",
@@ -1074,7 +1109,8 @@
       "gender": "Male",
       "ageGroup": "Adult",
       "belt": "White",
-      "weight": "100 kg",
+      "weight": "+100 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "David Hegyi",
@@ -1103,9 +1139,10 @@
       "name": "Adult / Gi / Male / White belt / Masters 35+ / -91 kg",
       "gi": true,
       "gender": "Male",
-      "ageGroup": "Master",
+      "ageGroup": "Master 35+",
       "belt": "White",
       "weight": "-91 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Petr Veselý",
@@ -1134,9 +1171,10 @@
       "name": "Adult / Gi / Male / White belt / Masters 40+ / -77 kg",
       "gi": true,
       "gender": "Male",
-      "ageGroup": "Master",
+      "ageGroup": "Master 40+",
       "belt": "White",
       "weight": "-77 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Oleksii Riabushkin",
@@ -1165,9 +1203,10 @@
       "name": "Adult / Gi / Male / White belt / Masters 40+ / -100 kg",
       "gi": true,
       "gender": "Male",
-      "ageGroup": "Master",
+      "ageGroup": "Master 40+",
       "belt": "White",
       "weight": "-100 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Ivan Kroslak",
@@ -1199,6 +1238,7 @@
       "ageGroup": "Adult",
       "belt": "Blue",
       "weight": "-65 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Jakub Němec",
@@ -1230,6 +1270,7 @@
       "ageGroup": "Adult",
       "belt": "Blue",
       "weight": "-70 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Daniel Peša",
@@ -1261,6 +1302,7 @@
       "ageGroup": "Adult",
       "belt": "Blue",
       "weight": "-77 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Aleksander Woczka",
@@ -1292,6 +1334,7 @@
       "ageGroup": "Adult",
       "belt": "Blue",
       "weight": "-83 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Václav Foler",
@@ -1323,6 +1366,7 @@
       "ageGroup": "Adult",
       "belt": "Blue",
       "weight": "-91 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Michael Hrdý",
@@ -1354,6 +1398,7 @@
       "ageGroup": "Adult",
       "belt": "Blue",
       "weight": "-100 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Nuri Temirov",
@@ -1384,7 +1429,8 @@
       "gender": "Male",
       "ageGroup": "Adult",
       "belt": "Blue",
-      "weight": "100 kg",
+      "weight": "+100 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Mykhailo Dobrovolskyi",
@@ -1413,9 +1459,10 @@
       "name": "Adult / Gi / Male / Blue belt / Masters 35+ / -77 kg",
       "gi": true,
       "gender": "Male",
-      "ageGroup": "Master",
+      "ageGroup": "Master 35+",
       "belt": "Blue",
       "weight": "-77 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Radim Vech",
@@ -1444,9 +1491,10 @@
       "name": "Adult / Gi / Male / Blue belt / Masters 35+ / -100 kg",
       "gi": true,
       "gender": "Male",
-      "ageGroup": "Master",
+      "ageGroup": "Master 35+",
       "belt": "Blue",
       "weight": "-100 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Mikhail Bondarevych",
@@ -1475,9 +1523,10 @@
       "name": "Adult / Gi / Male / Blue belt / Masters 40+ / -91 kg",
       "gi": true,
       "gender": "Male",
-      "ageGroup": "Master",
+      "ageGroup": "Master 40+",
       "belt": "Blue",
       "weight": "-91 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Jan Kodada",
@@ -1509,6 +1558,7 @@
       "ageGroup": "Adult",
       "belt": "Purple / Brown / Black",
       "weight": "-70 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Filip Hrnčíř",
@@ -1540,6 +1590,7 @@
       "ageGroup": "Adult",
       "belt": "Purple / Brown / Black",
       "weight": "-77 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Matej Mlynček",
@@ -1571,6 +1622,7 @@
       "ageGroup": "Adult",
       "belt": "Purple / Brown / Black",
       "weight": "-91 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Kacper Zawadziński",
@@ -1601,7 +1653,8 @@
       "gender": "Male",
       "ageGroup": "Adult",
       "belt": "Purple / Brown / Black",
-      "weight": "100 kg",
+      "weight": "+100 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Petr Holouš",
@@ -1623,9 +1676,10 @@
       "name": "Adult / Gi / Male / Purple/brown/black belt / Masters 35+ / -100 kg",
       "gi": true,
       "gender": "Male",
-      "ageGroup": "Master",
+      "ageGroup": "Master 35+",
       "belt": "Purple / Brown / Black",
       "weight": "-100 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Michal Kukumberg",
@@ -1654,9 +1708,10 @@
       "name": "Adult / Gi / Male / Purple/brown/black belt / Masters 35+ / +100 kg",
       "gi": true,
       "gender": "Male",
-      "ageGroup": "Master",
+      "ageGroup": "Master 35+",
       "belt": "Purple / Brown / Black",
-      "weight": "100 kg",
+      "weight": "+100 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Ivo Ivan",
@@ -1678,9 +1733,10 @@
       "name": "Adult / Gi / Male / Purple/brown/black belt / Masters 40+ / -100 kg",
       "gi": true,
       "gender": "Male",
-      "ageGroup": "Master",
+      "ageGroup": "Master 40+",
       "belt": "Purple / Brown / Black",
       "weight": "-100 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Aleš Pícha",
@@ -1712,6 +1768,7 @@
       "ageGroup": "Adult",
       "belt": "White",
       "weight": "-55 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Kristýna Honsová",
@@ -1743,6 +1800,7 @@
       "ageGroup": "Adult",
       "belt": "White",
       "weight": "-60 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Kristýna Burešová",
@@ -1774,6 +1832,7 @@
       "ageGroup": "Adult",
       "belt": "White",
       "weight": "-65 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Michaela Nevrlá",
@@ -1804,7 +1863,8 @@
       "gender": "Female",
       "ageGroup": "Adult",
       "belt": "White",
-      "weight": "70kg",
+      "weight": "+70kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Lucia Klincová",
@@ -1836,6 +1896,7 @@
       "ageGroup": "Adult",
       "belt": "Blue",
       "weight": "-60 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Karolina Jandová",
@@ -1867,6 +1928,7 @@
       "ageGroup": "Adult",
       "belt": "Blue",
       "weight": "-65 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Vendula Tichá",
@@ -1898,6 +1960,7 @@
       "ageGroup": "Adult",
       "belt": "Blue",
       "weight": "-70 kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Kristýna Jurásková",
@@ -1921,7 +1984,8 @@
       "gender": "Female",
       "ageGroup": "Adult",
       "belt": "Purple / Brown / Black",
-      "weight": "70kg",
+      "weight": "+70kg",
+      "isKid": false,
       "athletes": [
         {
           "name": "Sarah Volkmann",
@@ -1953,6 +2017,7 @@
       "ageGroup": "Unknown",
       "belt": "Unknown",
       "weight": "Unknown",
+      "isKid": false,
       "athletes": [
         {
           "name": "Samuel Karas",
@@ -1984,6 +2049,7 @@
       "ageGroup": "Unknown",
       "belt": "Unknown",
       "weight": "Unknown",
+      "isKid": false,
       "athletes": [
         {
           "name": "KLAUDIA MITKO",
@@ -2008,6 +2074,7 @@
       "ageGroup": "Unknown",
       "belt": "Unknown",
       "weight": "Unknown",
+      "isKid": false,
       "athletes": [
         {
           "name": "Nuri Temirov",
@@ -2039,6 +2106,7 @@
       "ageGroup": "Unknown",
       "belt": "Unknown",
       "weight": "Unknown",
+      "isKid": false,
       "athletes": [
         {
           "name": "KLAUDIA MITKO",

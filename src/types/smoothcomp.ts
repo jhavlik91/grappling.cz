@@ -67,6 +67,7 @@ export type NormalizedCategory = {
   ageGroup: string;
   belt: string;
   weight: string;
+  isKid: boolean;
   athletes: NormalizedAthlete[];
 };
 
@@ -94,10 +95,13 @@ export type RankingEntry = {
 export type GenderedRankings = {
   Male: Record<string, RankingEntry[]>;
   Female: Record<string, RankingEntry[]>;
+  Mixed?: Record<string, RankingEntry[]>;
 };
 
 export type Rankings = {
   updatedAt: string;
   gi: GenderedRankings;
   nogi: GenderedRankings;
+  gi_kids: GenderedRankings;
+  nogi_kids: GenderedRankings;
 };
