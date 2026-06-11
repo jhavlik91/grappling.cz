@@ -1,6 +1,6 @@
 # BJJ Daily Scraper
 
-Jednoduchý "dělňas" projekt v TypeScriptu pro automatizované každodenní stahování BJJ a grappling článků ze zahraničních zdrojů, jejich překlad a strukturování pomocí OpenAI API a uložení do vnitřní filesystémové storage s názvem **Popelína**.
+Jednoduchý "dělňas" projekt v TypeScriptu pro automatizované každodenní stahování BJJ a grappling článků ze zahraničních zdrojů, jejich překlad a strukturování pomocí **Gemini API** (model `gemini-2.5-flash-lite`) a uložení do vnitřní filesystémové storage s názvem **Popelína**.
 
 ## Předpoklady
 - Node.js (v20+)
@@ -18,7 +18,7 @@ Jednoduchý "dělňas" projekt v TypeScriptu pro automatizované každodenní st
    \`\`\`bash
    cp .env.example .env
    \`\`\`
-   Doplňte především \`OPENAI_API_KEY\`.
+   Doplňte především \`GEMINI_API_KEY\` (klíč získáte zdarma v [Google AI Studio](https://aistudio.google.com/apikey)). Model lze přepnout přes \`GEMINI_MODEL\` (výchozí \`gemini-2.5-flash-lite\` na free-tier).
 
 ## Popelína struktura
 

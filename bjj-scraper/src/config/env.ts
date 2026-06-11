@@ -5,8 +5,8 @@ import path from 'path';
 dotenv.config();
 
 const envSchema = z.object({
-  OPENAI_API_KEY: z.string().default(''),
-  OPENAI_MODEL: z.string().default('gpt-4o-mini'),
+  GEMINI_API_KEY: z.string().default(''),
+  GEMINI_MODEL: z.string().default('gemini-2.5-flash-lite'),
   SCRAPE_SCHEDULE: z.string().default('0 6 * * *'),
   HEADLESS: z.enum(['true', 'false']).default('true'),
   POPELINA_DIR: z.string().default('./popelina'),

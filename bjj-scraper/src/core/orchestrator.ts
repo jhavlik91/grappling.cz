@@ -3,7 +3,7 @@ import { config } from '../config/env';
 import { logger } from '../utils/logger';
 import { generateHash } from '../utils/hash';
 import { Popelina } from '../storage/popelina';
-import { processArticleWithAI } from '../openai/client';
+import { processArticleWithAI } from '../gemini/client';
 
 const sleep = (ms: number) => new Promise(resolve => setTimeout(resolve, ms));
 const MAX_CANDIDATES = config.MAX_CANDIDATES;
@@ -122,13 +122,13 @@ export async function runScrapingJob(sourceFilter?: string) {
           const rawPath = await popelina.saveRaw(rawArticle, contentHash);
           logger.info(`Saved raw to ${rawPath}`);
 
-          if (!config.OPENAI_API_KEY) {
-            logger.info('Skipping OpenAI transformation (OPENAI_API_KEY is not set). Article saved as raw only.');
+          if (!config.GEMINI_API_KEY) {
+            logger.info('Skipping Gemini transformation (GEMINI_API_KEY is not set). Article saved as raw only.');
             stats.new++;
             continue;
           }
 
-          logger.info('Calling OpenAI API...');
+          logger.info('Calling Gemini API...');
           const processed = await processArticleWithAI(
             scraper.sourceName,
             rawArticle.url,
