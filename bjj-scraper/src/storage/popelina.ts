@@ -1,8 +1,8 @@
 import fs from 'fs/promises';
 import path from 'path';
-import { RawArticle, ProcessedArticle, ProcessedRecord, PopelinaRegistryEntry } from '../types/article';
-import { config } from '../config/env';
-import { logger } from '../utils/logger';
+import { RawArticle, ProcessedArticle, ProcessedRecord, PopelinaRegistryEntry } from '../types/article.js';
+import { config } from '../config/env.js';
+import { logger } from '../utils/logger.js';
 
 export class Popelina {
   private baseDir: string;

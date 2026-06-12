@@ -1,6 +1,6 @@
 import { chromium } from 'playwright';
-import { bjjeeScraper } from './scrapers/bjjee.scraper';
-import { jitsmagazineScraper } from './scrapers/jitsmagazine.scraper';
+import { bjjeeScraper } from './scrapers/bjjee.scraper.js';
+import { jitsmagazineScraper } from './scrapers/jitsmagazine.scraper.js';
 
 async function test() {
   const browser = await chromium.launch({ headless: true });

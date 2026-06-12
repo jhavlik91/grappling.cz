@@ -11,9 +11,11 @@
 
 import fs from 'fs/promises';
 import path from 'path';
-import { ProcessedRecord } from './types/article';
-import { config } from './config/env';
+import { fileURLToPath } from 'url';
+import { ProcessedRecord } from './types/article.js';
+import { config } from './config/env.js';
 
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const PROCESSED_DIR = path.join(config.POPELINA_DIR, 'processed');
 const OUT_DIR = path.join(__dirname, '..', '..', 'content', 'articles');
 

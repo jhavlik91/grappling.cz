@@ -1,5 +1,5 @@
 import { Page } from 'playwright';
-import { RawArticle } from '../types/article';
+import { RawArticle } from '../types/article.js';
 
 export interface ArticleCandidate {
   url: string;

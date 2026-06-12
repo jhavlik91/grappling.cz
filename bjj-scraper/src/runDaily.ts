@@ -1,4 +1,4 @@
-import { runScrapingJob } from './core/orchestrator';
+import { runScrapingJob } from './core/orchestrator.js';
 
 async function main() {
   const arg = process.argv[2];

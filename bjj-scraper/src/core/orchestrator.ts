@@ -1,9 +1,9 @@
 import { chromium, Browser, BrowserContext } from 'playwright';
-import { config } from '../config/env';
-import { logger } from '../utils/logger';
-import { generateHash } from '../utils/hash';
-import { Popelina } from '../storage/popelina';
-import { processArticleWithAI } from '../gemini/client';
+import { config } from '../config/env.js';
+import { logger } from '../utils/logger.js';
+import { generateHash } from '../utils/hash.js';
+import { Popelina } from '../storage/popelina.js';
+import { processArticleWithAI } from '../gemini/client.js';
 
 const sleep = (ms: number) => new Promise(resolve => setTimeout(resolve, ms));
 const MAX_CANDIDATES = config.MAX_CANDIDATES;
@@ -15,11 +15,11 @@ function parseArticleDate(dateStr: string | null): Date | null {
   return isNaN(d.getTime()) ? null : d;
 }
 
-import { flograpplingScraper } from '../scrapers/flograppling.scraper';
-import { jitsmagazineScraper } from '../scrapers/jitsmagazine.scraper';
-import { grapplinginsiderScraper } from '../scrapers/grapplinginsider.scraper';
-import { bjjeeScraper } from '../scrapers/bjjee.scraper';
-import { bjjheroesScraper } from '../scrapers/bjjheroes.scraper';
+import { flograpplingScraper } from '../scrapers/flograppling.scraper.js';
+import { jitsmagazineScraper } from '../scrapers/jitsmagazine.scraper.js';
+import { grapplinginsiderScraper } from '../scrapers/grapplinginsider.scraper.js';
+import { bjjeeScraper } from '../scrapers/bjjee.scraper.js';
+import { bjjheroesScraper } from '../scrapers/bjjheroes.scraper.js';
 
 const SCRAPERS = [
   flograpplingScraper,
@@ -59,7 +59,7 @@ export async function runScrapingJob(sourceFilter?: string) {
       }
       logger.info(`Running scraper for ${scraper.sourceName}`);
       let page = await context.newPage();
-      let candidates: import('../scrapers/base.types').ArticleCandidate[] = [];
+      let candidates: import('../scrapers/base.types.js').ArticleCandidate[] = [];
 
       try {
         candidates = await scraper.getArticleUrls(page);

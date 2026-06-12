@@ -2,13 +2,15 @@
  * importRaw.ts — převede raw JSON soubory z popelina/raw/ do content/articles/
  * bez AI překladu. Použij pro rychlé naplnění webu obsahem.
  *
- * Spuštění: npx ts-node src/importRaw.ts
+ * Spuštění: npm run import-raw
  */
 
 import fs from 'fs/promises';
 import path from 'path';
-import { RawArticle } from './types/article';
+import { fileURLToPath } from 'url';
+import { RawArticle } from './types/article.js';
 
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const RAW_DIR = path.join(__dirname, '..', 'popelina', 'raw');
 const OUT_DIR = path.join(__dirname, '..', '..', 'content', 'articles');
 

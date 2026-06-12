@@ -5,15 +5,15 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "ts-node src/index.ts",
-    "scrape": "ts-node src/runDaily.ts",
-    "import-raw": "ts-node src/importRaw.ts",
-    "publish": "ts-node src/publish.ts"
+    "start": "tsx src/index.ts",
+    "scrape": "tsx src/runDaily.ts",
+    "import-raw": "tsx src/importRaw.ts",
+    "publish": "tsx src/publish.ts"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "dependencies": {
     "@google/genai": "^2.8.0",
     "dotenv": "^17.4.1",
@@ -24,7 +24,7 @@
   "devDependencies": {
     "@types/node": "^25.6.0",
     "@types/node-cron": "^3.0.11",
-    "ts-node": "^10.9.2",
+    "tsx": "^4.21.0",
     "typescript": "^6.0.2"
   }
 }
