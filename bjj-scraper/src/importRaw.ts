@@ -1,6 +1,6 @@
 /**
  * importRaw.ts — převede raw JSON soubory z popelina/raw/ do content/articles/
- * bez OpenAI. Použij pro rychlé naplnění webu obsahem.
+ * bez AI překladu. Použij pro rychlé naplnění webu obsahem.
  *
  * Spuštění: npx ts-node src/importRaw.ts
  */
