@@ -7,11 +7,32 @@ export function InlineMediaBlock({
   url: string;
   caption?: string;
 }) {
+  const hasUrl = Boolean(url);
+
   return (
     <figure className="my-10">
       {type === "image" ? (
-        <div className="aspect-video rounded-lg bg-gradient-to-br from-gray-800 via-gray-900 to-gray-800 flex items-center justify-center overflow-hidden">
-          <span className="text-3xl text-gray-700">📷</span>
+        hasUrl ? (
+          // eslint-disable-next-line @next/next/no-img-element
+          <img
+            src={url}
+            alt={caption ?? ""}
+            className="aspect-video w-full rounded-lg object-cover"
+          />
+        ) : (
+          <div className="aspect-video rounded-lg bg-gradient-to-br from-gray-800 via-gray-900 to-gray-800 flex items-center justify-center overflow-hidden">
+            <span className="text-3xl text-gray-700">📷</span>
+          </div>
+        )
+      ) : hasUrl ? (
+        <div className="aspect-video overflow-hidden rounded-lg">
+          <iframe
+            src={url}
+            title={caption ?? "Video"}
+            className="h-full w-full"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowFullScreen
+          />
         </div>
       ) : (
         <div className="aspect-video rounded-lg bg-gradient-to-br from-gray-800 via-gray-900 to-gray-800 flex items-center justify-center overflow-hidden">

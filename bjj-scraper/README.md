@@ -48,6 +48,18 @@ Projekt má dva hlavní entrypointy:
    npm run scrape -- flograppling
    \`\`\`
 
+## Publikace na web
+
+Scrape uloží přeložené články do `popelina/processed/`. Publikační krok je přenese do `../content/articles/*.md` ve formátu, který renderuje web (frontmatter `title`, `date`, `source`, `original_url`, `excerpt`, `type`, `image`, `author`):
+
+```bash
+npm run publish
+```
+
+Krok je idempotentní (už existující slugy přeskakuje). Markdown nadpisy (`##`) a token `[VIDEO:url]` v těle se na webu vykreslí jako nadpis / vložené video.
+
+> Pozn.: `npm run import-raw` dělá totéž ze syrových (nepřeložených) dat v `popelina/raw/` — slouží jen pro rychlé naplnění webu bez Gemini.
+
 ## Podporované zdroje
 
 Scraper momentálně podporuje:

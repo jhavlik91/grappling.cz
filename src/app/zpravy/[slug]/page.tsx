@@ -11,6 +11,47 @@ import { SidebarAd } from "@/components/ads/SidebarAd";
 import { trendingArticles } from "@/lib/mockData";
 import type { ArticleDetail, ArticleBodyBlock } from "@/types/content";
 
+const VIDEO_TOKEN = /\[VIDEO:([^\]]+)\]/g;
+
+/**
+ * Parse a markdown article body into renderable blocks. Recognises markdown
+ * headings (#…######) and the [VIDEO:url] embed token emitted by the scraper's
+ * AI step; everything else becomes a paragraph.
+ */
+function parseArticleBody(content: string): ArticleBodyBlock[] {
+  const blocks: ArticleBodyBlock[] = [];
+
+  for (const chunk of content.split("\n\n")) {
+    const text = chunk.trim();
+    if (!text) continue;
+
+    const heading = text.match(/^#{1,6}\s+(.*)$/);
+    if (heading) {
+      blocks.push({ type: "heading", text: heading[1].trim() });
+      continue;
+    }
+
+    if (text.includes("[VIDEO:")) {
+      let last = 0;
+      let m: RegExpExecArray | null;
+      VIDEO_TOKEN.lastIndex = 0;
+      while ((m = VIDEO_TOKEN.exec(text)) !== null) {
+        const before = text.slice(last, m.index).trim();
+        if (before) blocks.push({ type: "paragraph", text: before });
+        blocks.push({ type: "video", embedUrl: m[1].trim() });
+        last = m.index + m[0].length;
+      }
+      const after = text.slice(last).trim();
+      if (after) blocks.push({ type: "paragraph", text: after });
+      continue;
+    }
+
+    blocks.push({ type: "paragraph", text });
+  }
+
+  return blocks;
+}
+
 // For static export: pre-generate known slugs
 export async function generateStaticParams() {
   try {
@@ -47,10 +88,7 @@ export default async function ArticleDetailPage({
     const raw = await fs.readFile(filePath, "utf8");
     const parsed = matter(raw);
 
-    const body: ArticleBodyBlock[] = parsed.content
-      .split("\n\n")
-      .filter(p => p.trim().length > 0)
-      .map(text => ({ type: "paragraph", text: text.trim() }));
+    const body: ArticleBodyBlock[] = parseArticleBody(parsed.content);
 
     article = {
       slug,

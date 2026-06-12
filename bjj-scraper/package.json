@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "ts-node src/index.ts",
     "scrape": "ts-node src/runDaily.ts",
-    "import-raw": "ts-node src/importRaw.ts"
+    "import-raw": "ts-node src/importRaw.ts",
+    "publish": "ts-node src/publish.ts"
   },
   "keywords": [],
   "author": "",

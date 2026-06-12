@@ -1,6 +1,6 @@
 import fs from 'fs/promises';
 import path from 'path';
-import { RawArticle, ProcessedArticle, PopelinaRegistryEntry } from '../types/article';
+import { RawArticle, ProcessedArticle, ProcessedRecord, PopelinaRegistryEntry } from '../types/article';
 import { config } from '../config/env';
 import { logger } from '../utils/logger';
 
@@ -69,15 +69,24 @@ export class Popelina {
   async saveProcessed(rawArticle: RawArticle, processedArticle: ProcessedArticle, contentHash: string, sourceName: string) {
     const today = new Date().toISOString().split('T')[0];
     const filenameBase = `${today}-${processedArticle.slug}`;
+    const dateStr = rawArticle.date || today;
+    const authorStr = rawArticle.author ? ` (Author: ${rawArticle.author})` : '';
 
-    // 1. Save JSON
+    // 1. Save JSON — enriched with publishing metadata so the publish step
+    // (src/publish.ts) is self-contained and doesn't need the raw article.
+    const record: ProcessedRecord = {
+      ...processedArticle,
+      source: sourceName,
+      date: dateStr,
+      author: rawArticle.author,
+      image_url: rawArticle.image_url,
+      video_embed_url: rawArticle.video_embed_url,
+    };
     const jsonPath = path.join(this.processedDir, `${filenameBase}.json`);
-    await fs.writeFile(jsonPath, JSON.stringify(processedArticle, null, 2), 'utf8');
+    await fs.writeFile(jsonPath, JSON.stringify(record, null, 2), 'utf8');
 
     // 2. Save Markdown
     const mdPath = path.join(this.markdownDir, `${filenameBase}.md`);
-    const dateStr = rawArticle.date || today;
-    const authorStr = rawArticle.author ? ` (Author: ${rawArticle.author})` : '';
 
     const imageStr = rawArticle.image_url ? `\nimage: "${rawArticle.image_url}"` : '';
     const videoStr = rawArticle.video_embed_url ? `\nvideo_embed_url: "${rawArticle.video_embed_url}"` : '';
