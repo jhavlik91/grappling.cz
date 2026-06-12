@@ -1,8 +1,8 @@
 import { Page } from 'playwright';
-import { ScraperModule, ArticleCandidate } from './base.types';
-import { RawArticle } from '../types/article';
-import { cleanText, extractVideoEmbed } from '../utils/normalize';
-import { logger } from '../utils/logger';
+import { ScraperModule, ArticleCandidate } from './base.types.js';
+import { RawArticle } from '../types/article.js';
+import { cleanText, extractVideoEmbed } from '../utils/normalize.js';
+import { logger } from '../utils/logger.js';
 
 export const flograpplingScraper: ScraperModule = {
   sourceName: 'FloGrappling',

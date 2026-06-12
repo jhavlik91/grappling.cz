@@ -1,8 +1,8 @@
 import { GoogleGenAI, Type } from '@google/genai';
 import { z } from 'zod';
-import { config } from '../config/env';
-import { logger } from '../utils/logger';
-import { systemPrompt, buildUserPrompt } from './prompts';
+import { config } from '../config/env.js';
+import { logger } from '../utils/logger.js';
+import { systemPrompt, buildUserPrompt } from './prompts.js';
 
 const ai = new GoogleGenAI({ apiKey: config.GEMINI_API_KEY });
 
