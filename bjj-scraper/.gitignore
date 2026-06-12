@@ -1,0 +1,9 @@
+# dependencies
+/node_modules
+
+# env (keep .env.example committed)
+.env
+.env.local
+
+# logs
+*.log
